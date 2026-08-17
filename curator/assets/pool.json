@@ -1,0 +1,369 @@
+{
+ "generated": "2026-08-07",
+ "window": {
+  "from": "2026-06-08",
+  "to": "2026-08-07"
+ },
+ "count": 30,
+ "items": [
+  {
+   "id": "1028235662",
+   "artist": "Valentín Elizalde",
+   "title": "El Gallo De Oro",
+   "released": "2026-07-17",
+   "genres": [
+    "Latin Music"
+   ],
+   "tracks": 25,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/c186aa7467b18479a47ce2cac965b655/500x500-000000-80-0-0.jpg",
+   "artistFans": 719213
+  },
+  {
+   "id": "1003583151",
+   "artist": "Kodak Black",
+   "title": "Kodak The Blessing",
+   "released": "2026-06-12",
+   "genres": [
+    "Rap/Hip Hop"
+   ],
+   "tracks": 26,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/831e8ea3d44cc9f71a6e5c9b7f88b3b6/500x500-000000-80-0-0.jpg",
+   "artistFans": 667540
+  },
+  {
+   "id": "1018111501",
+   "artist": "Cultura Profética",
+   "title": "En bucle",
+   "released": "2026-06-11",
+   "genres": [
+    "Reggae"
+   ],
+   "tracks": 18,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/3de3200697ce5346c1ab78838e33ca93/500x500-000000-80-0-0.jpg",
+   "artistFans": 541147
+  },
+  {
+   "id": "960714581",
+   "artist": "Adam Lambert",
+   "title": "ADAM",
+   "released": "2026-07-10",
+   "genres": [
+    "Pop"
+   ],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/d210a276332f8e616e0953c4878fe8d9/500x500-000000-80-0-0.jpg",
+   "artistFans": 498017
+  },
+  {
+   "id": "988473091",
+   "artist": "Alessandro Vilas Boas",
+   "title": "Deus Espírito",
+   "released": "2026-06-08",
+   "genres": [],
+   "tracks": 19,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/5def81effe4fe9e47ff86397a53c3610/500x500-000000-80-0-0.jpg",
+   "artistFans": 493239
+  },
+  {
+   "id": "960423451",
+   "artist": "Sleeping With Sirens",
+   "title": "An Ending In Itself",
+   "released": "2026-06-12",
+   "genres": [
+    "Rock"
+   ],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/7893c8fd4e619ca33c3167a354a2a537/500x500-000000-80-0-0.jpg",
+   "artistFans": 319743
+  },
+  {
+   "id": "949052301",
+   "artist": "Yes",
+   "title": "Aurora (Bonus Tracks Edition)",
+   "released": "2026-06-12",
+   "genres": [
+    "Pop",
+    "International Pop",
+    "Rock"
+   ],
+   "tracks": 10,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/30d92c954fa66153d89305e2cfd2dd8e/500x500-000000-80-0-0.jpg",
+   "artistFans": 311359
+  },
+  {
+   "id": "1007946721",
+   "artist": "Peggy Lee",
+   "title": "Too Marvelous For Words",
+   "released": "2026-06-12",
+   "genres": [
+    "Jazz"
+   ],
+   "tracks": 49,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/3ded564f4843b2d457ab8f8b11ca6e13/500x500-000000-80-0-0.jpg",
+   "artistFans": 240666
+  },
+  {
+   "id": "988534381",
+   "artist": "ISS",
+   "title": "VERSUS",
+   "released": "2026-06-19",
+   "genres": [
+    "Rap/Hip Hop"
+   ],
+   "tracks": 17,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/e4cc8430d6d72dc996eb9fdf1b06640b/500x500-000000-80-0-0.jpg",
+   "artistFans": 228245
+  },
+  {
+   "id": "957948511",
+   "artist": "Capleton",
+   "title": "Heights Of Fire",
+   "released": "2026-06-26",
+   "genres": [
+    "Reggae"
+   ],
+   "tracks": 16,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/21d1a19ddcf9c87843b4858023916b54/500x500-000000-80-0-0.jpg",
+   "artistFans": 207731
+  },
+  {
+   "id": "995866491",
+   "artist": "Rich'art",
+   "title": "Spiritualité",
+   "released": "2026-06-12",
+   "genres": [
+    "Jazz"
+   ],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/903377e04e1df214f60a9c938bbcdaba/500x500-000000-80-0-0.jpg",
+   "artistFans": 187661
+  },
+  {
+   "id": "1008658111",
+   "artist": "Rich'art",
+   "title": "Tout Autour De La Terre",
+   "released": "2026-06-26",
+   "genres": [
+    "Rock"
+   ],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/bb62f995704ff64e0aa47f281a0d75be/500x500-000000-80-0-0.jpg",
+   "artistFans": 187661
+  },
+  {
+   "id": "987215951",
+   "artist": "Rich'art",
+   "title": "Vivre En Harmonie",
+   "released": "2026-06-19",
+   "genres": [
+    "Pop"
+   ],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/06deb3ef48f4e07f2b54d5c41d223942/500x500-000000-80-0-0.jpg",
+   "artistFans": 187661
+  },
+  {
+   "id": "997706361",
+   "artist": "Tori Kelly",
+   "title": "God Must Really Love Me",
+   "released": "2026-06-12",
+   "genres": [
+    "R&B"
+   ],
+   "tracks": 14,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/85e8805a2936a2f589c15f26b487d123/500x500-000000-80-0-0.jpg",
+   "artistFans": 184144
+  },
+  {
+   "id": "1008350051",
+   "artist": "Maverick City Music",
+   "title": "Holy",
+   "released": "2026-06-26",
+   "genres": [],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/2ee62402f6f0cc33f6c77940f091fd6e/500x500-000000-80-0-0.jpg",
+   "artistFans": 134406
+  },
+  {
+   "id": "1009264211",
+   "artist": "Ultimo",
+   "title": "IL GIORNO CHE ASPETTAVO",
+   "released": "2026-06-19",
+   "genres": [
+    "Pop"
+   ],
+   "tracks": 10,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/bd1dfacb7af3aee698621f47e9c64b1f/500x500-000000-80-0-0.jpg",
+   "artistFans": 119216
+  },
+  {
+   "id": "986483111",
+   "artist": "Billy Ray Cyrus",
+   "title": "THE HILL",
+   "released": "2026-06-19",
+   "genres": [
+    "Country",
+    "Pop"
+   ],
+   "tracks": 10,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/fe9ec1d339bbf6b93be073a397416601/500x500-000000-80-0-0.jpg",
+   "artistFans": 109211
+  },
+  {
+   "id": "973307871",
+   "artist": "Ibeyi",
+   "title": "Offering",
+   "released": "2026-06-26",
+   "genres": [
+    "Alternative"
+   ],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/fd89a3adb180bcd021ad09bfb902fcfb/500x500-000000-80-0-0.jpg",
+   "artistFans": 106056
+  },
+  {
+   "id": "951501461",
+   "artist": "Sportfreunde Stiller",
+   "title": "Happy Birthday!",
+   "released": "2026-06-12",
+   "genres": [
+    "Rock"
+   ],
+   "tracks": 10,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/d207744f2195a6ff09d87d896fa74232/500x500-000000-80-0-0.jpg",
+   "artistFans": 105425
+  },
+  {
+   "id": "1002339461",
+   "artist": "Key Glock",
+   "title": "PROJECT X",
+   "released": "2026-06-19",
+   "genres": [
+    "Rap/Hip Hop"
+   ],
+   "tracks": 20,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/3d748cac975af272d9fa6bb28eebc299/500x500-000000-80-0-0.jpg",
+   "artistFans": 95760
+  },
+  {
+   "id": "987305501",
+   "artist": "Xandria",
+   "title": "Eclipse",
+   "released": "2026-08-05",
+   "genres": [
+    "Metal"
+   ],
+   "tracks": 4,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/f66885252af49c58b58cb30560c5d81a/500x500-000000-80-0-0.jpg",
+   "artistFans": 92974
+  },
+  {
+   "id": "1000589291",
+   "artist": "Kase.o",
+   "title": "Camisa de Fuerza",
+   "released": "2026-06-19",
+   "genres": [
+    "Rap/Hip Hop"
+   ],
+   "tracks": 16,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/97a8b45f41528e7f02f8fc003df36a39/500x500-000000-80-0-0.jpg",
+   "artistFans": 80086
+  },
+  {
+   "id": "1001335831",
+   "artist": "Ewa Farna",
+   "title": "ADHD POP",
+   "released": "2026-06-15",
+   "genres": [
+    "Pop"
+   ],
+   "tracks": 12,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/0e88e0d08a6a2202ccfed13d7fe6c213/500x500-000000-80-0-0.jpg",
+   "artistFans": 77341
+  },
+  {
+   "id": "1016456441",
+   "artist": "LADIPOE",
+   "title": "REVIVAL",
+   "released": "2026-07-17",
+   "genres": [
+    "Rap/Hip Hop"
+   ],
+   "tracks": 16,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/4ab9e4bba6662e1c44faa775fdd1733e/500x500-000000-80-0-0.jpg",
+   "artistFans": 73575
+  },
+  {
+   "id": "937404681",
+   "artist": "Ruel",
+   "title": "Kicking My Feet & Screaming",
+   "released": "2026-06-12",
+   "genres": [
+    "Pop"
+   ],
+   "tracks": 21,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/f180f2dfb39817ce9ac24abec3014237/500x500-000000-80-0-0.jpg",
+   "artistFans": 72771
+  },
+  {
+   "id": "997930801",
+   "artist": "Vince Gill",
+   "title": "50 Years From Home: A Mother's Prayer",
+   "released": "2026-06-12",
+   "genres": [
+    "Country"
+   ],
+   "tracks": 7,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/c548773746d0c74aefeaadcc2cad1990/500x500-000000-80-0-0.jpg",
+   "artistFans": 69305
+  },
+  {
+   "id": "1003522991",
+   "artist": "Francesca Michielin",
+   "title": "Magia Bianca",
+   "released": "2026-06-12",
+   "genres": [
+    "Pop"
+   ],
+   "tracks": 8,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/811601b8dbc61d1bf0715c232547b68b/500x500-000000-80-0-0.jpg",
+   "artistFans": 64959
+  },
+  {
+   "id": "980781901",
+   "artist": "Rhye",
+   "title": "JOY",
+   "released": "2026-06-12",
+   "genres": [
+    "Electro"
+   ],
+   "tracks": 6,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/c3fc6d44d436b9b44286751f1a559e57/500x500-000000-80-0-0.jpg",
+   "artistFans": 60941
+  },
+  {
+   "id": "1031783992",
+   "artist": "Cheba Warda",
+   "title": "Bghit La Liberté",
+   "released": "2026-07-19",
+   "genres": [],
+   "tracks": 8,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/b36e733e9195b7eeb3d162cd6f9fbdf5/500x500-000000-80-0-0.jpg",
+   "artistFans": 58467
+  },
+  {
+   "id": "917566011",
+   "artist": "The Hardkiss",
+   "title": "Grey Hound",
+   "released": "2026-06-11",
+   "genres": [
+    "Rock",
+    "Hard Rock",
+    "Metal"
+   ],
+   "tracks": 14,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/a0980876a95aaffc9cc312100399003b/500x500-000000-80-0-0.jpg",
+   "artistFans": 55400
+  }
+ ]
+}
