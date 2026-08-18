@@ -208,16 +208,42 @@ Three problems found by measuring, each one invisible until checked:
 | A 100%-rated Malayalam film nobody here has heard of is not orientation | Gate on **Wikipedia language count ≥ 15** — the same "is this actually known" test as artist followers and author back-catalogues |
 | Asking for scores, notability and details in one query timed the endpoint out every time (500s, 504s) | **Two queries**: core first, then details for the survivors only |
 
-**No poster is shown, on purpose.** Film posters are copyrighted, so free sources hold
-red-carpet and awards photography instead — only **3 of 66** films had anything
-poster-like, and one tip screen showed a photo of a film crew at the Goya Awards. The
-critics' score is rendered large as the visual instead. Honest, and it looks deliberate.
+**Posters come from TMDB, everything else from Wikidata.** Free sources cannot supply
+posters — they are copyrighted, so Commons holds red-carpet photography instead and only
+**3 of 66** films had anything poster-like. TMDB's free tier covers **288 of 289**; the
+odd film without one falls back to the critics' score drawn large.
+
+TMDB's terms require attribution wherever their artwork appears, so the film screen
+carries one quiet line. The key lives in a gitignored `.env`, is used only while
+building the pool, and never ships inside the app.
+
+⚠️ **TMDB's free tier is non-commercial only.** Fine while Art Club is personal; if it
+is ever released commercially this becomes a paid plan (\$149/mo at the time of
+writing) or the poster has to go.
 
 ### ⚠️ Not Spotify
 As of Feb 2026 Spotify removed its new-releases endpoint for new apps and restricted
 developer access. Do not build on it.
 
 ---
+
+## Licensing, if this is ever released commercially
+
+Checked against the actual terms, Aug 2026. **Not legal advice** — have someone qualified
+confirm before taking money.
+
+| Source | Used for | Commercial |
+|---|---|---|
+| **Wikidata** | all film data | ✅ CC0, public domain, no attribution needed |
+| **MusicBrainz** | what music is new | ✅ core data CC0 — *"no restrictions, no worries"* |
+| **TMDB** | film posters | ⚠️ free tier is non-commercial; paid plan otherwise |
+| **Deezer** | album art, genres, track counts, **artist popularity** | ❌ *"strictly limited for a non-commercial purpose"* |
+| **Open Library** | all book data and covers | ⚠️ *"does not assert any new copyright"* — a disclaimer, not a grant |
+
+**Deezer is the hard blocker.** Its terms forbid deriving revenue *"directly or
+indirectly"*, and it supplies four things at once — including the artist-follower gate
+that makes the music pool worth reading. A commercial version would need to replace it;
+**ListenBrainz** (also CC0, has listen counts) is the obvious candidate, untested.
 
 ## Money — open question
 

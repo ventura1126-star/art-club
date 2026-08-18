@@ -154,19 +154,23 @@ function toTip(kind, item, eyebrow) {
   if (kind === 'films') {
     return {
       eyebrow: eyebrow ?? "Today's film",
-      // No poster. Film posters are copyrighted, so the free sources hold
-      // red-carpet and awards photography instead -- only 3 of 66 films had
-      // anything poster-like. The critics' score stands in as the visual: it is
-      // the one thing this category has that music and books do not.
-      score: item.score,
-      aspect: 3 / 2,
+      cover: item.cover,
+      // With a poster the card matches the other two categories; without one the
+      // critics' score is drawn large instead, which beats an empty grey box.
+      score: item.cover ? null : item.score,
+      aspect: item.cover ? 2 / 3 : 3 / 2,
+      fit: 'cover',
       title: item.title,
       subtitle: item.director || '',
       facts: [
         item.released ? item.released.slice(0, 4) : null,
         item.genres?.length ? item.genres.join(' \u00b7 ') : null,
         item.runtime ? `${item.runtime} min` : null,
+        // The one category with a real critical verdict rather than popularity.
+        item.score ? `${item.score}% critics` : null,
       ],
+      // Required by TMDB's terms whenever their artwork is shown.
+      attribution: item.cover ? 'Posters via TMDB. Not endorsed or certified by TMDB.' : null,
     };
   }
   return {
@@ -310,6 +314,9 @@ function Card({ tip, footnote }) {
 
       {facts.length > 0 && <Text style={styles.facts}>{facts.join('   ·   ')}</Text>}
       {footnote ? <Text style={styles.footnote}>{footnote}</Text> : null}
+      {tip.attribution ? (
+        <Text style={styles.attribution}>{tip.attribution}</Text>
+      ) : null}
     </View>
   );
 }
@@ -420,6 +427,7 @@ const styles = StyleSheet.create({
 
   facts: { fontSize: 15, color: theme.muted, lineHeight: 22 },
   footnote: { marginTop: 28, fontSize: 14, color: theme.muted, fontStyle: 'italic' },
+  attribution: { marginTop: 18, fontSize: 11, color: theme.rule, letterSpacing: 0.2 },
 
   // Quiet on purpose: available when wanted, never competing with today's tip.
   pastLink: {

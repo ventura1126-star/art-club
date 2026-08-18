@@ -9,6 +9,7 @@
    "released": "2023-01-20",
    "langs": 41,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg",
    "runtime": 97,
    "director": "Mstyslav Chernov",
    "genres": [
@@ -22,6 +23,7 @@
    "released": "2023-08-09",
    "langs": 15,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/4l68KHxnPSow8MvnGUpjqLzJtLJ.jpg",
    "runtime": 130,
    "director": "Um Tae-hwa",
    "genres": [
@@ -35,6 +37,7 @@
    "released": "2023-10-26",
    "langs": 17,
    "score": 100,
+   "cover": null,
    "runtime": 118,
    "director": "Paola Cortellesi",
    "genres": [
@@ -47,6 +50,7 @@
    "released": "2024-04-04",
    "langs": 23,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
    "runtime": 125,
    "director": "Pat Boonnitipat",
    "genres": [
@@ -60,6 +64,7 @@
    "released": "2024-10-27",
    "langs": 30,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg",
    "runtime": 79,
    "director": "Nick Park",
    "genres": [
@@ -68,26 +73,14 @@
    ]
   },
   {
-   "id": "no-other-choice",
-   "title": "No Other Choice",
-   "released": "2025-08-29",
-   "langs": 26,
-   "score": 100,
-   "runtime": 139,
-   "director": "Park Chan-wook",
-   "genres": [
-    "black comedy film",
-    "thriller film"
-   ]
-  },
-  {
    "id": "no-other-land",
    "title": "No Other Land",
    "released": "2024-01-01",
    "langs": 28,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/s7XYieuZg9kMe07i9VI4bfGN4Pw.jpg",
    "runtime": 95,
-   "director": "Basel Adra",
+   "director": "Rachel Szor",
    "genres": [
     "documentary film"
    ]
@@ -98,6 +91,7 @@
    "released": "2024-05-23",
    "langs": 26,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/ruImrzB4POsrgwCMozmOBV67zs5.jpg",
    "runtime": 118,
    "director": "Payal Kapadia",
    "genres": [
@@ -110,6 +104,7 @@
    "released": "2025-09-05",
    "langs": 15,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/mZjkRpTFfcdsTmtIAzKVM87I94R.jpg",
    "runtime": 147,
    "director": "Ildikó Enyedi",
    "genres": [
@@ -122,6 +117,7 @@
    "released": "2025-10-22",
    "langs": 17,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/c7p06jlv8Lp2B5HjUhmFRTRaqJS.jpg",
    "runtime": 122,
    "director": "François Ozon",
    "genres": [
@@ -130,11 +126,26 @@
    ]
   },
   {
+   "id": "no-other-choice",
+   "title": "No Other Choice",
+   "released": "2025-08-29",
+   "langs": 26,
+   "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+   "runtime": 139,
+   "director": "Park Chan-wook",
+   "genres": [
+    "black comedy film",
+    "thriller film"
+   ]
+  },
+  {
    "id": "mr-nobody-against-putin",
    "title": "Mr. Nobody Against Putin",
    "released": "2025-01-25",
    "langs": 30,
    "score": 100,
+   "cover": "https://image.tmdb.org/t/p/w500/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
    "runtime": 90,
    "director": "David Borenstein",
    "genres": [
@@ -147,11 +158,12 @@
    "released": "2023-04-23",
    "langs": 17,
    "score": 99,
+   "cover": "https://image.tmdb.org/t/p/w500/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg",
    "runtime": 105,
    "director": "Kelly Fremon Craig",
    "genres": [
     "coming-of-age film",
-    "comedy drama"
+    "teen film"
    ]
   },
   {
@@ -160,6 +172,7 @@
    "released": "2023-10-13",
    "langs": 20,
    "score": 99,
+   "cover": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
    "runtime": 165,
    "director": "Sam Wrench",
    "genres": [
@@ -173,6 +186,7 @@
    "released": "2024-05-18",
    "langs": 15,
    "score": 99,
+   "cover": "https://image.tmdb.org/t/p/w500/vRUsEXHm9iJgXuf8k4BiTLCnUb0.jpg",
    "runtime": 111,
    "director": "Jia Zhangke",
    "genres": [
@@ -185,11 +199,12 @@
    "released": "2025-05-18",
    "langs": 29,
    "score": 99,
+   "cover": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
    "runtime": 160,
    "director": "Kleber Mendonça Filho",
    "genres": [
-    "political thriller film",
-    "historical film"
+    "historical film",
+    "political thriller film"
    ]
   },
   {
@@ -198,6 +213,7 @@
    "released": "2024-08-30",
    "langs": 18,
    "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/o21NB4f5fNk1dtrRlyAmA0C0cb3.jpg",
    "runtime": 135,
    "director": "Sean McNamara",
    "genres": [
@@ -206,24 +222,12 @@
    ]
   },
   {
-   "id": "blackberry",
-   "title": "BlackBerry",
-   "released": "2023-01-01",
-   "langs": 17,
-   "score": 98,
-   "runtime": 122,
-   "director": "Matt Johnson",
-   "genres": [
-    "biographical film",
-    "comedy drama"
-   ]
-  },
-  {
    "id": "fallen-leaves",
    "title": "Fallen Leaves",
    "released": "2023-05-22",
    "langs": 27,
    "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg",
    "runtime": 81,
    "director": "Aki Kaurismäki",
    "genres": [
@@ -232,11 +236,26 @@
    ]
   },
   {
+   "id": "godzilla-minus-one",
+   "title": "Godzilla Minus One",
+   "released": "2023-11-01",
+   "langs": 27,
+   "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+   "runtime": 125,
+   "director": "Takashi Yamazaki",
+   "genres": [
+    "kaiju",
+    "monster film"
+   ]
+  },
+  {
    "id": "the-three-musketeers-d-artagnan",
    "title": "The Three Musketeers: D'Artagnan",
    "released": "2023-04-05",
    "langs": 24,
    "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
    "runtime": 121,
    "director": "Martin Bourboulon",
    "genres": [
@@ -245,28 +264,17 @@
    ]
   },
   {
-   "id": "godzilla-minus-one",
-   "title": "Godzilla Minus One",
-   "released": "2023-11-01",
-   "langs": 27,
+   "id": "blackberry",
+   "title": "BlackBerry",
+   "released": "2023-01-01",
+   "langs": 17,
    "score": 98,
-   "runtime": 125,
-   "director": "Takashi Yamazaki",
+   "cover": "https://image.tmdb.org/t/p/w500/ePWKQzOnwabMcJsWYWIiy5p1Ofr.jpg",
+   "runtime": 122,
+   "director": "Matt Johnson",
    "genres": [
-    "thriller film",
-    "monster film"
-   ]
-  },
-  {
-   "id": "sing-sing",
-   "title": "Sing Sing",
-   "released": "2023-09-10",
-   "langs": 22,
-   "score": 98,
-   "runtime": 105,
-   "director": "Greg Kwedar",
-   "genres": [
-    "drama film"
+    "comedy drama",
+    "biographical film"
    ]
   },
   {
@@ -275,6 +283,7 @@
    "released": "2024-01-18",
    "langs": 16,
    "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
    "runtime": 97,
    "director": "Josh Margolin",
    "genres": [
@@ -283,11 +292,25 @@
    ]
   },
   {
+   "id": "sing-sing",
+   "title": "Sing Sing",
+   "released": "2023-09-10",
+   "langs": 22,
+   "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg",
+   "runtime": 105,
+   "director": "Greg Kwedar",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
    "id": "the-voice-of-hind-rajab",
    "title": "The Voice of Hind Rajab",
    "released": "2025-09-03",
    "langs": 27,
    "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
    "runtime": 89,
    "director": "Kaouther Ben Hania",
    "genres": [
@@ -301,23 +324,11 @@
    "released": "2025-05-20",
    "langs": 33,
    "score": 98,
+   "cover": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
    "runtime": 105,
    "director": "Jafar Panahi",
    "genres": [
     "drama film"
-   ]
-  },
-  {
-   "id": "late-night-with-the-devil",
-   "title": "Late Night with the Devil",
-   "released": "2023-03-10",
-   "langs": 19,
-   "score": 97,
-   "runtime": 92,
-   "director": "Colin Cairnes",
-   "genres": [
-    "satanic film",
-    "found footage film"
    ]
   },
   {
@@ -326,6 +337,7 @@
    "released": "2023-10-27",
    "langs": 38,
    "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
    "runtime": 133,
    "director": "Alexander Payne",
    "genres": [
@@ -339,6 +351,7 @@
    "released": "2023-08-31",
    "langs": 23,
    "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
    "runtime": 122,
    "director": "Nikolaj Arcel",
    "genres": [
@@ -351,10 +364,25 @@
    "released": "2023-05-19",
    "langs": 19,
    "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/yQyoFCBLGJH5HXESmJAzaiXw9zU.jpg",
    "runtime": 91,
    "director": "Molly Manning Walker",
    "genres": [
     "drama film"
+   ]
+  },
+  {
+   "id": "late-night-with-the-devil",
+   "title": "Late Night with the Devil",
+   "released": "2023-03-10",
+   "langs": 19,
+   "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+   "runtime": 92,
+   "director": "Colin Cairnes",
+   "genres": [
+    "satanic film",
+    "found footage film"
    ]
   },
   {
@@ -363,6 +391,7 @@
    "released": "2023-05-24",
    "langs": 26,
    "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/gZsXtzwI3CgCvKF5TkgHVhhbEg1.jpg",
    "runtime": 134,
    "director": "Trần Anh Hùng",
    "genres": [
@@ -371,38 +400,14 @@
    ]
   },
   {
-   "id": "sinners",
-   "title": "Sinners",
-   "released": "2025-04-16",
-   "langs": 47,
-   "score": 97,
-   "runtime": 137,
-   "director": "Ryan Coogler",
-   "genres": [
-    "vampire film",
-    "thriller film"
-   ]
-  },
-  {
-   "id": "the-seed-of-the-sacred-fig",
-   "title": "The Seed of the Sacred Fig",
-   "released": "2024-05-24",
-   "langs": 29,
-   "score": 97,
-   "runtime": 168,
-   "director": "Mohammad Rasoulof",
-   "genres": [
-    "drama film"
-   ]
-  },
-  {
    "id": "young-mothers",
    "title": "Young Mothers",
    "released": "2025-05-23",
    "langs": 15,
    "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/okfaa71H1P0WC1uzYliOgYS2gte.jpg",
    "runtime": null,
-   "director": "Jean-Pierre Dardenne",
+   "director": "Luc Dardenne",
    "genres": [
     "drama film"
    ]
@@ -413,6 +418,7 @@
    "released": "2024-09-01",
    "langs": 34,
    "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
    "runtime": 135,
    "director": "Walter Salles",
    "genres": [
@@ -421,24 +427,12 @@
    ]
   },
   {
-   "id": "sentimental-value",
-   "title": "Sentimental Value",
-   "released": "2025-05-21",
-   "langs": 39,
-   "score": 97,
-   "runtime": 133,
-   "director": "Joachim Trier",
-   "genres": [
-    "comedy drama",
-    "comedy film"
-   ]
-  },
-  {
    "id": "sorry-baby",
    "title": "Sorry, Baby",
    "released": "2025-01-27",
    "langs": 18,
    "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg",
    "runtime": 103,
    "director": "Eva Victor",
    "genres": [
@@ -447,40 +441,44 @@
    ]
   },
   {
-   "id": "the-blue-caftan",
-   "title": "The Blue Caftan",
-   "released": "2023-02-10",
-   "langs": 20,
-   "score": 96,
-   "runtime": 122,
-   "director": "Maryam Touzani",
+   "id": "sinners",
+   "title": "Sinners",
+   "released": "2025-04-16",
+   "langs": 47,
+   "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+   "runtime": 137,
+   "director": "Ryan Coogler",
    "genres": [
-    "LGBTQ-related film",
-    "romance film"
+    "vampire film",
+    "thriller film"
    ]
   },
   {
-   "id": "the-teachers-lounge",
-   "title": "The Teachers' Lounge",
-   "released": "2023-05-04",
-   "langs": 21,
-   "score": 96,
-   "runtime": 99,
-   "director": "İlker Çatak",
+   "id": "sentimental-value",
+   "title": "Sentimental Value",
+   "released": "2025-05-21",
+   "langs": 39,
+   "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+   "runtime": 133,
+   "director": "Joachim Trier",
+   "genres": [
+    "comedy drama",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "the-seed-of-the-sacred-fig",
+   "title": "The Seed of the Sacred Fig",
+   "released": "2024-05-24",
+   "langs": 29,
+   "score": 97,
+   "cover": "https://image.tmdb.org/t/p/w500/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+   "runtime": 168,
+   "director": "Mohammad Rasoulof",
    "genres": [
     "drama film"
-   ]
-  },
-  {
-   "id": "on-the-adamant",
-   "title": "On the Adamant",
-   "released": "2023-09-14",
-   "langs": 15,
-   "score": 96,
-   "runtime": 109,
-   "director": "Nicolas Philibert",
-   "genres": [
-    "documentary film"
    ]
   },
   {
@@ -489,50 +487,12 @@
    "released": "2023-05-17",
    "langs": 26,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg",
    "runtime": 127,
    "director": "Hirokazu Koreeda",
    "genres": [
-    "LGBTQ-related film",
-    "coming-of-age film"
-   ]
-  },
-  {
-   "id": "the-count-of-monte-cristo",
-   "title": "The Count of Monte Cristo",
-   "released": "2024-05-22",
-   "langs": 25,
-   "score": 96,
-   "runtime": 173,
-   "director": "Alexandre de La Patellière",
-   "genres": [
-    "historical film",
-    "thriller film"
-   ]
-  },
-  {
-   "id": "io-capitano",
-   "title": "Io capitano",
-   "released": "2023-09-06",
-   "langs": 23,
-   "score": 96,
-   "runtime": 121,
-   "director": "Matteo Garrone",
-   "genres": [
-    "docudrama",
-    "adventure film"
-   ]
-  },
-  {
-   "id": "anatomy-of-a-fall",
-   "title": "Anatomy of a Fall",
-   "released": "2023-05-21",
-   "langs": 45,
-   "score": 96,
-   "runtime": 150,
-   "director": "Justine Triet",
-   "genres": [
-    "trial film",
-    "thriller film"
+    "coming-of-age film",
+    "LGBTQ-related film"
    ]
   },
   {
@@ -541,6 +501,7 @@
    "released": "2023-08-31",
    "langs": 23,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
    "runtime": 105,
    "director": "Andrew Haigh",
    "genres": [
@@ -549,11 +510,40 @@
    ]
   },
   {
+   "id": "the-blue-caftan",
+   "title": "The Blue Caftan",
+   "released": "2023-02-10",
+   "langs": 20,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/a4ipoP8RnMsISuAkzupbZj4mTKI.jpg",
+   "runtime": 122,
+   "director": "Maryam Touzani",
+   "genres": [
+    "LGBTQ-related film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "anatomy-of-a-fall",
+   "title": "Anatomy of a Fall",
+   "released": "2023-05-21",
+   "langs": 45,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+   "runtime": 150,
+   "director": "Justine Triet",
+   "genres": [
+    "thriller film",
+    "trial film"
+   ]
+  },
+  {
    "id": "perfect-days",
    "title": "Perfect Days",
    "released": "2023-05-25",
    "langs": 31,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
    "runtime": 123,
    "director": "Wim Wenders",
    "genres": [
@@ -567,6 +557,7 @@
    "released": "2023-05-19",
    "langs": 21,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/iSpJ6fg1OOSO30IUkZskZDufVzN.jpg",
    "runtime": 110,
    "director": "Kaouther Ben Hania",
    "genres": [
@@ -574,16 +565,57 @@
    ]
   },
   {
-   "id": "strange-darling",
-   "title": "Strange Darling",
-   "released": "2023-01-01",
-   "langs": 17,
+   "id": "the-count-of-monte-cristo",
+   "title": "The Count of Monte Cristo",
+   "released": "2024-05-22",
+   "langs": 25,
    "score": 96,
-   "runtime": 96,
-   "director": "JT Mollner",
+   "cover": "https://image.tmdb.org/t/p/w500/sAT1P3FGhtJ68anUyJScnMu8t1l.jpg",
+   "runtime": 173,
+   "director": "Alexandre de La Patellière",
    "genres": [
-    "thriller film",
-    "horror film"
+    "historical film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "io-capitano",
+   "title": "Io capitano",
+   "released": "2023-09-06",
+   "langs": 23,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg",
+   "runtime": 121,
+   "director": "Matteo Garrone",
+   "genres": [
+    "docudrama",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "the-teachers-lounge",
+   "title": "The Teachers' Lounge",
+   "released": "2023-05-04",
+   "langs": 21,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg",
+   "runtime": 99,
+   "director": "İlker Çatak",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "on-the-adamant",
+   "title": "On the Adamant",
+   "released": "2023-09-14",
+   "langs": 15,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/g4j8NiY6JZ6zHdWktCbPHaCG1HJ.jpg",
+   "runtime": 109,
+   "director": "Nicolas Philibert",
+   "genres": [
+    "documentary film"
    ]
   },
   {
@@ -592,11 +624,26 @@
    "released": "2024-01-18",
    "langs": 18,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/gEbQi5QWUg3CQ9R5dwvPBvbOX17.jpg",
    "runtime": 105,
    "director": "Rich Peppiatt",
    "genres": [
-    "docudrama",
-    "comedy drama"
+    "comedy drama",
+    "docudrama"
+   ]
+  },
+  {
+   "id": "strange-darling",
+   "title": "Strange Darling",
+   "released": "2023-01-01",
+   "langs": 17,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+   "runtime": 96,
+   "director": "JT Mollner",
+   "genres": [
+    "thriller film",
+    "horror film"
    ]
   },
   {
@@ -605,6 +652,7 @@
    "released": "2023-07-12",
    "langs": 51,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
    "runtime": 163,
    "director": "Christopher McQuarrie",
    "genres": [
@@ -613,52 +661,16 @@
    ]
   },
   {
-   "id": "the-ugly-stepsister",
-   "title": "The Ugly Stepsister",
-   "released": "2025-01-23",
-   "langs": 26,
-   "score": 96,
-   "runtime": 109,
-   "director": "Emilie Blichfeldt",
-   "genres": [
-    "satirical film",
-    "body horror film"
-   ]
-  },
-  {
    "id": "a-real-pain",
    "title": "A Real Pain",
    "released": "2024-01-20",
    "langs": 33,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
    "runtime": 90,
    "director": "Jesse Eisenberg",
    "genres": [
     "comedy drama"
-   ]
-  },
-  {
-   "id": "porcelain-war",
-   "title": "Porcelain War",
-   "released": "2024-01-01",
-   "langs": 19,
-   "score": 96,
-   "runtime": 87,
-   "director": "Slava Leontyev",
-   "genres": [
-    "documentary film"
-   ]
-  },
-  {
-   "id": "sound-of-falling",
-   "title": "Sound of Falling",
-   "released": "2025-05-14",
-   "langs": 20,
-   "score": 96,
-   "runtime": 149,
-   "director": "Mascha Schilinski",
-   "genres": [
-    "drama film"
    ]
   },
   {
@@ -667,6 +679,7 @@
    "released": "2024-09-06",
    "langs": 18,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
    "runtime": 131,
    "director": "Jeremy Saulnier",
    "genres": [
@@ -680,6 +693,7 @@
    "released": "2025-03-12",
    "langs": 24,
    "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
    "runtime": 93,
    "director": "Steven Soderbergh",
    "genres": [
@@ -688,15 +702,43 @@
    ]
   },
   {
-   "id": "past-lives",
-   "title": "Past Lives",
-   "released": "2023-01-21",
-   "langs": 37,
-   "score": 95,
-   "runtime": 106,
-   "director": "Celine Song",
+   "id": "porcelain-war",
+   "title": "Porcelain War",
+   "released": "2024-01-01",
+   "langs": 19,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/qaj6qrQOHHW7mm914ML32v7UcY.jpg",
+   "runtime": 87,
+   "director": "Brendan Bellomo",
+   "genres": [
+    "documentary film"
+   ]
+  },
+  {
+   "id": "sound-of-falling",
+   "title": "Sound of Falling",
+   "released": "2025-05-14",
+   "langs": 20,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/5hLiXAqZ3xTHExOIsxYANIswBjZ.jpg",
+   "runtime": 149,
+   "director": "Mascha Schilinski",
    "genres": [
     "drama film"
+   ]
+  },
+  {
+   "id": "the-ugly-stepsister",
+   "title": "The Ugly Stepsister",
+   "released": "2025-01-23",
+   "langs": 26,
+   "score": 96,
+   "cover": "https://image.tmdb.org/t/p/w500/rayAREIKtSinuov10GvrZHyXfXH.jpg",
+   "runtime": 109,
+   "director": "Emilie Blichfeldt",
+   "genres": [
+    "satirical film",
+    "body horror film"
    ]
   },
   {
@@ -705,6 +747,7 @@
    "released": "2023-06-14",
    "langs": 20,
    "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",
    "runtime": null,
    "director": "Juel Taylor",
    "genres": [
@@ -718,6 +761,7 @@
    "released": "2023-09-05",
    "langs": 24,
    "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
    "runtime": 115,
    "director": "Richard Linklater",
    "genres": [
@@ -726,11 +770,25 @@
    ]
   },
   {
+   "id": "past-lives",
+   "title": "Past Lives",
+   "released": "2023-01-21",
+   "langs": 37,
+   "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+   "runtime": 106,
+   "director": "Celine Song",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
    "id": "teenage-mutant-ninja-turtles-mutant-mayhem",
    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
    "released": "2023-06-12",
    "langs": 31,
    "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
    "runtime": 99,
    "director": "Jeff Rowe",
    "genres": [
@@ -744,23 +802,11 @@
    "released": "2024-01-01",
    "langs": 20,
    "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/9d8KvJ3OjUq9rwuM743QPQO48aL.jpg",
    "runtime": 67,
    "director": "Mati Diop",
    "genres": [
     "documentary film"
-   ]
-  },
-  {
-   "id": "train-dreams",
-   "title": "Train Dreams",
-   "released": "2025-01-01",
-   "langs": 40,
-   "score": 95,
-   "runtime": 102,
-   "director": "Clint Bentley",
-   "genres": [
-    "period drama film",
-    "drama film"
    ]
   },
   {
@@ -769,9 +815,24 @@
    "released": "2024-09-06",
    "langs": 16,
    "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/eEj1TGrGc4IQ8bscFC17Ggdg6ft.jpg",
    "runtime": 97,
    "director": "Mike Leigh",
    "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "train-dreams",
+   "title": "Train Dreams",
+   "released": "2025-01-01",
+   "langs": 40,
+   "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/jnaOmD9PmAkNjgVtCn17o7clOYe.jpg",
+   "runtime": 102,
+   "director": "Clint Bentley",
+   "genres": [
+    "period drama film",
     "drama film"
    ]
   },
@@ -781,6 +842,7 @@
    "released": "2025-09-21",
    "langs": 15,
    "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/roCMOuMQ55Z2TxVx1vZZTevlo0n.jpg",
    "runtime": 89,
    "director": "Jalmari Helander",
    "genres": [
@@ -793,6 +855,7 @@
    "released": "2026-03-18",
    "langs": 46,
    "score": 95,
+   "cover": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
    "runtime": 156,
    "director": "Phil Lord",
    "genres": [
@@ -801,36 +864,12 @@
    ]
   },
   {
-   "id": "reality",
-   "title": "Reality",
-   "released": "2023-02-18",
-   "langs": 18,
-   "score": 94,
-   "runtime": 82,
-   "director": "Tina Satter",
-   "genres": [
-    "crime film",
-    "biographical film"
-   ]
-  },
-  {
-   "id": "american-fiction",
-   "title": "American Fiction",
-   "released": "2023-09-08",
-   "langs": 31,
-   "score": 94,
-   "runtime": 117,
-   "director": "Cord Jefferson",
-   "genres": [
-    "drama film"
-   ]
-  },
-  {
    "id": "love-lies-bleeding",
    "title": "Love Lies Bleeding",
    "released": "2024-01-20",
    "langs": 28,
    "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/xImj8RLe39YK0lyVu9kXv7ApN8p.jpg",
    "runtime": 104,
    "director": "Rose Glass",
    "genres": [
@@ -844,6 +883,7 @@
    "released": "2023-05-26",
    "langs": 24,
    "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/dV6SYHmmFLXQU7oKRfK4pOFCX6M.jpg",
    "runtime": 130,
    "director": "Alice Rohrwacher",
    "genres": [
@@ -852,15 +892,29 @@
    ]
   },
   {
-   "id": "the-monk-and-the-gun",
-   "title": "The Monk and the Gun",
-   "released": "2023-09-01",
-   "langs": 15,
+   "id": "reality",
+   "title": "Reality",
+   "released": "2023-02-18",
+   "langs": 18,
    "score": 94,
-   "runtime": 107,
-   "director": "Pawo Choyning Dorji",
+   "cover": "https://image.tmdb.org/t/p/w500/rTEYxSDo9aJTTbM0zuMMLgzJcUJ.jpg",
+   "runtime": 82,
+   "director": "Tina Satter",
    "genres": [
-    "comedy film",
+    "crime film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "american-fiction",
+   "title": "American Fiction",
+   "released": "2023-09-08",
+   "langs": 31,
+   "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+   "runtime": 117,
+   "director": "Cord Jefferson",
+   "genres": [
     "drama film"
    ]
   },
@@ -870,10 +924,25 @@
    "released": "2025-05-14",
    "langs": 15,
    "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/wV8A0YX9bVJ7CGnUAqDJtyYv6C2.jpg",
    "runtime": 117,
    "director": "Sergei Loznitsa",
    "genres": [
     "historical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-monk-and-the-gun",
+   "title": "The Monk and the Gun",
+   "released": "2023-09-01",
+   "langs": 15,
+   "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/nhGaCXeBvFo7495aIZr261l6kb0.jpg",
+   "runtime": 107,
+   "director": "Pawo Choyning Dorji",
+   "genres": [
+    "comedy film",
     "drama film"
    ]
   },
@@ -883,6 +952,7 @@
    "released": "2023-03-22",
    "langs": 50,
    "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
    "runtime": 169,
    "director": "Chad Stahelski",
    "genres": [
@@ -896,6 +966,7 @@
    "released": "2025-09-08",
    "langs": 52,
    "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
    "runtime": 9691,
    "director": "Paul Thomas Anderson",
    "genres": [
@@ -909,6 +980,7 @@
    "released": "2025-12-25",
    "langs": 34,
    "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
    "runtime": 150,
    "director": "Josh Safdie",
    "genres": [
@@ -921,6 +993,7 @@
    "released": "2026-07-06",
    "langs": 61,
    "score": 94,
+   "cover": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "runtime": 172,
    "director": "Christopher Nolan",
    "genres": [
@@ -934,6 +1007,7 @@
    "released": "2024-09-01",
    "langs": 43,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
    "runtime": 215,
    "director": "Brady Corbet",
    "genres": [
@@ -942,24 +1016,12 @@
    ]
   },
   {
-   "id": "the-zone-of-interest",
-   "title": "The Zone of Interest",
-   "released": "2023-05-19",
-   "langs": 43,
-   "score": 93,
-   "runtime": 105,
-   "director": "Jonathan Glazer",
-   "genres": [
-    "historical drama",
-    "historical film"
-   ]
-  },
-  {
    "id": "green-border",
    "title": "Green Border",
    "released": "2023-09-05",
    "langs": 20,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/oV5UYkwCq1ZnPhjc6y53LxhRcue.jpg",
    "runtime": 147,
    "director": "Agnieszka Holland",
    "genres": [
@@ -972,6 +1034,7 @@
    "released": "2024-02-15",
    "langs": 23,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/rdcO38cbWFg002nXg5QYtk7Tz4L.jpg",
    "runtime": 98,
    "director": "Tim Mielants",
    "genres": [
@@ -984,6 +1047,7 @@
    "released": "2024-01-21",
    "langs": 21,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",
    "runtime": 112,
    "director": "Aaron Schimberg",
    "genres": [
@@ -996,11 +1060,26 @@
    "released": "2024-10-27",
    "langs": 26,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
    "runtime": 114,
    "director": "Clint Eastwood",
    "genres": [
-    "trial film",
-    "thriller film"
+    "thriller film",
+    "trial film"
+   ]
+  },
+  {
+   "id": "the-zone-of-interest",
+   "title": "The Zone of Interest",
+   "released": "2023-05-19",
+   "langs": 43,
+   "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+   "runtime": 105,
+   "director": "Jonathan Glazer",
+   "genres": [
+    "historical film",
+    "historical drama"
    ]
   },
   {
@@ -1009,6 +1088,7 @@
    "released": "2024-05-21",
    "langs": 53,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
    "runtime": 139,
    "director": "Sean Baker",
    "genres": [
@@ -1021,23 +1101,12 @@
    "released": "2023-05-20",
    "langs": 51,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
    "runtime": 206,
    "director": "Martin Scorsese",
    "genres": [
-    "detective film",
-    "crime thriller film"
-   ]
-  },
-  {
-   "id": "the-girl-with-the-needle",
-   "title": "The Girl with the Needle",
-   "released": "2024-05-15",
-   "langs": 25,
-   "score": 93,
-   "runtime": 115,
-   "director": "Magnus von Horn",
-   "genres": [
-    "drama film"
+    "crime drama film",
+    "detective film"
    ]
   },
   {
@@ -1046,6 +1115,7 @@
    "released": "2024-01-23",
    "langs": 47,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
    "runtime": 121,
    "director": "Edward Berger",
    "genres": [
@@ -1054,11 +1124,40 @@
    ]
   },
   {
+   "id": "weapons",
+   "title": "Weapons",
+   "released": "2025-08-06",
+   "langs": 39,
+   "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+   "runtime": 128,
+   "director": "Zach Cregger",
+   "genres": [
+    "thriller film",
+    "mystery film"
+   ]
+  },
+  {
+   "id": "paddington-in-peru",
+   "title": "Paddington in Peru",
+   "released": "2024-11-08",
+   "langs": 30,
+   "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+   "runtime": 106,
+   "director": "Dougal Wilson",
+   "genres": [
+    "live-action/animated film",
+    "family film"
+   ]
+  },
+  {
    "id": "vermiglio",
    "title": "Vermiglio",
    "released": "2024-09-19",
    "langs": 22,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/aeCwM7c1Y1IAu3Oqqj5A2tSziWR.jpg",
    "runtime": 119,
    "director": "Maura Delpero",
    "genres": [
@@ -1072,6 +1171,7 @@
    "released": "2025-05-16",
    "langs": 24,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
    "runtime": 115,
    "director": "Óliver Laxe",
    "genres": [
@@ -1080,24 +1180,12 @@
    ]
   },
   {
-   "id": "weapons",
-   "title": "Weapons",
-   "released": "2025-08-06",
-   "langs": 39,
-   "score": 93,
-   "runtime": 128,
-   "director": "Zach Cregger",
-   "genres": [
-    "thriller film",
-    "mystery film"
-   ]
-  },
-  {
    "id": "companion",
    "title": "Companion",
    "released": "2025-01-25",
    "langs": 33,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
    "runtime": 97,
    "director": "Drew Hancock",
    "genres": [
@@ -1106,24 +1194,12 @@
    ]
   },
   {
-   "id": "paddington-in-peru",
-   "title": "Paddington in Peru",
-   "released": "2024-11-08",
-   "langs": 30,
-   "score": 93,
-   "runtime": 106,
-   "director": "Dougal Wilson",
-   "genres": [
-    "live-action/animated film",
-    "family film"
-   ]
-  },
-  {
    "id": "oppenheimer",
    "title": "Oppenheimer",
    "released": "2023-07-20",
    "langs": 81,
    "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
    "runtime": 10809,
    "director": "Christopher Nolan",
    "genres": [
@@ -1132,14 +1208,55 @@
    ]
   },
   {
+   "id": "the-girl-with-the-needle",
+   "title": "The Girl with the Needle",
+   "released": "2024-05-15",
+   "langs": 25,
+   "score": 93,
+   "cover": "https://image.tmdb.org/t/p/w500/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg",
+   "runtime": 115,
+   "director": "Magnus von Horn",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
    "id": "afire",
    "title": "Afire",
    "released": "2023-01-01",
    "langs": 15,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/k8NYzD01zAUsdqocjhLXbO9BSS8.jpg",
    "runtime": 102,
    "director": "Christian Petzold",
    "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-order",
+   "title": "The Order",
+   "released": "2024-08-31",
+   "langs": 22,
+   "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg",
+   "runtime": 144,
+   "director": "Justin Kurzel",
+   "genres": [
+    "crime thriller film"
+   ]
+  },
+  {
+   "id": "air",
+   "title": "Air",
+   "released": "2023-03-18",
+   "langs": 31,
+   "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+   "runtime": 112,
+   "director": "Ben Affleck",
+   "genres": [
+    "biographical film",
     "drama film"
    ]
   },
@@ -1149,6 +1266,7 @@
    "released": "2023-09-01",
    "langs": 49,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
    "runtime": 141,
    "director": "Yorgos Lanthimos",
    "genres": [
@@ -1162,6 +1280,7 @@
    "released": "2024-02-27",
    "langs": 57,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
    "runtime": 166,
    "director": "Denis Villeneuve",
    "genres": [
@@ -1170,39 +1289,15 @@
    ]
   },
   {
-   "id": "the-order",
-   "title": "The Order",
-   "released": "2024-08-31",
-   "langs": 22,
-   "score": 92,
-   "runtime": 144,
-   "director": "Justin Kurzel",
-   "genres": [
-    "crime thriller film"
-   ]
-  },
-  {
    "id": "about-dry-grasses",
    "title": "About Dry Grasses",
    "released": "2023-05-19",
    "langs": 20,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/mUFpdQSFAch1fMUb9MqHoESpmLS.jpg",
    "runtime": 197,
    "director": "Nuri Bilge Ceylan",
    "genres": [
-    "drama film"
-   ]
-  },
-  {
-   "id": "air",
-   "title": "Air",
-   "released": "2023-03-18",
-   "langs": 31,
-   "score": 92,
-   "runtime": 112,
-   "director": "Ben Affleck",
-   "genres": [
-    "biographical film",
     "drama film"
    ]
   },
@@ -1212,6 +1307,7 @@
    "released": "2024-07-12",
    "langs": 15,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/yNXfG1CBVzffksd2EkEpJ9NXFOT.jpg",
    "runtime": 121,
    "director": "Baltasar Kormákur",
    "genres": [
@@ -1220,11 +1316,26 @@
    ]
   },
   {
+   "id": "september-5",
+   "title": "September 5",
+   "released": "2024-01-01",
+   "langs": 23,
+   "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+   "runtime": 91,
+   "director": "Tim Fehlbaum",
+   "genres": [
+    "historical film",
+    "thriller film"
+   ]
+  },
+  {
    "id": "warfare",
    "title": "Warfare",
    "released": "2025-03-16",
    "langs": 21,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
    "runtime": 95,
    "director": "Alex Garland",
    "genres": [
@@ -1238,6 +1349,7 @@
    "released": "2025-05-14",
    "langs": 33,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
    "runtime": 110,
    "director": "Adam Stein",
    "genres": [
@@ -1251,6 +1363,7 @@
    "released": "2025-05-19",
    "langs": 20,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/nQXYTvm6AY4WmtcPskroqC7Skh.jpg",
    "runtime": 95,
    "director": "Genki Kawamura",
    "genres": [
@@ -1259,24 +1372,12 @@
    ]
   },
   {
-   "id": "september-5",
-   "title": "September 5",
-   "released": "2024-01-01",
-   "langs": 23,
-   "score": 92,
-   "runtime": 91,
-   "director": "Tim Fehlbaum",
-   "genres": [
-    "historical film",
-    "thriller film"
-   ]
-  },
-  {
    "id": "wake-up-dead-man",
    "title": "Wake Up Dead Man",
    "released": "2025-09-06",
    "langs": 32,
    "score": 92,
+   "cover": "https://image.tmdb.org/t/p/w500/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
    "runtime": 144,
    "director": "Rian Johnson",
    "genres": [
@@ -1285,11 +1386,39 @@
    ]
   },
   {
+   "id": "evil-does-not-exist",
+   "title": "Evil Does Not Exist",
+   "released": "2023-09-04",
+   "langs": 20,
+   "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/nC7MgPceKAEPWYq6aswrNzG8WAM.jpg",
+   "runtime": 106,
+   "director": "Ryusuke Hamaguchi",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "may-december",
+   "title": "May December",
+   "released": "2023-05-20",
+   "langs": 31,
+   "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+   "runtime": 113,
+   "director": "Todd Haynes",
+   "genres": [
+    "romance film",
+    "drama film"
+   ]
+  },
+  {
    "id": "dream-scenario",
    "title": "Dream Scenario",
    "released": "2023-09-09",
    "langs": 24,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg",
    "runtime": 100,
    "director": "Kristoffer Borgli",
    "genres": [
@@ -1303,6 +1432,7 @@
    "released": "2024-08-30",
    "langs": 26,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
    "runtime": 140,
    "director": "RaMell Ross",
    "genres": [
@@ -1316,6 +1446,7 @@
    "released": "2023-09-08",
    "langs": 17,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg",
    "runtime": 94,
    "director": "Anna Kendrick",
    "genres": [
@@ -1324,36 +1455,12 @@
    ]
   },
   {
-   "id": "evil-does-not-exist",
-   "title": "Evil Does Not Exist",
-   "released": "2023-09-04",
-   "langs": 20,
-   "score": 91,
-   "runtime": 106,
-   "director": "Ryusuke Hamaguchi",
-   "genres": [
-    "drama film"
-   ]
-  },
-  {
-   "id": "may-december",
-   "title": "May December",
-   "released": "2023-05-20",
-   "langs": 31,
-   "score": 91,
-   "runtime": 113,
-   "director": "Todd Haynes",
-   "genres": [
-    "romance film",
-    "drama film"
-   ]
-  },
-  {
    "id": "downton-abbey-the-grand-finale",
    "title": "Downton Abbey: The Grand Finale",
    "released": "2025-09-08",
    "langs": 21,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
    "runtime": 123,
    "director": "Simon Curtis",
    "genres": []
@@ -1364,10 +1471,25 @@
    "released": "2025-09-01",
    "langs": 18,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg",
    "runtime": 89,
    "director": "Johannes Roberts",
    "genres": [
     "horror film"
+   ]
+  },
+  {
+   "id": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "released": "2025-12-01",
+   "langs": 54,
+   "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+   "runtime": 197,
+   "director": "James Cameron",
+   "genres": [
+    "science fiction film",
+    "action film"
    ]
   },
   {
@@ -1376,6 +1498,7 @@
    "released": "2025-05-17",
    "langs": 25,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/yZUZAMsw31KfIg66eB00eJrYN8n.jpg",
    "runtime": 105,
    "director": "Richard Linklater",
    "genres": [
@@ -1389,6 +1512,7 @@
    "released": "2025-05-23",
    "langs": 19,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
    "runtime": null,
    "director": "Kelly Reichardt",
    "genres": [
@@ -1397,24 +1521,12 @@
    ]
   },
   {
-   "id": "avatar-fire-and-ash",
-   "title": "Avatar: Fire and Ash",
-   "released": "2025-12-01",
-   "langs": 54,
-   "score": 91,
-   "runtime": 197,
-   "director": "James Cameron",
-   "genres": [
-    "science fiction film",
-    "action film"
-   ]
-  },
-  {
    "id": "if-i-had-legs-i-d-kick-you",
    "title": "If I Had Legs I'd Kick You",
    "released": "2025-01-24",
    "langs": 20,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
    "runtime": 113,
    "director": "Mary Bronstein",
    "genres": [
@@ -1428,6 +1540,7 @@
    "released": "2023-10-27",
    "langs": 20,
    "score": 91,
+   "cover": "https://image.tmdb.org/t/p/w500/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg",
    "runtime": 146,
    "director": "Vidhu Vinod Chopra",
    "genres": []
@@ -1438,6 +1551,7 @@
    "released": "2024-05-15",
    "langs": 44,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
    "runtime": 148,
    "director": "George Miller",
    "genres": [
@@ -1451,6 +1565,7 @@
    "released": "2023-09-09",
    "langs": 35,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/2e853FDVSIso600RqAMunPxiZjq.jpg",
    "runtime": 144,
    "director": "J. A. Bayona",
    "genres": [
@@ -1464,6 +1579,7 @@
    "released": "2023-09-09",
    "langs": 26,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
    "runtime": 109,
    "director": "James Hawes",
    "genres": [
@@ -1477,9 +1593,24 @@
    "released": "2024-09-06",
    "langs": 20,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/d1CJaP0KJVM9pBkCh8up5MeZfGV.jpg",
    "runtime": null,
    "director": "Gia Coppola",
    "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "young-hearts",
+   "title": "Young Hearts",
+   "released": "2024-02-17",
+   "langs": 15,
+   "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+   "runtime": 97,
+   "director": "Anthony Schatteman",
+   "genres": [
+    "coming-of-age film",
     "drama film"
    ]
   },
@@ -1489,23 +1620,11 @@
    "released": "2025-03-08",
    "langs": 16,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
    "runtime": 72,
    "director": null,
    "genres": [
     "supernatural horror film"
-   ]
-  },
-  {
-   "id": "grand-tour",
-   "title": "Grand Tour",
-   "released": "2024-05-22",
-   "langs": 16,
-   "score": 90,
-   "runtime": 129,
-   "director": "Miguel Gomes",
-   "genres": [
-    "historical film",
-    "romance film"
    ]
   },
   {
@@ -1514,6 +1633,7 @@
    "released": "2025-02-18",
    "langs": 25,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
    "runtime": 100,
    "director": "Richard Linklater",
    "genres": [
@@ -1527,6 +1647,7 @@
    "released": "2024-10-04",
    "langs": 20,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/ua17wrOrUjyqxuYmnUrmOVBMf4G.jpg",
    "runtime": null,
    "director": "Dag Johan Haugerud",
    "genres": [
@@ -1539,6 +1660,7 @@
    "released": "2025-01-26",
    "langs": 21,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/80slKYVM5teFH3kz6ouWrZXveqj.jpg",
    "runtime": 102,
    "director": "Michael Shanks",
    "genres": [
@@ -1547,29 +1669,31 @@
    ]
   },
   {
-   "id": "young-hearts",
-   "title": "Young Hearts",
-   "released": "2024-02-17",
-   "langs": 15,
-   "score": 90,
-   "runtime": 97,
-   "director": "Anthony Schatteman",
-   "genres": [
-    "coming-of-age film",
-    "drama film"
-   ]
-  },
-  {
    "id": "heretic",
    "title": "Heretic",
    "released": "2024-11-08",
    "langs": 32,
    "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
    "runtime": 110,
-   "director": "Bryan Woods",
+   "director": "Scott Beck",
    "genres": [
     "thriller film",
     "horror film"
+   ]
+  },
+  {
+   "id": "grand-tour",
+   "title": "Grand Tour",
+   "released": "2024-05-22",
+   "langs": 16,
+   "score": 90,
+   "cover": "https://image.tmdb.org/t/p/w500/xp5fOqIcqUT1SL3UuvpriShW4w1.jpg",
+   "runtime": 129,
+   "director": "Miguel Gomes",
+   "genres": [
+    "historical film",
+    "romance film"
    ]
   },
   {
@@ -1578,11 +1702,12 @@
    "released": "2024-05-19",
    "langs": 50,
    "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/uYJvxMWMb9W4zIY3cbM50sj3dpC.jpg",
    "runtime": 141,
    "director": "Coralie Fargeat",
    "genres": [
-    "psychological thriller film",
-    "psychological horror film"
+    "science fiction horror film",
+    "desire horror fiction"
    ]
   },
   {
@@ -1591,6 +1716,7 @@
    "released": "2023-11-08",
    "langs": 24,
    "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
    "runtime": 132,
    "director": "Sean Durkin",
    "genres": [
@@ -1604,6 +1730,7 @@
    "released": "2024-03-11",
    "langs": 29,
    "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
    "runtime": 113,
    "director": "Dev Patel",
    "genres": [
@@ -1617,6 +1744,7 @@
    "released": "2023-03-01",
    "langs": 31,
    "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
    "runtime": 116,
    "director": "Michael B. Jordan",
    "genres": [
@@ -1625,41 +1753,16 @@
    ]
   },
   {
-   "id": "bring-her-back",
-   "title": "Bring Her Back",
-   "released": "2025-05-28",
-   "langs": 22,
-   "score": 89,
-   "runtime": 104,
-   "director": "Danny Philippou",
-   "genres": [
-    "supernatural horror film",
-    "thriller film"
-   ]
-  },
-  {
    "id": "bridget-jones-mad-about-the-boy",
    "title": "Bridget Jones: Mad About the Boy",
    "released": "2025-02-12",
    "langs": 26,
    "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/e5VR3nhLYG60znxaqU84wv4VSCb.jpg",
    "runtime": 125,
    "director": "Michael Morris",
    "genres": [
     "romantic comedy film"
-   ]
-  },
-  {
-   "id": "hedda",
-   "title": "Hedda",
-   "released": "2025-09-07",
-   "langs": 17,
-   "score": 89,
-   "runtime": null,
-   "director": "Nia DaCosta",
-   "genres": [
-    "LGBTQ-related film",
-    "drama film"
    ]
   },
   {
@@ -1668,6 +1771,7 @@
    "released": "2024-08-30",
    "langs": 19,
    "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
    "runtime": 135,
    "director": "Michael Gracey",
    "genres": [
@@ -1676,11 +1780,40 @@
    ]
   },
   {
+   "id": "bring-her-back",
+   "title": "Bring Her Back",
+   "released": "2025-05-28",
+   "langs": 22,
+   "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/fp4PvxoWb9bwsvInicJPXByj4CS.jpg",
+   "runtime": 104,
+   "director": "Danny Philippou",
+   "genres": [
+    "supernatural horror film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "hedda",
+   "title": "Hedda",
+   "released": "2025-09-07",
+   "langs": 17,
+   "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
+   "runtime": null,
+   "director": "Nia DaCosta",
+   "genres": [
+    "LGBTQ-related film",
+    "drama film"
+   ]
+  },
+  {
    "id": "spider-man-brand-new-day",
    "title": "Spider-Man: Brand New Day",
    "released": "2026-07-29",
-   "langs": 49,
+   "langs": 50,
    "score": 89,
+   "cover": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
    "runtime": 145,
    "director": "Destin Daniel Cretton",
    "genres": [
@@ -1694,6 +1827,7 @@
    "released": "2024-12-13",
    "langs": 26,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
    "runtime": 119,
    "director": "Jaume Collet-Serra",
    "genres": [
@@ -1702,24 +1836,12 @@
    ]
   },
   {
-   "id": "challengers",
-   "title": "Challengers",
-   "released": "2024-04-18",
-   "langs": 33,
-   "score": 88,
-   "runtime": 131,
-   "director": "Luca Guadagnino",
-   "genres": [
-    "sport film",
-    "romance film"
-   ]
-  },
-  {
    "id": "missing",
    "title": "Missing",
    "released": "2023-01-19",
    "langs": 25,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
    "runtime": 111,
    "director": "Will Merrick",
    "genres": [
@@ -1728,11 +1850,26 @@
    ]
   },
   {
+   "id": "challengers",
+   "title": "Challengers",
+   "released": "2024-04-18",
+   "langs": 33,
+   "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+   "runtime": 131,
+   "director": "Luca Guadagnino",
+   "genres": [
+    "sport film",
+    "romance film"
+   ]
+  },
+  {
    "id": "wicked",
    "title": "Wicked",
    "released": "2024-11-20",
    "langs": 46,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
    "runtime": 160,
    "director": "Jon M. Chu",
    "genres": [
@@ -1741,11 +1878,26 @@
    ]
   },
   {
+   "id": "28-years-later",
+   "title": "28 Years Later",
+   "released": "2025-06-20",
+   "langs": 42,
+   "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+   "runtime": 115,
+   "director": "Danny Boyle",
+   "genres": [
+    "zombie film",
+    "dystopian film"
+   ]
+  },
+  {
    "id": "thunderbolts",
    "title": "Thunderbolts*",
    "released": "2025-05-01",
    "langs": 47,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
    "runtime": 126,
    "director": "Jake Schreier",
    "genres": [
@@ -1759,6 +1911,7 @@
    "released": "2025-07-31",
    "langs": 32,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
    "runtime": 85,
    "director": "Akiva Schaffer",
    "genres": [
@@ -1771,6 +1924,7 @@
    "released": "2025-09-01",
    "langs": 20,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
    "runtime": 130,
    "director": "Mona Fastvold",
    "genres": [
@@ -1779,49 +1933,12 @@
    ]
   },
   {
-   "id": "the-piano-lesson",
-   "title": "The Piano Lesson",
-   "released": "2024-08-31",
-   "langs": 20,
-   "score": 88,
-   "runtime": 125,
-   "director": "Malcolm Washington",
-   "genres": [
-    "drama film"
-   ]
-  },
-  {
-   "id": "presence",
-   "title": "Presence",
-   "released": "2024-01-19",
-   "langs": 21,
-   "score": 88,
-   "runtime": 85,
-   "director": "Steven Soderbergh",
-   "genres": [
-    "psychological thriller film",
-    "supernatural thriller"
-   ]
-  },
-  {
-   "id": "28-years-later",
-   "title": "28 Years Later",
-   "released": "2025-06-20",
-   "langs": 42,
-   "score": 88,
-   "runtime": 115,
-   "director": "Danny Boyle",
-   "genres": [
-    "dystopian film",
-    "science fiction horror film"
-   ]
-  },
-  {
    "id": "the-long-walk",
    "title": "The Long Walk",
    "released": "2025-08-20",
    "langs": 26,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
    "runtime": 108,
    "director": "Francis Lawrence",
    "genres": [
@@ -1835,6 +1952,7 @@
    "released": "2025-09-06",
    "langs": 18,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
    "runtime": 110,
    "director": "Hikari",
    "genres": [
@@ -1847,11 +1965,12 @@
    "released": "2023-01-01",
    "langs": 69,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
    "runtime": 114,
    "director": "Greta Gerwig",
    "genres": [
-    "fantasy comedy film",
-    "satirical film"
+    "satirical film",
+    "romantic comedy film"
    ]
   },
   {
@@ -1860,6 +1979,7 @@
    "released": "2024-05-31",
    "langs": 19,
    "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg",
    "runtime": 129,
    "director": "Joachim Rønning",
    "genres": [
@@ -1868,11 +1988,39 @@
    ]
   },
   {
+   "id": "the-piano-lesson",
+   "title": "The Piano Lesson",
+   "released": "2024-08-31",
+   "langs": 20,
+   "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/cgampq63AqCrza6bnvmWqCcvCzY.jpg",
+   "runtime": 125,
+   "director": "Malcolm Washington",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "presence",
+   "title": "Presence",
+   "released": "2024-01-19",
+   "langs": 21,
+   "score": 88,
+   "cover": "https://image.tmdb.org/t/p/w500/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg",
+   "runtime": 85,
+   "director": "Steven Soderbergh",
+   "genres": [
+    "psychological thriller film",
+    "supernatural thriller"
+   ]
+  },
+  {
    "id": "the-beast",
    "title": "The Beast",
    "released": "2023-09-03",
    "langs": 16,
    "score": 87,
+   "cover": "https://image.tmdb.org/t/p/w500/96Jb7yjDkzluBqQZ21j54CJdYeM.jpg",
    "runtime": 145,
    "director": "Bertrand Bonello",
    "genres": [
@@ -1886,6 +2034,7 @@
    "released": "2023-01-21",
    "langs": 23,
    "score": 87,
+   "cover": "https://image.tmdb.org/t/p/w500/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
    "runtime": 117,
    "director": "Brandon Cronenberg",
    "genres": [
@@ -1899,6 +2048,7 @@
    "released": "2023-12-13",
    "langs": 22,
    "score": 87,
+   "cover": "https://image.tmdb.org/t/p/w500/3biswIjw14uDVil12nMOxcTAfmH.jpg",
    "runtime": 115,
    "director": "Martin Bourboulon",
    "genres": [
@@ -1912,6 +2062,7 @@
    "released": "2025-09-05",
    "langs": 16,
    "score": 87,
+   "cover": "https://image.tmdb.org/t/p/w500/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
    "runtime": null,
    "director": "Paul Greengrass",
    "genres": [
@@ -1920,11 +2071,26 @@
    ]
   },
   {
+   "id": "bugonia",
+   "title": "Bugonia",
+   "released": "2025-08-28",
+   "langs": 38,
+   "score": 87,
+   "cover": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+   "runtime": 118,
+   "director": "Yorgos Lanthimos",
+   "genres": [
+    "thriller film",
+    "black comedy film"
+   ]
+  },
+  {
    "id": "roofman",
    "title": "Roofman",
    "released": "2025-09-06",
    "langs": 23,
    "score": 87,
+   "cover": "https://image.tmdb.org/t/p/w500/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
    "runtime": 126,
    "director": "Derek Cianfrance",
    "genres": [
@@ -1933,40 +2099,16 @@
    ]
   },
   {
-   "id": "bugonia",
-   "title": "Bugonia",
-   "released": "2025-08-28",
-   "langs": 38,
-   "score": 87,
-   "runtime": 118,
-   "director": "Yorgos Lanthimos",
-   "genres": [
-    "black comedy film",
-    "thriller film"
-   ]
-  },
-  {
    "id": "a-quiet-place-day-one",
    "title": "A Quiet Place: Day One",
    "released": "2024-06-26",
    "langs": 29,
    "score": 86,
+   "cover": "https://image.tmdb.org/t/p/w500/2JhadBY56wfnGUFfTX1ftPW1nyL.jpg",
    "runtime": 89,
    "director": "Michael Sarnoski",
    "genres": [
     "horror film"
-   ]
-  },
-  {
-   "id": "longlegs",
-   "title": "Longlegs",
-   "released": "2024-07-12",
-   "langs": 30,
-   "score": 86,
-   "runtime": 101,
-   "director": "Oz Perkins",
-   "genres": [
-    "supernatural horror film"
    ]
   },
   {
@@ -1975,6 +2117,7 @@
    "released": "2024-05-02",
    "langs": 16,
    "score": 86,
+   "cover": "https://image.tmdb.org/t/p/w500/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg",
    "runtime": null,
    "director": "Hannah Marks",
    "genres": [
@@ -1983,11 +2126,25 @@
    ]
   },
   {
+   "id": "longlegs",
+   "title": "Longlegs",
+   "released": "2024-07-12",
+   "langs": 30,
+   "score": 86,
+   "cover": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+   "runtime": 101,
+   "director": "Oz Perkins",
+   "genres": [
+    "supernatural horror film"
+   ]
+  },
+  {
    "id": "smile-2",
    "title": "Smile 2",
    "released": "2024-10-17",
    "langs": 29,
    "score": 86,
+   "cover": "https://image.tmdb.org/t/p/w500/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
    "runtime": 127,
    "director": "Parker Finn",
    "genres": [
@@ -2001,6 +2158,7 @@
    "released": "2025-07-24",
    "langs": 49,
    "score": 86,
+   "cover": "https://image.tmdb.org/t/p/w500/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
    "runtime": 114,
    "director": "Matt Shakman",
    "genres": [
@@ -2009,16 +2167,16 @@
    ]
   },
   {
-   "id": "hamnet",
-   "title": "Hamnet",
-   "released": "2025-08-29",
-   "langs": 39,
+   "id": "bird",
+   "title": "Bird",
+   "released": "2024-05-16",
+   "langs": 18,
    "score": 86,
-   "runtime": 125,
-   "director": "Chloé Zhao",
+   "cover": "https://image.tmdb.org/t/p/w500/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg",
+   "runtime": 119,
+   "director": "Andrea Arnold",
    "genres": [
-    "period drama film",
-    "biographical film"
+    "drama film"
    ]
   },
   {
@@ -2027,6 +2185,7 @@
    "released": "2025-11-05",
    "langs": 33,
    "score": 86,
+   "cover": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
    "runtime": 108,
    "director": "Dan Trachtenberg",
    "genres": [
@@ -2035,15 +2194,17 @@
    ]
   },
   {
-   "id": "bird",
-   "title": "Bird",
-   "released": "2024-05-16",
-   "langs": 18,
+   "id": "hamnet",
+   "title": "Hamnet",
+   "released": "2025-08-29",
+   "langs": 39,
    "score": 86,
-   "runtime": 119,
-   "director": "Andrea Arnold",
+   "cover": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+   "runtime": 125,
+   "director": "Chloé Zhao",
    "genres": [
-    "drama film"
+    "period drama film",
+    "biographical film"
    ]
   },
   {
@@ -2052,24 +2213,12 @@
    "released": "2024-08-29",
    "langs": 17,
    "score": 86,
+   "cover": "https://image.tmdb.org/t/p/w500/2CGm69ebTBnbqFZIT8cWSuRIb8S.jpg",
    "runtime": 96,
    "director": "Luis Ortega",
    "genres": [
-    "crime film",
-    "comedy drama"
-   ]
-  },
-  {
-   "id": "fair-play",
-   "title": "Fair Play",
-   "released": "2023-01-20",
-   "langs": 19,
-   "score": 85,
-   "runtime": 113,
-   "director": "Chloe Domont",
-   "genres": [
-    "thriller film",
-    "drama film"
+    "comedy drama",
+    "crime film"
    ]
   },
   {
@@ -2078,6 +2227,7 @@
    "released": "2023-09-08",
    "langs": 16,
    "score": 85,
+   "cover": "https://image.tmdb.org/t/p/w500/h5rP0l3n6y8GNMuPVrUANKnQkSY.jpg",
    "runtime": 129,
    "director": "Viggo Mortensen",
    "genres": [
@@ -2086,11 +2236,26 @@
    ]
   },
   {
+   "id": "fair-play",
+   "title": "Fair Play",
+   "released": "2023-01-20",
+   "langs": 19,
+   "score": 85,
+   "cover": "https://image.tmdb.org/t/p/w500/btExhxzdUZoQagLaYyXgT4KgT2e.jpg",
+   "runtime": 113,
+   "director": "Chloe Domont",
+   "genres": [
+    "thriller film",
+    "drama film"
+   ]
+  },
+  {
    "id": "the-killer",
    "title": "The Killer",
    "released": "2023-09-03",
    "langs": 31,
    "score": 85,
+   "cover": "https://image.tmdb.org/t/p/w500/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
    "runtime": 118,
    "director": "David Fincher",
    "genres": [
@@ -2099,16 +2264,16 @@
    ]
   },
   {
-   "id": "sonic-the-hedgehog-3",
-   "title": "Sonic the Hedgehog 3",
-   "released": "2024-12-20",
-   "langs": 50,
+   "id": "memory",
+   "title": "Memory",
+   "released": "2023-01-01",
+   "langs": 16,
    "score": 85,
-   "runtime": 110,
-   "director": "Jeff Fowler",
+   "cover": "https://image.tmdb.org/t/p/w500/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg",
+   "runtime": 100,
+   "director": "Michel Franco",
    "genres": [
-    "live-action/animated film",
-    "family film"
+    "drama film"
    ]
   },
   {
@@ -2117,6 +2282,7 @@
    "released": "2025-08-30",
    "langs": 40,
    "score": 85,
+   "cover": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
    "runtime": 149,
    "director": "Guillermo del Toro",
    "genres": [
@@ -2125,23 +2291,12 @@
    ]
   },
   {
-   "id": "memory",
-   "title": "Memory",
-   "released": "2023-01-01",
-   "langs": 16,
-   "score": 85,
-   "runtime": 100,
-   "director": "Michel Franco",
-   "genres": [
-    "drama film"
-   ]
-  },
-  {
    "id": "totally-killer",
    "title": "Totally Killer",
    "released": "2023-01-01",
    "langs": 18,
    "score": 85,
+   "cover": "https://image.tmdb.org/t/p/w500/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
    "runtime": 106,
    "director": "Nahnatchka Khan",
    "genres": [
@@ -2150,11 +2305,26 @@
    ]
   },
   {
+   "id": "sonic-the-hedgehog-3",
+   "title": "Sonic the Hedgehog 3",
+   "released": "2024-12-20",
+   "langs": 50,
+   "score": 85,
+   "cover": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+   "runtime": 110,
+   "director": "Jeff Fowler",
+   "genres": [
+    "live-action/animated film",
+    "family film"
+   ]
+  },
+  {
    "id": "gabby-s-dollhouse-the-movie",
    "title": "Gabby's Dollhouse: The Movie",
    "released": "2025-09-26",
    "langs": 22,
    "score": 85,
+   "cover": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg",
    "runtime": 98,
    "director": "Ryan Crego",
    "genres": [
@@ -2168,6 +2338,7 @@
    "released": "2023-03-15",
    "langs": 33,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
    "runtime": 96,
    "director": "Lee Cronin",
    "genres": [
@@ -2181,23 +2352,11 @@
    "released": "2023-01-01",
    "langs": 24,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
    "runtime": 121,
-   "director": "Jimmy Chin",
+   "director": "Elizabeth Chai Vasarhelyi",
    "genres": [
     "biographical sports film"
-   ]
-  },
-  {
-   "id": "thanksgiving",
-   "title": "Thanksgiving",
-   "released": "2023-11-17",
-   "langs": 24,
-   "score": 84,
-   "runtime": 106,
-   "director": "Eli Roth",
-   "genres": [
-    "slasher film",
-    "horror film"
    ]
   },
   {
@@ -2206,6 +2365,7 @@
    "released": "2024-01-18",
    "langs": 20,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
    "runtime": 100,
    "director": "Jane Schoenbrun",
    "genres": [
@@ -2214,16 +2374,17 @@
    ]
   },
   {
-   "id": "rustin",
-   "title": "Rustin",
-   "released": "2023-08-31",
-   "langs": 19,
+   "id": "thanksgiving",
+   "title": "Thanksgiving",
+   "released": "2023-11-17",
+   "langs": 24,
    "score": 84,
-   "runtime": 99,
-   "director": "George C. Wolfe",
+   "cover": "https://image.tmdb.org/t/p/w500/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+   "runtime": 106,
+   "director": "Eli Roth",
    "genres": [
-    "LGBTQ-related film",
-    "biographical film"
+    "slasher film",
+    "horror film"
    ]
   },
   {
@@ -2232,10 +2393,25 @@
    "released": "2023-01-01",
    "langs": 23,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg",
    "runtime": 105,
    "director": "Craig Gillespie",
    "genres": [
     "comedy drama",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "rustin",
+   "title": "Rustin",
+   "released": "2023-08-31",
+   "langs": 19,
+   "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
+   "runtime": 99,
+   "director": "George C. Wolfe",
+   "genres": [
+    "LGBTQ-related film",
     "biographical film"
    ]
   },
@@ -2245,6 +2421,7 @@
    "released": "2025-05-19",
    "langs": 17,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
    "runtime": 133,
    "director": "Spike Lee",
    "genres": [
@@ -2258,6 +2435,7 @@
    "released": "2025-08-28",
    "langs": 21,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
    "runtime": 107,
    "director": "Darren Aronofsky",
    "genres": [
@@ -2266,24 +2444,12 @@
    ]
   },
   {
-   "id": "nosferatu",
-   "title": "Nosferatu",
-   "released": "2024-12-02",
-   "langs": 40,
-   "score": 84,
-   "runtime": 143,
-   "director": "Robert Eggers",
-   "genres": [
-    "vampire film",
-    "horror film"
-   ]
-  },
-  {
    "id": "the-surfer",
    "title": "The Surfer",
    "released": "2024-05-18",
    "langs": 15,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/gm9Ou0dkxhb1vcrkB6uRhoifcHC.jpg",
    "runtime": 100,
    "director": "Lorcan Finnegan",
    "genres": [
@@ -2296,6 +2462,7 @@
    "released": "2024-02-23",
    "langs": 15,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
    "runtime": 117,
    "director": "Jon Gunn",
    "genres": [
@@ -2308,6 +2475,7 @@
    "released": "2023-09-04",
    "langs": 30,
    "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
    "runtime": 113,
    "director": "Sofia Coppola",
    "genres": [
@@ -2316,11 +2484,26 @@
    ]
   },
   {
+   "id": "nosferatu",
+   "title": "Nosferatu",
+   "released": "2024-12-02",
+   "langs": 40,
+   "score": 84,
+   "cover": "https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+   "runtime": 143,
+   "director": "Robert Eggers",
+   "genres": [
+    "vampire film",
+    "horror film"
+   ]
+  },
+  {
    "id": "the-old-oak",
    "title": "The Old Oak",
    "released": "2023-05-26",
    "langs": 19,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/xN293BKB0MDqpILmLCtGGYxQXKW.jpg",
    "runtime": 113,
    "director": "Ken Loach",
    "genres": [
@@ -2333,23 +2516,11 @@
    "released": "2024-04-03",
    "langs": 25,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/tnsDyNNkOxYUyjD8CNJoAla6YvY.jpg",
    "runtime": 119,
    "director": "Arkasha Stevenson",
    "genres": [
     "horror film"
-   ]
-  },
-  {
-   "id": "speak-no-evil",
-   "title": "Speak No Evil",
-   "released": "2024-09-12",
-   "langs": 26,
-   "score": 83,
-   "runtime": 110,
-   "director": "James Watkins",
-   "genres": [
-    "psychological thriller film",
-    "psychological horror film"
    ]
   },
   {
@@ -2358,11 +2529,26 @@
    "released": "2023-01-25",
    "langs": 26,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
    "runtime": 146,
    "director": "Siddharth Anand",
    "genres": [
-    "thriller film",
-    "spy film"
+    "spy film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "speak-no-evil",
+   "title": "Speak No Evil",
+   "released": "2024-09-12",
+   "langs": 26,
+   "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+   "runtime": 110,
+   "director": "James Watkins",
+   "genres": [
+    "psychological horror film",
+    "psychological thriller film"
    ]
   },
   {
@@ -2371,6 +2557,7 @@
    "released": "2023-04-21",
    "langs": 26,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
    "runtime": 123,
    "director": "Guy Ritchie",
    "genres": [
@@ -2384,6 +2571,7 @@
    "released": "2024-05-20",
    "langs": 31,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/549Hdul2BgPnZMhqFxp6npp2opr.jpg",
    "runtime": 120,
    "director": "Ali Abbasi",
    "genres": [
@@ -2396,6 +2584,7 @@
    "released": "2025-03-09",
    "langs": 22,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg",
    "runtime": 95,
    "director": "Christopher Landon",
    "genres": [
@@ -2409,11 +2598,12 @@
    "released": "2025-07-09",
    "langs": 53,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
    "runtime": 129,
    "director": "James Gunn",
    "genres": [
     "superhero film",
-    "adventure film"
+    "science fiction film"
    ]
   },
   {
@@ -2422,8 +2612,9 @@
    "released": "2024-04-07",
    "langs": 28,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
    "runtime": null,
-   "director": "Matt Bettinelli-Olpin",
+   "director": "Tyler Gillett",
    "genres": [
     "speculative fiction film",
     "vampire film"
@@ -2435,6 +2626,7 @@
    "released": "2026-05-08",
    "langs": 15,
    "score": 83,
+   "cover": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
    "runtime": 111,
    "director": "Olivia Newman",
    "genres": [
@@ -2448,6 +2640,7 @@
    "released": "2023-03-15",
    "langs": 24,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
    "runtime": 118,
    "director": "Jon S. Baird",
    "genres": [
@@ -2456,24 +2649,12 @@
    ]
   },
   {
-   "id": "wonka",
-   "title": "Wonka",
-   "released": "2023-12-13",
-   "langs": 42,
-   "score": 82,
-   "runtime": 116,
-   "director": "Paul King",
-   "genres": [
-    "speculative fiction film",
-    "musical film"
-   ]
-  },
-  {
    "id": "the-fall-guy",
    "title": "The Fall Guy",
    "released": "2024-03-12",
    "langs": 33,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
    "runtime": 126,
    "director": "David Leitch",
    "genres": [
@@ -2487,11 +2668,12 @@
    "released": "2023-05-17",
    "langs": 15,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/39AiQnXlXOjoqBSkiUpTG80rXLw.jpg",
    "runtime": 127,
    "director": "Thomas Cailley",
    "genres": [
     "speculative fiction film",
-    "adventure film"
+    "science fiction film"
    ]
   },
   {
@@ -2500,6 +2682,7 @@
    "released": "2024-12-25",
    "langs": 37,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
    "runtime": 141,
    "director": "James Mangold",
    "genres": [
@@ -2508,11 +2691,26 @@
    ]
   },
   {
+   "id": "wonka",
+   "title": "Wonka",
+   "released": "2023-12-13",
+   "langs": 42,
+   "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+   "runtime": 116,
+   "director": "Paul King",
+   "genres": [
+    "speculative fiction film",
+    "musical film"
+   ]
+  },
+  {
    "id": "coup-de-chance",
    "title": "Coup de chance",
    "released": "2023-09-04",
    "langs": 17,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/cvejKWAstLqgUmC4N8P81CyhJdI.jpg",
    "runtime": 96,
    "director": "Woody Allen",
    "genres": [
@@ -2526,6 +2724,7 @@
    "released": "2023-01-01",
    "langs": 16,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/5tcbdLbMzYEMBeJwf5PWcgUnmVa.jpg",
    "runtime": 110,
    "director": "Pablo Larraín",
    "genres": [
@@ -2539,11 +2738,12 @@
    "released": "2023-04-22",
    "langs": 56,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
    "runtime": 150,
    "director": "James Gunn",
    "genres": [
-    "speculative fiction film",
-    "superhero film"
+    "superhero film",
+    "speculative fiction film"
    ]
   },
   {
@@ -2552,6 +2752,7 @@
    "released": "2025-08-31",
    "langs": 22,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
    "runtime": 110,
    "director": "Jim Jarmusch",
    "genres": [
@@ -2565,6 +2766,7 @@
    "released": "2025-01-01",
    "langs": 45,
    "score": 82,
+   "cover": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
    "runtime": 155,
    "director": "Joseph Kosinski",
    "genres": [
@@ -2578,6 +2780,7 @@
    "released": "2024-03-14",
    "langs": 34,
    "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
    "runtime": 109,
    "director": "Alex Garland",
    "genres": [
@@ -2586,11 +2789,25 @@
    ]
   },
   {
+   "id": "the-idea-of-you",
+   "title": "The Idea of You",
+   "released": "2024-03-16",
+   "langs": 22,
+   "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+   "runtime": 115,
+   "director": "Michael Showalter",
+   "genres": [
+    "romantic comedy film"
+   ]
+  },
+  {
    "id": "the-wandering-earth-2",
    "title": "The Wandering Earth 2",
    "released": "2023-01-22",
    "langs": 16,
    "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg",
    "runtime": 173,
    "director": "Frant Gwo",
    "genres": [
@@ -2599,40 +2816,30 @@
    ]
   },
   {
-   "id": "winnie-the-pooh-blood-and-honey-2",
-   "title": "Winnie-the-Pooh: Blood and Honey 2",
-   "released": "2024-03-18",
-   "langs": 20,
-   "score": 81,
-   "runtime": 95,
-   "director": "Rhys Frake-Waterfield",
-   "genres": [
-    "slasher film"
-   ]
-  },
-  {
-   "id": "the-idea-of-you",
-   "title": "The Idea of You",
-   "released": "2024-03-16",
-   "langs": 22,
-   "score": 81,
-   "runtime": 115,
-   "director": "Michael Showalter",
-   "genres": [
-    "romantic comedy film"
-   ]
-  },
-  {
    "id": "the-color-purple",
    "title": "The Color Purple",
    "released": "2023-12-25",
    "langs": 24,
    "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
    "runtime": 141,
    "director": "Blitz the Ambassador",
    "genres": [
-    "coming-of-age film",
-    "historical film"
+    "historical film",
+    "coming-of-age film"
+   ]
+  },
+  {
+   "id": "winnie-the-pooh-blood-and-honey-2",
+   "title": "Winnie-the-Pooh: Blood and Honey 2",
+   "released": "2024-03-18",
+   "langs": 20,
+   "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
+   "runtime": 95,
+   "director": "Rhys Frake-Waterfield",
+   "genres": [
+    "slasher film"
    ]
   },
   {
@@ -2641,6 +2848,7 @@
    "released": "2024-09-02",
    "langs": 28,
    "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/qMibLyArrlBJ87AoqQBeVaFeRXp.jpg",
    "runtime": 107,
    "director": "Pedro Almodóvar",
    "genres": [
@@ -2653,6 +2861,7 @@
    "released": "2025-03-12",
    "langs": 24,
    "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
    "runtime": 110,
    "director": "Dan Berk",
    "genres": [
@@ -2666,23 +2875,11 @@
    "released": "2024-10-09",
    "langs": 17,
    "score": 81,
+   "cover": "https://image.tmdb.org/t/p/w500/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
    "runtime": 114,
    "director": "Steve McQueen",
    "genres": [
     "historical drama film"
-   ]
-  },
-  {
-   "id": "saw-x",
-   "title": "Saw X",
-   "released": "2023-09-28",
-   "langs": 33,
-   "score": 80,
-   "runtime": 118,
-   "director": "Kevin Greutert",
-   "genres": [
-    "mystery film",
-    "thriller film"
    ]
   },
   {
@@ -2691,6 +2888,7 @@
    "released": "2023-08-31",
    "langs": 21,
    "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
    "runtime": 116,
    "director": "Jeff Nichols",
    "genres": [
@@ -2699,24 +2897,12 @@
    ]
   },
   {
-   "id": "extraction-2",
-   "title": "Extraction 2",
-   "released": "2023-06-13",
-   "langs": 25,
-   "score": 80,
-   "runtime": 122,
-   "director": "Sam Hargrave",
-   "genres": [
-    "thriller film",
-    "action film"
-   ]
-  },
-  {
    "id": "kingdom-of-the-planet-of-the-apes",
    "title": "Kingdom of the Planet of the Apes",
    "released": "2024-05-08",
    "langs": 42,
    "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
    "runtime": 145,
    "director": "Wes Ball",
    "genres": [
@@ -2730,10 +2916,39 @@
    "released": "2023-01-01",
    "langs": 17,
    "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/scAU7YudKNVeZlOfgSEWntAUSJ.jpg",
    "runtime": 102,
    "director": "Thea Sharrock",
    "genres": [
     "comedy film"
+   ]
+  },
+  {
+   "id": "extraction-2",
+   "title": "Extraction 2",
+   "released": "2023-06-13",
+   "langs": 25,
+   "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+   "runtime": 122,
+   "director": "Sam Hargrave",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "saw-x",
+   "title": "Saw X",
+   "released": "2023-09-28",
+   "langs": 33,
+   "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+   "runtime": 118,
+   "director": "Kevin Greutert",
+   "genres": [
+    "thriller film",
+    "mystery film"
    ]
   },
   {
@@ -2742,6 +2957,7 @@
    "released": "2025-02-07",
    "langs": 17,
    "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
    "runtime": 97,
    "director": "Josh Ruben",
    "genres": [
@@ -2755,6 +2971,7 @@
    "released": "2024-09-06",
    "langs": 25,
    "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
    "runtime": 111,
    "director": "Mike Flanagan",
    "genres": [
@@ -2763,29 +2980,17 @@
    ]
   },
   {
-   "id": "mission-impossible-the-final-reckoning",
-   "title": "Mission: Impossible – The Final Reckoning",
-   "released": "2025-05-06",
-   "langs": 47,
-   "score": 80,
-   "runtime": 169,
-   "director": "Christopher McQuarrie",
-   "genres": [
-    "spy film",
-    "action film"
-   ]
-  },
-  {
    "id": "infiesto",
    "title": "Infiesto",
    "released": "2023-02-03",
    "langs": 26,
    "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/4ZINmjqs326uS9tzihiLQu6LMO2.jpg",
    "runtime": 96,
    "director": "Patxi Amezcúa",
    "genres": [
-    "thriller film",
-    "crime film"
+    "crime film",
+    "thriller film"
    ]
   },
   {
@@ -2794,6 +2999,7 @@
    "released": "2024-08-15",
    "langs": 41,
    "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
    "runtime": 119,
    "director": "Fede Álvarez",
    "genres": [
@@ -2802,15 +3008,44 @@
    ]
   },
   {
+   "id": "mission-impossible-the-final-reckoning",
+   "title": "Mission: Impossible – The Final Reckoning",
+   "released": "2025-05-06",
+   "langs": 47,
+   "score": 80,
+   "cover": "https://image.tmdb.org/t/p/w500/iKPsC9EFUafRP9SrUznI61getVP.jpg",
+   "runtime": 169,
+   "director": "Christopher McQuarrie",
+   "genres": [
+    "spy film",
+    "action film"
+   ]
+  },
+  {
    "id": "cuckoo",
    "title": "Cuckoo",
    "released": "2024-02-16",
    "langs": 19,
    "score": 79,
+   "cover": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
    "runtime": 102,
    "director": "Tilman Singer",
    "genres": [
-    "mystery film",
+    "thriller film",
+    "mystery film"
+   ]
+  },
+  {
+   "id": "last-breath",
+   "title": "Last Breath",
+   "released": "2025-02-28",
+   "langs": 19,
+   "score": 79,
+   "cover": "https://image.tmdb.org/t/p/w500/uB8yTnF6YLIIVKuRJAK8LNk8C6w.jpg",
+   "runtime": 93,
+   "director": "Alex Parkinson",
+   "genres": [
+    "survival film",
     "thriller film"
    ]
   },
@@ -2820,6 +3055,7 @@
    "released": "2024-10-18",
    "langs": 21,
    "score": 79,
+   "cover": "https://image.tmdb.org/t/p/w500/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
    "runtime": 107,
    "director": "John Crowley",
    "genres": [
@@ -2828,24 +3064,12 @@
    ]
   },
   {
-   "id": "last-breath",
-   "title": "Last Breath",
-   "released": "2025-02-28",
-   "langs": 19,
-   "score": 79,
-   "runtime": 93,
-   "director": "Alex Parkinson",
-   "genres": [
-    "survival film",
-    "thriller film"
-   ]
-  },
-  {
    "id": "deadpool-wolverine",
    "title": "Deadpool & Wolverine",
    "released": "2024-07-24",
    "langs": 53,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
    "runtime": 128,
    "director": "Shawn Levy",
    "genres": [
@@ -2859,6 +3083,7 @@
    "released": "2023-09-02",
    "langs": 33,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
    "runtime": 129,
    "director": "Bradley Cooper",
    "genres": [
@@ -2872,6 +3097,7 @@
    "released": "2023-08-16",
    "langs": 41,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
    "runtime": 127,
    "director": "Angel Manuel Soto",
    "genres": [
@@ -2885,11 +3111,12 @@
    "released": "2024-03-11",
    "langs": 18,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/h4T8Xeydkw53h9uIbulYsss25UF.jpg",
    "runtime": 92,
    "director": "Ben Brewer",
    "genres": [
     "thriller film",
-    "action film"
+    "horror film"
    ]
   },
   {
@@ -2898,6 +3125,7 @@
    "released": "2024-10-04",
    "langs": 21,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
    "runtime": 109,
    "director": "Jason Reitman",
    "genres": [
@@ -2906,11 +3134,40 @@
    ]
   },
   {
+   "id": "the-return",
+   "title": "The Return",
+   "released": "2024-09-07",
+   "langs": 15,
+   "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",
+   "runtime": null,
+   "director": "Uberto Pasolini",
+   "genres": [
+    "historical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "terrifier-3",
+   "title": "Terrifier 3",
+   "released": "2024-10-11",
+   "langs": 25,
+   "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+   "runtime": 125,
+   "director": "Damien Leone",
+   "genres": [
+    "splatter film",
+    "slasher film"
+   ]
+  },
+  {
    "id": "materialists",
    "title": "Materialists",
    "released": "2025-06-13",
    "langs": 27,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
    "runtime": 116,
    "director": "Celine Song",
    "genres": [
@@ -2923,23 +3180,11 @@
    "released": "2025-09-05",
    "langs": 16,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg",
    "runtime": 91,
    "director": "Tim Mielants",
    "genres": [
     "drama film"
-   ]
-  },
-  {
-   "id": "plane",
-   "title": "Plane",
-   "released": "2023-01-13",
-   "langs": 28,
-   "score": 78,
-   "runtime": 107,
-   "director": "Jean-François Richet",
-   "genres": [
-    "action thriller",
-    "adventure film"
    ]
   },
   {
@@ -2948,6 +3193,7 @@
    "released": "2025-06-11",
    "langs": 41,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
    "runtime": 125,
    "director": "Dean DeBlois",
    "genres": [
@@ -2956,24 +3202,12 @@
    ]
   },
   {
-   "id": "the-return",
-   "title": "The Return",
-   "released": "2024-09-07",
-   "langs": 15,
-   "score": 78,
-   "runtime": null,
-   "director": "Uberto Pasolini",
-   "genres": [
-    "historical film",
-    "drama film"
-   ]
-  },
-  {
    "id": "good-fortune",
    "title": "Good Fortune",
    "released": "2025-09-06",
    "langs": 15,
    "score": 78,
+   "cover": "https://image.tmdb.org/t/p/w500/rywxUbd4zvHiRP7nOHeDzuQSLIZ.jpg",
    "runtime": 97,
    "director": "Aziz Ansari",
    "genres": [
@@ -2981,29 +3215,17 @@
    ]
   },
   {
-   "id": "terrifier-3",
-   "title": "Terrifier 3",
-   "released": "2024-10-11",
-   "langs": 25,
+   "id": "plane",
+   "title": "Plane",
+   "released": "2023-01-13",
+   "langs": 28,
    "score": 78,
-   "runtime": 125,
-   "director": "Damien Leone",
+   "cover": "https://image.tmdb.org/t/p/w500/oJRsTQR47pyjSJCZYpOfbycpNBR.jpg",
+   "runtime": 107,
+   "director": "Jean-François Richet",
    "genres": [
-    "splatter film",
-    "slasher film"
-   ]
-  },
-  {
-   "id": "kalki-2898-ad",
-   "title": "Kalki 2898 AD",
-   "released": "2024-06-27",
-   "langs": 21,
-   "score": 77,
-   "runtime": 181,
-   "director": "Nag Ashwin",
-   "genres": [
-    "dystopian film",
-    "science fiction film"
+    "action thriller",
+    "adventure film"
    ]
   },
   {
@@ -3012,6 +3234,7 @@
    "released": "2024-09-03",
    "langs": 25,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
    "runtime": 135,
    "director": "Luca Guadagnino",
    "genres": [
@@ -3020,11 +3243,26 @@
    ]
   },
   {
+   "id": "kalki-2898-ad",
+   "title": "Kalki 2898 AD",
+   "released": "2024-06-27",
+   "langs": 21,
+   "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+   "runtime": 181,
+   "director": "Nag Ashwin",
+   "genres": [
+    "dystopian film",
+    "science fiction film"
+   ]
+  },
+  {
    "id": "last-summer",
    "title": "Last Summer",
    "released": "2023-05-25",
    "langs": 16,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/a94IHwd6t2oXKy5KWTvaEnAs6Ux.jpg",
    "runtime": 104,
    "director": "Catherine Breillat",
    "genres": [
@@ -3038,11 +3276,39 @@
    "released": "2023-03-02",
    "langs": 24,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg",
    "runtime": 99,
    "director": "Oleh Malamuzh",
    "genres": [
-    "speculative fiction film",
-    "family film"
+    "family film",
+    "speculative fiction film"
+   ]
+  },
+  {
+   "id": "the-monkey",
+   "title": "The Monkey",
+   "released": "2025-02-19",
+   "langs": 28,
+   "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/aGDekyIb0yfmnuLZciCozRPk2TE.jpg",
+   "runtime": 98,
+   "director": "Oz Perkins",
+   "genres": [
+    "supernatural horror film"
+   ]
+  },
+  {
+   "id": "mickey-17",
+   "title": "Mickey 17",
+   "released": "2025-02-15",
+   "langs": 39,
+   "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+   "runtime": 137,
+   "director": "Bong Joon-ho",
+   "genres": [
+    "science fiction film",
+    "adventure film"
    ]
   },
   {
@@ -3051,6 +3317,7 @@
    "released": "2025-08-28",
    "langs": 21,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
    "runtime": 118,
    "director": "Chris Columbus",
    "genres": [
@@ -3064,36 +3331,12 @@
    "released": "2025-01-01",
    "langs": 26,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
    "runtime": 89,
    "director": "Timo Tjahjanto",
    "genres": [
-    "black comedy film",
-    "thriller film"
-   ]
-  },
-  {
-   "id": "the-phoenician-scheme",
-   "title": "The Phoenician Scheme",
-   "released": "2025-04-30",
-   "langs": 25,
-   "score": 77,
-   "runtime": 105,
-   "director": "Wes Anderson",
-   "genres": [
-    "black comedy film",
-    "spy film"
-   ]
-  },
-  {
-   "id": "the-monkey",
-   "title": "The Monkey",
-   "released": "2025-02-19",
-   "langs": 28,
-   "score": 77,
-   "runtime": 98,
-   "director": "Oz Perkins",
-   "genres": [
-    "supernatural horror film"
+    "thriller film",
+    "black comedy film"
    ]
   },
   {
@@ -3102,6 +3345,7 @@
    "released": "2025-08-28",
    "langs": 28,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
    "runtime": 132,
    "director": "Noah Baumbach",
    "genres": [
@@ -3115,6 +3359,7 @@
    "released": "2025-01-26",
    "langs": 17,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg",
    "runtime": null,
    "director": "Bill Condon",
    "genres": [
@@ -3128,6 +3373,7 @@
    "released": "2025-09-07",
    "langs": 22,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
    "runtime": 114,
    "director": "David Freyne",
    "genres": [
@@ -3141,6 +3387,7 @@
    "released": "2025-10-26",
    "langs": 20,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
    "runtime": null,
    "director": "Craig Brewer",
    "genres": [
@@ -3149,16 +3396,17 @@
    ]
   },
   {
-   "id": "mickey-17",
-   "title": "Mickey 17",
-   "released": "2025-02-15",
-   "langs": 39,
+   "id": "the-phoenician-scheme",
+   "title": "The Phoenician Scheme",
+   "released": "2025-04-30",
+   "langs": 25,
    "score": 77,
-   "runtime": 137,
-   "director": "Bong Joon-ho",
+   "cover": "https://image.tmdb.org/t/p/w500/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+   "runtime": 105,
+   "director": "Wes Anderson",
    "genres": [
-    "science fiction film",
-    "adventure film"
+    "thriller film",
+    "black comedy film"
    ]
   },
   {
@@ -3167,6 +3415,7 @@
    "released": "2026-03-17",
    "langs": 29,
    "score": 77,
+   "cover": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
    "runtime": 105,
    "director": "Kristoffer Borgli",
    "genres": [
@@ -3180,8 +3429,9 @@
    "released": "2023-03-08",
    "langs": 40,
    "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
    "runtime": 118,
-   "director": "Matt Bettinelli-Olpin",
+   "director": "Tyler Gillett",
    "genres": [
     "comedy horror film",
     "slasher film"
@@ -3193,11 +3443,40 @@
    "released": "2024-08-28",
    "langs": 40,
    "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
    "runtime": 104,
    "director": "Tim Burton",
    "genres": [
     "comedy horror",
-    "comedy film"
+    "fantasy film"
+   ]
+  },
+  {
+   "id": "a-haunting-in-venice",
+   "title": "A Haunting in Venice",
+   "released": "2023-09-13",
+   "langs": 34,
+   "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg",
+   "runtime": 103,
+   "director": "Kenneth Branagh",
+   "genres": [
+    "detective film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "the-equalizer-3",
+   "title": "The Equalizer 3",
+   "released": "2023-08-31",
+   "langs": 31,
+   "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+   "runtime": 109,
+   "director": "Antoine Fuqua",
+   "genres": [
+    "vigilante film",
+    "thriller film"
    ]
   },
   {
@@ -3206,6 +3485,7 @@
    "released": "2023-08-11",
    "langs": 33,
    "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",
    "runtime": 112,
    "director": "Matthew López",
    "genres": [
@@ -3219,37 +3499,12 @@
    "released": "2024-10-10",
    "langs": 16,
    "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/r1h1YltM7bwzlWE330izIgQSwkj.jpg",
    "runtime": 99,
-   "director": "Logan George",
+   "director": "Celine Held",
    "genres": [
     "thriller film",
     "science fiction film"
-   ]
-  },
-  {
-   "id": "a-haunting-in-venice",
-   "title": "A Haunting in Venice",
-   "released": "2023-09-13",
-   "langs": 34,
-   "score": 76,
-   "runtime": 103,
-   "director": "Kenneth Branagh",
-   "genres": [
-    "detective film",
-    "neo-noir"
-   ]
-  },
-  {
-   "id": "the-equalizer-3",
-   "title": "The Equalizer 3",
-   "released": "2023-08-31",
-   "langs": 31,
-   "score": 76,
-   "runtime": 109,
-   "director": "Antoine Fuqua",
-   "genres": [
-    "vigilante film",
-    "thriller film"
    ]
   },
   {
@@ -3258,6 +3513,7 @@
    "released": "2024-08-30",
    "langs": 27,
    "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
    "runtime": 114,
    "director": "Halina Reijn",
    "genres": [
@@ -3271,6 +3527,7 @@
    "released": "2024-08-29",
    "langs": 25,
    "score": 76,
+   "cover": "https://image.tmdb.org/t/p/w500/3oQRG0bwPUqE4N4n8z2kAzr7e40.jpg",
    "runtime": 124,
    "director": "Pablo Larraín",
    "genres": [
@@ -3279,24 +3536,12 @@
    ]
   },
   {
-   "id": "blink-twice",
-   "title": "Blink Twice",
-   "released": "2024-08-21",
-   "langs": 21,
-   "score": 75,
-   "runtime": 102,
-   "director": "Zoë Kravitz",
-   "genres": [
-    "thriller film",
-    "action film"
-   ]
-  },
-  {
    "id": "asteroid-city",
    "title": "Asteroid City",
    "released": "2023-05-23",
    "langs": 40,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
    "runtime": 105,
    "director": "Wes Anderson",
    "genres": [
@@ -3305,11 +3550,26 @@
    ]
   },
   {
+   "id": "blink-twice",
+   "title": "Blink Twice",
+   "released": "2024-08-21",
+   "langs": 21,
+   "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+   "runtime": 102,
+   "director": "Zoë Kravitz",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
    "id": "white-bird-a-wonder-story",
    "title": "White Bird: A Wonder Story",
    "released": "2023-07-30",
    "langs": 18,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/s2igE99PVBEMsry3qEGEH3rM83K.jpg",
    "runtime": 120,
    "director": "Marc Forster",
    "genres": [
@@ -3323,6 +3583,7 @@
    "released": "2025-03-08",
    "langs": 28,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
    "runtime": 132,
    "director": "Gavin O'Connor",
    "genres": [
@@ -3336,6 +3597,7 @@
    "released": "2025-01-26",
    "langs": 16,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
    "runtime": 96,
    "director": "Isaiah Saxon",
    "genres": [
@@ -3349,24 +3611,12 @@
    "released": "2024-05-20",
    "langs": 16,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/xXoueIHdllGo5m0ChKvSATJYWBw.jpg",
    "runtime": 120,
    "director": "David Cronenberg",
    "genres": [
-    "suspense film",
-    "science fiction horror film"
-   ]
-  },
-  {
-   "id": "dracula-a-love-tale",
-   "title": "Dracula: A Love Tale",
-   "released": "2025-07-30",
-   "langs": 26,
-   "score": 75,
-   "runtime": 129,
-   "director": "Luc Besson",
-   "genres": [
-    "speculative fiction film",
-    "vampire film"
+    "body horror film",
+    "suspense film"
    ]
   },
   {
@@ -3375,6 +3625,7 @@
    "released": "2025-06-05",
    "langs": 40,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
    "runtime": 125,
    "director": "Len Wiseman",
    "genres": [
@@ -3388,10 +3639,25 @@
    "released": "2025-09-02",
    "langs": 26,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/eB3Tl6xo9VNiN6YIi9XV44v6dab.jpg",
    "runtime": 112,
    "director": "Kathryn Bigelow",
    "genres": [
     "thriller film"
+   ]
+  },
+  {
+   "id": "dracula-a-love-tale",
+   "title": "Dracula: A Love Tale",
+   "released": "2025-07-30",
+   "langs": 26,
+   "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+   "runtime": 129,
+   "director": "Luc Besson",
+   "genres": [
+    "speculative fiction film",
+    "vampire film"
    ]
   },
   {
@@ -3400,6 +3666,7 @@
    "released": "2024-07-11",
    "langs": 31,
    "score": 75,
+   "cover": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
    "runtime": 122,
    "director": "Lee Isaac Chung",
    "genres": [
@@ -3412,6 +3679,7 @@
    "released": "2023-09-15",
    "langs": 19,
    "score": 74,
+   "cover": "https://image.tmdb.org/t/p/w500/vCMGlarDrcmhclBmnYoH7JUCDuA.jpg",
    "runtime": 91,
    "director": "Vanessa Caswill",
    "genres": [
@@ -3424,6 +3692,7 @@
    "released": "2024-01-01",
    "langs": 18,
    "score": 74,
+   "cover": "https://image.tmdb.org/t/p/w500/sC4H6dsiN8kpTzPowfL9S5kugg0.jpg",
    "runtime": 117,
    "director": "Halfdan Ullman Tøndel",
    "genres": [
@@ -3436,6 +3705,7 @@
    "released": "2025-08-07",
    "langs": 27,
    "score": 74,
+   "cover": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
    "runtime": null,
    "director": "Nisha Ganatra",
    "genres": [
@@ -3449,6 +3719,7 @@
    "released": "2025-05-17",
    "langs": 25,
    "score": 74,
+   "cover": "https://image.tmdb.org/t/p/w500/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
    "runtime": 118,
    "director": "Lynne Ramsay",
    "genres": [
@@ -3461,11 +3732,12 @@
    "released": "2023-12-08",
    "langs": 27,
    "score": 73,
+   "cover": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
    "runtime": 138,
    "director": "Sam Esmail",
    "genres": [
-    "psychological thriller film",
-    "post-apocalyptic film"
+    "post-apocalyptic film",
+    "psychological thriller film"
    ]
   },
   {
@@ -3474,6 +3746,7 @@
    "released": "2025-12-19",
    "langs": 30,
    "score": 73,
+   "cover": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
    "runtime": 131,
    "director": "Paul Feig",
    "genres": [
@@ -3486,6 +3759,7 @@
    "released": "2023-01-01",
    "langs": 26,
    "score": 73,
+   "cover": "https://image.tmdb.org/t/p/w500/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
    "runtime": 130,
    "director": "Michael Mann",
    "genres": [
@@ -3499,11 +3773,12 @@
    "released": "2023-09-28",
    "langs": 26,
    "score": 72,
+   "cover": "https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg",
    "runtime": 88,
    "director": "Cal Brunker",
    "genres": [
     "family film",
-    "adventure film"
+    "animated film"
    ]
   },
   {
@@ -3512,6 +3787,7 @@
    "released": "2024-07-05",
    "langs": 26,
    "score": 72,
+   "cover": "https://image.tmdb.org/t/p/w500/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
    "runtime": 103,
    "director": "Ti West",
    "genres": [
@@ -3525,6 +3801,7 @@
    "released": "2025-05-21",
    "langs": 39,
    "score": 72,
+   "cover": "https://image.tmdb.org/t/p/w500/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
    "runtime": 108,
    "director": "Dean Fleischer Camp",
    "genres": [
@@ -3533,23 +3810,12 @@
    ]
   },
   {
-   "id": "nuremberg",
-   "title": "Nuremberg",
-   "released": "2025-09-07",
-   "langs": 27,
-   "score": 72,
-   "runtime": 148,
-   "director": "James Vanderbilt",
-   "genres": [
-    "drama film"
-   ]
-  },
-  {
    "id": "black-phone-2",
    "title": "Black Phone 2",
    "released": "2025-10-16",
    "langs": 27,
    "score": 72,
+   "cover": "https://image.tmdb.org/t/p/w500/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
    "runtime": 114,
    "director": "Scott Derrickson",
    "genres": [
@@ -3558,11 +3824,25 @@
    ]
   },
   {
+   "id": "nuremberg",
+   "title": "Nuremberg",
+   "released": "2025-09-07",
+   "langs": 27,
+   "score": 72,
+   "cover": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
+   "runtime": 148,
+   "director": "James Vanderbilt",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
    "id": "immaculate",
    "title": "Immaculate",
    "released": "2024-03-12",
    "langs": 28,
    "score": 72,
+   "cover": "https://image.tmdb.org/t/p/w500/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
    "runtime": 89,
    "director": "Michael Mohan",
    "genres": [
@@ -3571,24 +3851,12 @@
    ]
   },
   {
-   "id": "saltburn",
-   "title": "Saltburn",
-   "released": "2023-11-17",
-   "langs": 30,
-   "score": 71,
-   "runtime": 131,
-   "director": "Emerald Fennell",
-   "genres": [
-    "black comedy film",
-    "thriller film"
-   ]
-  },
-  {
    "id": "kinds-of-kindness",
    "title": "Kinds of Kindness",
    "released": "2024-05-17",
    "langs": 33,
    "score": 71,
+   "cover": "https://image.tmdb.org/t/p/w500/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg",
    "runtime": 165,
    "director": "Yorgos Lanthimos",
    "genres": [
@@ -3597,11 +3865,26 @@
    ]
   },
   {
+   "id": "saltburn",
+   "title": "Saltburn",
+   "released": "2023-11-17",
+   "langs": 30,
+   "score": 71,
+   "cover": "https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+   "runtime": 131,
+   "director": "Emerald Fennell",
+   "genres": [
+    "black comedy film",
+    "thriller film"
+   ]
+  },
+  {
    "id": "emilia-p-rez",
    "title": "Emilia Pérez",
    "released": "2024-05-18",
    "langs": 42,
    "score": 71,
+   "cover": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
    "runtime": 132,
    "director": "Jacques Audiard",
    "genres": [
@@ -3615,6 +3898,7 @@
    "released": "2024-01-11",
    "langs": 39,
    "score": 71,
+   "cover": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
    "runtime": 105,
    "director": "David Ayer",
    "genres": [
@@ -3623,24 +3907,12 @@
    ]
   },
   {
-   "id": "gladiator-ii",
-   "title": "Gladiator II",
-   "released": "2024-11-13",
-   "langs": 52,
-   "score": 70,
-   "runtime": 148,
-   "director": "Ridley Scott",
-   "genres": [
-    "historical film",
-    "sword-and-sandal film"
-   ]
-  },
-  {
    "id": "no-hard-feelings",
    "title": "No Hard Feelings",
    "released": "2023-06-21",
    "langs": 34,
    "score": 70,
+   "cover": "https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
    "runtime": 90,
    "director": null,
    "genres": [
@@ -3649,11 +3921,26 @@
    ]
   },
   {
+   "id": "gladiator-ii",
+   "title": "Gladiator II",
+   "released": "2024-11-13",
+   "langs": 52,
+   "score": 70,
+   "cover": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+   "runtime": 148,
+   "director": "Ridley Scott",
+   "genres": [
+    "historical film",
+    "sword-and-sandal film"
+   ]
+  },
+  {
    "id": "indiana-jones-and-the-dial-of-destiny",
    "title": "Indiana Jones and the Dial of Destiny",
    "released": "2023-05-18",
    "langs": 52,
    "score": 70,
+   "cover": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
    "runtime": 154,
    "director": "James Mangold",
    "genres": [
@@ -3667,6 +3954,7 @@
    "released": "2025-09-01",
    "langs": 23,
    "score": 70,
+   "cover": "https://image.tmdb.org/t/p/w500/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
    "runtime": 123,
    "director": "Benny Safdie",
    "genres": [
@@ -3680,6 +3968,7 @@
    "released": "2023-09-09",
    "langs": 16,
    "score": 70,
+   "cover": "https://image.tmdb.org/t/p/w500/uXSajviZLZhYUSNL41y1PJ9RisB.jpg",
    "runtime": 100,
    "director": "Tony Goldwyn",
    "genres": [

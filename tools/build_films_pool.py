@@ -24,6 +24,7 @@ import urllib.request
 from datetime import date
 
 UA = "ArtClubApp/0.1 ( https://github.com/ventura1126-star/art-club )"
+TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 ENDPOINT = "https://query.wikidata.org/sparql"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "curator", "assets", "films.json")
 
@@ -60,6 +61,49 @@ GROUP BY ?film
 
 def log(m):
     print(m, flush=True)
+
+
+def tmdb_key():
+    """Read the key from the environment or from .env, never from the repo."""
+    key = os.environ.get("TMDB_API_KEY", "").strip()
+    if key:
+        return key
+    env = os.path.join(os.path.dirname(__file__), "..", ".env")
+    if os.path.exists(env):
+        for line in open(env):
+            if line.strip().startswith("TMDB_API_KEY="):
+                return line.split("=", 1)[1].strip()
+    return ""
+
+
+def poster_for(title, year, key):
+    """TMDB's poster for a film, or None.
+
+    Wikidata cannot supply this: posters are copyrighted, so Commons holds
+    red-carpet photography instead -- only 3 of 66 films had anything
+    poster-like.
+    """
+    if not key:
+        return None
+    params = {"api_key": key, "query": title, "include_adult": "false"}
+    if year:
+        params["year"] = year
+    try:
+        req = urllib.request.Request(
+            "https://api.themoviedb.org/3/search/movie?" + urllib.parse.urlencode(params),
+            headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            hits = json.loads(r.read().decode("utf-8"), strict=False).get("results") or []
+    except Exception:
+        return None
+    for h in hits[:3]:
+        # Guard against a fuzzy match landing on a different film entirely.
+        if (h.get("title") or "").strip().lower() == title.strip().lower():
+            if h.get("poster_path"):
+                return TMDB_IMG + h["poster_path"]
+    if hits and hits[0].get("poster_path"):
+        return TMDB_IMG + hits[0]["poster_path"]
+    return None
 
 
 def ask(query, attempts=5):
@@ -138,6 +182,19 @@ def build(years, min_score, min_langs):
             detail[q] = r
         log("  detaily: %d/%d" % (min(i + 150, len(qids)), len(qids)))
         time.sleep(2)
+    key = tmdb_key()
+    if key:
+        found = 0
+        for i, p in enumerate(pool, 1):
+            p["cover"] = poster_for(p["title"], p["released"][:4], key)
+            found += bool(p["cover"])
+            if i % 50 == 0:
+                log("  plakaty: %d/%d (nalezeno %d)" % (i, len(pool), found))
+            time.sleep(0.06)          # TMDB allows ~50 requests/second
+        log("  plakatu nalezeno: %d z %d" % (found, len(pool)))
+    else:
+        log("  TMDB_API_KEY nenastaven -> bez plakatu, ukaze se skore")
+
     for p, q in zip(pool, qids):
         d = detail.get(q, {})
         dur = d.get("runtime", {}).get("value")
