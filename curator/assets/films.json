@@ -1,0 +1,3690 @@
+{
+ "generated": "2026-08-18",
+ "since": "2023-01-01",
+ "count": 289,
+ "items": [
+  {
+   "id": "20-days-in-mariupol",
+   "title": "20 Days in Mariupol",
+   "released": "2023-01-20",
+   "langs": 41,
+   "score": 100,
+   "runtime": 97,
+   "director": "Mstyslav Chernov",
+   "genres": [
+    "war film",
+    "documentary film"
+   ]
+  },
+  {
+   "id": "concrete-utopia",
+   "title": "Concrete Utopia",
+   "released": "2023-08-09",
+   "langs": 15,
+   "score": 100,
+   "runtime": 130,
+   "director": "Um Tae-hwa",
+   "genres": [
+    "thriller film",
+    "disaster film"
+   ]
+  },
+  {
+   "id": "there-is-still-tomorrow",
+   "title": "There Is Still Tomorrow",
+   "released": "2023-10-26",
+   "langs": 17,
+   "score": 100,
+   "runtime": 118,
+   "director": "Paola Cortellesi",
+   "genres": [
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "how-to-make-millions-before-grandma-dies",
+   "title": "How to Make Millions Before Grandma Dies",
+   "released": "2024-04-04",
+   "langs": 23,
+   "score": 100,
+   "runtime": 125,
+   "director": "Pat Boonnitipat",
+   "genres": [
+    "comedy film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "wallace-and-gromit-vengeance-most-fowl",
+   "title": "Wallace and Gromit: Vengeance Most Fowl",
+   "released": "2024-10-27",
+   "langs": 30,
+   "score": 100,
+   "runtime": 79,
+   "director": "Nick Park",
+   "genres": [
+    "stop-motion animated film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "no-other-choice",
+   "title": "No Other Choice",
+   "released": "2025-08-29",
+   "langs": 26,
+   "score": 100,
+   "runtime": 139,
+   "director": "Park Chan-wook",
+   "genres": [
+    "black comedy film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "no-other-land",
+   "title": "No Other Land",
+   "released": "2024-01-01",
+   "langs": 28,
+   "score": 100,
+   "runtime": 95,
+   "director": "Basel Adra",
+   "genres": [
+    "documentary film"
+   ]
+  },
+  {
+   "id": "all-we-imagine-as-light",
+   "title": "All We Imagine as Light",
+   "released": "2024-05-23",
+   "langs": 26,
+   "score": 100,
+   "runtime": 118,
+   "director": "Payal Kapadia",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "silent-friend",
+   "title": "Silent Friend",
+   "released": "2025-09-05",
+   "langs": 15,
+   "score": 100,
+   "runtime": 147,
+   "director": "Ildikó Enyedi",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-stranger",
+   "title": "The Stranger",
+   "released": "2025-10-22",
+   "langs": 17,
+   "score": 100,
+   "runtime": 122,
+   "director": "François Ozon",
+   "genres": [
+    "crime film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "mr-nobody-against-putin",
+   "title": "Mr. Nobody Against Putin",
+   "released": "2025-01-25",
+   "langs": 30,
+   "score": 100,
+   "runtime": 90,
+   "director": "David Borenstein",
+   "genres": [
+    "documentary film"
+   ]
+  },
+  {
+   "id": "are-you-there-god-it-s-me-margaret",
+   "title": "Are You There God? It's Me, Margaret",
+   "released": "2023-04-23",
+   "langs": 17,
+   "score": 99,
+   "runtime": 105,
+   "director": "Kelly Fremon Craig",
+   "genres": [
+    "coming-of-age film",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "taylor-swift-the-eras-tour",
+   "title": "Taylor Swift: The Eras Tour",
+   "released": "2023-10-13",
+   "langs": 20,
+   "score": 99,
+   "runtime": 165,
+   "director": "Sam Wrench",
+   "genres": [
+    "concert film",
+    "documentary film"
+   ]
+  },
+  {
+   "id": "caught-by-the-tides",
+   "title": "Caught by the Tides",
+   "released": "2024-05-18",
+   "langs": 15,
+   "score": 99,
+   "runtime": 111,
+   "director": "Jia Zhangke",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-secret-agent",
+   "title": "The Secret Agent",
+   "released": "2025-05-18",
+   "langs": 29,
+   "score": 99,
+   "runtime": 160,
+   "director": "Kleber Mendonça Filho",
+   "genres": [
+    "political thriller film",
+    "historical film"
+   ]
+  },
+  {
+   "id": "reagan",
+   "title": "Reagan",
+   "released": "2024-08-30",
+   "langs": 18,
+   "score": 98,
+   "runtime": 135,
+   "director": "Sean McNamara",
+   "genres": [
+    "political film",
+    "historical film"
+   ]
+  },
+  {
+   "id": "blackberry",
+   "title": "BlackBerry",
+   "released": "2023-01-01",
+   "langs": 17,
+   "score": 98,
+   "runtime": 122,
+   "director": "Matt Johnson",
+   "genres": [
+    "biographical film",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "fallen-leaves",
+   "title": "Fallen Leaves",
+   "released": "2023-05-22",
+   "langs": 27,
+   "score": 98,
+   "runtime": 81,
+   "director": "Aki Kaurismäki",
+   "genres": [
+    "romance film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "the-three-musketeers-d-artagnan",
+   "title": "The Three Musketeers: D'Artagnan",
+   "released": "2023-04-05",
+   "langs": 24,
+   "score": 98,
+   "runtime": 121,
+   "director": "Martin Bourboulon",
+   "genres": [
+    "historical film",
+    "swashbuckler film"
+   ]
+  },
+  {
+   "id": "godzilla-minus-one",
+   "title": "Godzilla Minus One",
+   "released": "2023-11-01",
+   "langs": 27,
+   "score": 98,
+   "runtime": 125,
+   "director": "Takashi Yamazaki",
+   "genres": [
+    "thriller film",
+    "monster film"
+   ]
+  },
+  {
+   "id": "sing-sing",
+   "title": "Sing Sing",
+   "released": "2023-09-10",
+   "langs": 22,
+   "score": 98,
+   "runtime": 105,
+   "director": "Greg Kwedar",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "thelma",
+   "title": "Thelma",
+   "released": "2024-01-18",
+   "langs": 16,
+   "score": 98,
+   "runtime": 97,
+   "director": "Josh Margolin",
+   "genres": [
+    "action film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "the-voice-of-hind-rajab",
+   "title": "The Voice of Hind Rajab",
+   "released": "2025-09-03",
+   "langs": 27,
+   "score": 98,
+   "runtime": 89,
+   "director": "Kaouther Ben Hania",
+   "genres": [
+    "docudrama",
+    "drama film"
+   ]
+  },
+  {
+   "id": "it-was-just-an-accident",
+   "title": "It Was Just an Accident",
+   "released": "2025-05-20",
+   "langs": 33,
+   "score": 98,
+   "runtime": 105,
+   "director": "Jafar Panahi",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "late-night-with-the-devil",
+   "title": "Late Night with the Devil",
+   "released": "2023-03-10",
+   "langs": 19,
+   "score": 97,
+   "runtime": 92,
+   "director": "Colin Cairnes",
+   "genres": [
+    "satanic film",
+    "found footage film"
+   ]
+  },
+  {
+   "id": "the-holdovers",
+   "title": "The Holdovers",
+   "released": "2023-10-27",
+   "langs": 38,
+   "score": 97,
+   "runtime": 133,
+   "director": "Alexander Payne",
+   "genres": [
+    "Christmas film",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "the-promised-land",
+   "title": "The Promised Land",
+   "released": "2023-08-31",
+   "langs": 23,
+   "score": 97,
+   "runtime": 122,
+   "director": "Nikolaj Arcel",
+   "genres": [
+    "historical film"
+   ]
+  },
+  {
+   "id": "how-to-have-sex",
+   "title": "How to Have Sex",
+   "released": "2023-05-19",
+   "langs": 19,
+   "score": 97,
+   "runtime": 91,
+   "director": "Molly Manning Walker",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-taste-of-things",
+   "title": "The Taste of Things",
+   "released": "2023-05-24",
+   "langs": 26,
+   "score": 97,
+   "runtime": 134,
+   "director": "Trần Anh Hùng",
+   "genres": [
+    "historical film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "sinners",
+   "title": "Sinners",
+   "released": "2025-04-16",
+   "langs": 47,
+   "score": 97,
+   "runtime": 137,
+   "director": "Ryan Coogler",
+   "genres": [
+    "vampire film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "the-seed-of-the-sacred-fig",
+   "title": "The Seed of the Sacred Fig",
+   "released": "2024-05-24",
+   "langs": 29,
+   "score": 97,
+   "runtime": 168,
+   "director": "Mohammad Rasoulof",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "young-mothers",
+   "title": "Young Mothers",
+   "released": "2025-05-23",
+   "langs": 15,
+   "score": 97,
+   "runtime": null,
+   "director": "Jean-Pierre Dardenne",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "i-m-still-here",
+   "title": "I'm Still Here",
+   "released": "2024-09-01",
+   "langs": 34,
+   "score": 97,
+   "runtime": 135,
+   "director": "Walter Salles",
+   "genres": [
+    "biographical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "sentimental-value",
+   "title": "Sentimental Value",
+   "released": "2025-05-21",
+   "langs": 39,
+   "score": 97,
+   "runtime": 133,
+   "director": "Joachim Trier",
+   "genres": [
+    "comedy drama",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "sorry-baby",
+   "title": "Sorry, Baby",
+   "released": "2025-01-27",
+   "langs": 18,
+   "score": 97,
+   "runtime": 103,
+   "director": "Eva Victor",
+   "genres": [
+    "comedy film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-blue-caftan",
+   "title": "The Blue Caftan",
+   "released": "2023-02-10",
+   "langs": 20,
+   "score": 96,
+   "runtime": 122,
+   "director": "Maryam Touzani",
+   "genres": [
+    "LGBTQ-related film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "the-teachers-lounge",
+   "title": "The Teachers' Lounge",
+   "released": "2023-05-04",
+   "langs": 21,
+   "score": 96,
+   "runtime": 99,
+   "director": "İlker Çatak",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "on-the-adamant",
+   "title": "On the Adamant",
+   "released": "2023-09-14",
+   "langs": 15,
+   "score": 96,
+   "runtime": 109,
+   "director": "Nicolas Philibert",
+   "genres": [
+    "documentary film"
+   ]
+  },
+  {
+   "id": "monster",
+   "title": "Monster",
+   "released": "2023-05-17",
+   "langs": 26,
+   "score": 96,
+   "runtime": 127,
+   "director": "Hirokazu Koreeda",
+   "genres": [
+    "LGBTQ-related film",
+    "coming-of-age film"
+   ]
+  },
+  {
+   "id": "the-count-of-monte-cristo",
+   "title": "The Count of Monte Cristo",
+   "released": "2024-05-22",
+   "langs": 25,
+   "score": 96,
+   "runtime": 173,
+   "director": "Alexandre de La Patellière",
+   "genres": [
+    "historical film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "io-capitano",
+   "title": "Io capitano",
+   "released": "2023-09-06",
+   "langs": 23,
+   "score": 96,
+   "runtime": 121,
+   "director": "Matteo Garrone",
+   "genres": [
+    "docudrama",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "anatomy-of-a-fall",
+   "title": "Anatomy of a Fall",
+   "released": "2023-05-21",
+   "langs": 45,
+   "score": 96,
+   "runtime": 150,
+   "director": "Justine Triet",
+   "genres": [
+    "trial film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "all-of-us-strangers",
+   "title": "All of Us Strangers",
+   "released": "2023-08-31",
+   "langs": 23,
+   "score": 96,
+   "runtime": 105,
+   "director": "Andrew Haigh",
+   "genres": [
+    "romance film",
+    "fantasy film"
+   ]
+  },
+  {
+   "id": "perfect-days",
+   "title": "Perfect Days",
+   "released": "2023-05-25",
+   "langs": 31,
+   "score": 96,
+   "runtime": 123,
+   "director": "Wim Wenders",
+   "genres": [
+    "slice of life",
+    "drama film"
+   ]
+  },
+  {
+   "id": "four-daughters",
+   "title": "Four Daughters",
+   "released": "2023-05-19",
+   "langs": 21,
+   "score": 96,
+   "runtime": 110,
+   "director": "Kaouther Ben Hania",
+   "genres": [
+    "documentary film"
+   ]
+  },
+  {
+   "id": "strange-darling",
+   "title": "Strange Darling",
+   "released": "2023-01-01",
+   "langs": 17,
+   "score": 96,
+   "runtime": 96,
+   "director": "JT Mollner",
+   "genres": [
+    "thriller film",
+    "horror film"
+   ]
+  },
+  {
+   "id": "kneecap",
+   "title": "Kneecap",
+   "released": "2024-01-18",
+   "langs": 18,
+   "score": 96,
+   "runtime": 105,
+   "director": "Rich Peppiatt",
+   "genres": [
+    "docudrama",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "mission-impossible-dead-reckoning-part-one",
+   "title": "Mission: Impossible – Dead Reckoning Part One",
+   "released": "2023-07-12",
+   "langs": 51,
+   "score": 96,
+   "runtime": 163,
+   "director": "Christopher McQuarrie",
+   "genres": [
+    "spy film",
+    "action film"
+   ]
+  },
+  {
+   "id": "the-ugly-stepsister",
+   "title": "The Ugly Stepsister",
+   "released": "2025-01-23",
+   "langs": 26,
+   "score": 96,
+   "runtime": 109,
+   "director": "Emilie Blichfeldt",
+   "genres": [
+    "satirical film",
+    "body horror film"
+   ]
+  },
+  {
+   "id": "a-real-pain",
+   "title": "A Real Pain",
+   "released": "2024-01-20",
+   "langs": 33,
+   "score": 96,
+   "runtime": 90,
+   "director": "Jesse Eisenberg",
+   "genres": [
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "porcelain-war",
+   "title": "Porcelain War",
+   "released": "2024-01-01",
+   "langs": 19,
+   "score": 96,
+   "runtime": 87,
+   "director": "Slava Leontyev",
+   "genres": [
+    "documentary film"
+   ]
+  },
+  {
+   "id": "sound-of-falling",
+   "title": "Sound of Falling",
+   "released": "2025-05-14",
+   "langs": 20,
+   "score": 96,
+   "runtime": 149,
+   "director": "Mascha Schilinski",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "rebel-ridge",
+   "title": "Rebel Ridge",
+   "released": "2024-09-06",
+   "langs": 18,
+   "score": 96,
+   "runtime": 131,
+   "director": "Jeremy Saulnier",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "black-bag",
+   "title": "Black Bag",
+   "released": "2025-03-12",
+   "langs": 24,
+   "score": 96,
+   "runtime": 93,
+   "director": "Steven Soderbergh",
+   "genres": [
+    "spy film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "past-lives",
+   "title": "Past Lives",
+   "released": "2023-01-21",
+   "langs": 37,
+   "score": 95,
+   "runtime": 106,
+   "director": "Celine Song",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "they-cloned-tyrone",
+   "title": "They Cloned Tyrone",
+   "released": "2023-06-14",
+   "langs": 20,
+   "score": 95,
+   "runtime": null,
+   "director": "Juel Taylor",
+   "genres": [
+    "science fiction comedy",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "hit-man",
+   "title": "Hit Man",
+   "released": "2023-09-05",
+   "langs": 24,
+   "score": 95,
+   "runtime": 115,
+   "director": "Richard Linklater",
+   "genres": [
+    "black comedy film",
+    "action comedy film"
+   ]
+  },
+  {
+   "id": "teenage-mutant-ninja-turtles-mutant-mayhem",
+   "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+   "released": "2023-06-12",
+   "langs": 31,
+   "score": 95,
+   "runtime": 99,
+   "director": "Jeff Rowe",
+   "genres": [
+    "ninja film",
+    "superhero film"
+   ]
+  },
+  {
+   "id": "dahomey",
+   "title": "Dahomey",
+   "released": "2024-01-01",
+   "langs": 20,
+   "score": 95,
+   "runtime": 67,
+   "director": "Mati Diop",
+   "genres": [
+    "documentary film"
+   ]
+  },
+  {
+   "id": "train-dreams",
+   "title": "Train Dreams",
+   "released": "2025-01-01",
+   "langs": 40,
+   "score": 95,
+   "runtime": 102,
+   "director": "Clint Bentley",
+   "genres": [
+    "period drama film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "hard-truths",
+   "title": "Hard Truths",
+   "released": "2024-09-06",
+   "langs": 16,
+   "score": 95,
+   "runtime": 97,
+   "director": "Mike Leigh",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "sisu-road-to-revenge",
+   "title": "Sisu: Road to Revenge",
+   "released": "2025-09-21",
+   "langs": 15,
+   "score": 95,
+   "runtime": 89,
+   "director": "Jalmari Helander",
+   "genres": [
+    "action film"
+   ]
+  },
+  {
+   "id": "project-hail-mary",
+   "title": "Project Hail Mary",
+   "released": "2026-03-18",
+   "langs": 46,
+   "score": 95,
+   "runtime": 156,
+   "director": "Phil Lord",
+   "genres": [
+    "Hopecore",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "reality",
+   "title": "Reality",
+   "released": "2023-02-18",
+   "langs": 18,
+   "score": 94,
+   "runtime": 82,
+   "director": "Tina Satter",
+   "genres": [
+    "crime film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "american-fiction",
+   "title": "American Fiction",
+   "released": "2023-09-08",
+   "langs": 31,
+   "score": 94,
+   "runtime": 117,
+   "director": "Cord Jefferson",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "love-lies-bleeding",
+   "title": "Love Lies Bleeding",
+   "released": "2024-01-20",
+   "langs": 28,
+   "score": 94,
+   "runtime": 104,
+   "director": "Rose Glass",
+   "genres": [
+    "lesbian-related film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "la-chimera",
+   "title": "La chimera",
+   "released": "2023-05-26",
+   "langs": 24,
+   "score": 94,
+   "runtime": 130,
+   "director": "Alice Rohrwacher",
+   "genres": [
+    "comedy drama",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "the-monk-and-the-gun",
+   "title": "The Monk and the Gun",
+   "released": "2023-09-01",
+   "langs": 15,
+   "score": 94,
+   "runtime": 107,
+   "director": "Pawo Choyning Dorji",
+   "genres": [
+    "comedy film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "two-prosecutors",
+   "title": "Two Prosecutors",
+   "released": "2025-05-14",
+   "langs": 15,
+   "score": 94,
+   "runtime": 117,
+   "director": "Sergei Loznitsa",
+   "genres": [
+    "historical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "john-wick-chapter-4",
+   "title": "John Wick: Chapter 4",
+   "released": "2023-03-22",
+   "langs": 50,
+   "score": 94,
+   "runtime": 169,
+   "director": "Chad Stahelski",
+   "genres": [
+    "action thriller",
+    "neo-noir"
+   ]
+  },
+  {
+   "id": "one-battle-after-another",
+   "title": "One Battle After Another",
+   "released": "2025-09-08",
+   "langs": 52,
+   "score": 94,
+   "runtime": 9691,
+   "director": "Paul Thomas Anderson",
+   "genres": [
+    "black comedy film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "marty-supreme",
+   "title": "Marty Supreme",
+   "released": "2025-12-25",
+   "langs": 34,
+   "score": 94,
+   "runtime": 150,
+   "director": "Josh Safdie",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-odyssey",
+   "title": "The Odyssey",
+   "released": "2026-07-06",
+   "langs": 61,
+   "score": 94,
+   "runtime": 172,
+   "director": "Christopher Nolan",
+   "genres": [
+    "historical film",
+    "epic film"
+   ]
+  },
+  {
+   "id": "the-brutalist",
+   "title": "The Brutalist",
+   "released": "2024-09-01",
+   "langs": 43,
+   "score": 93,
+   "runtime": 215,
+   "director": "Brady Corbet",
+   "genres": [
+    "historical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-zone-of-interest",
+   "title": "The Zone of Interest",
+   "released": "2023-05-19",
+   "langs": 43,
+   "score": 93,
+   "runtime": 105,
+   "director": "Jonathan Glazer",
+   "genres": [
+    "historical drama",
+    "historical film"
+   ]
+  },
+  {
+   "id": "green-border",
+   "title": "Green Border",
+   "released": "2023-09-05",
+   "langs": 20,
+   "score": 93,
+   "runtime": 147,
+   "director": "Agnieszka Holland",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "small-things-like-these",
+   "title": "Small Things Like These",
+   "released": "2024-02-15",
+   "langs": 23,
+   "score": 93,
+   "runtime": 98,
+   "director": "Tim Mielants",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "a-different-man",
+   "title": "A Different Man",
+   "released": "2024-01-21",
+   "langs": 21,
+   "score": 93,
+   "runtime": 112,
+   "director": "Aaron Schimberg",
+   "genres": [
+    "psychological thriller film"
+   ]
+  },
+  {
+   "id": "juror-2",
+   "title": "Juror #2",
+   "released": "2024-10-27",
+   "langs": 26,
+   "score": 93,
+   "runtime": 114,
+   "director": "Clint Eastwood",
+   "genres": [
+    "trial film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "anora",
+   "title": "Anora",
+   "released": "2024-05-21",
+   "langs": 53,
+   "score": 93,
+   "runtime": 139,
+   "director": "Sean Baker",
+   "genres": [
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "killers-of-the-flower-moon",
+   "title": "Killers of the Flower Moon",
+   "released": "2023-05-20",
+   "langs": 51,
+   "score": 93,
+   "runtime": 206,
+   "director": "Martin Scorsese",
+   "genres": [
+    "detective film",
+    "crime thriller film"
+   ]
+  },
+  {
+   "id": "the-girl-with-the-needle",
+   "title": "The Girl with the Needle",
+   "released": "2024-05-15",
+   "langs": 25,
+   "score": 93,
+   "runtime": 115,
+   "director": "Magnus von Horn",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "conclave",
+   "title": "Conclave",
+   "released": "2024-01-23",
+   "langs": 47,
+   "score": 93,
+   "runtime": 121,
+   "director": "Edward Berger",
+   "genres": [
+    "thriller film",
+    "mystery film"
+   ]
+  },
+  {
+   "id": "vermiglio",
+   "title": "Vermiglio",
+   "released": "2024-09-19",
+   "langs": 22,
+   "score": 93,
+   "runtime": 119,
+   "director": "Maura Delpero",
+   "genres": [
+    "historical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "sir-t",
+   "title": "Sirāt",
+   "released": "2025-05-16",
+   "langs": 24,
+   "score": 93,
+   "runtime": 115,
+   "director": "Óliver Laxe",
+   "genres": [
+    "post-apocalyptic film",
+    "road movie"
+   ]
+  },
+  {
+   "id": "weapons",
+   "title": "Weapons",
+   "released": "2025-08-06",
+   "langs": 39,
+   "score": 93,
+   "runtime": 128,
+   "director": "Zach Cregger",
+   "genres": [
+    "thriller film",
+    "mystery film"
+   ]
+  },
+  {
+   "id": "companion",
+   "title": "Companion",
+   "released": "2025-01-25",
+   "langs": 33,
+   "score": 93,
+   "runtime": 97,
+   "director": "Drew Hancock",
+   "genres": [
+    "thriller film",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "paddington-in-peru",
+   "title": "Paddington in Peru",
+   "released": "2024-11-08",
+   "langs": 30,
+   "score": 93,
+   "runtime": 106,
+   "director": "Dougal Wilson",
+   "genres": [
+    "live-action/animated film",
+    "family film"
+   ]
+  },
+  {
+   "id": "oppenheimer",
+   "title": "Oppenheimer",
+   "released": "2023-07-20",
+   "langs": 81,
+   "score": 93,
+   "runtime": 10809,
+   "director": "Christopher Nolan",
+   "genres": [
+    "historical film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "afire",
+   "title": "Afire",
+   "released": "2023-01-01",
+   "langs": 15,
+   "score": 92,
+   "runtime": 102,
+   "director": "Christian Petzold",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "poor-things",
+   "title": "Poor Things",
+   "released": "2023-09-01",
+   "langs": 49,
+   "score": 92,
+   "runtime": 141,
+   "director": "Yorgos Lanthimos",
+   "genres": [
+    "arthouse science fiction film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "dune-part-two",
+   "title": "Dune: Part Two",
+   "released": "2024-02-27",
+   "langs": 57,
+   "score": 92,
+   "runtime": 166,
+   "director": "Denis Villeneuve",
+   "genres": [
+    "speculative fiction film",
+    "epic film"
+   ]
+  },
+  {
+   "id": "the-order",
+   "title": "The Order",
+   "released": "2024-08-31",
+   "langs": 22,
+   "score": 92,
+   "runtime": 144,
+   "director": "Justin Kurzel",
+   "genres": [
+    "crime thriller film"
+   ]
+  },
+  {
+   "id": "about-dry-grasses",
+   "title": "About Dry Grasses",
+   "released": "2023-05-19",
+   "langs": 20,
+   "score": 92,
+   "runtime": 197,
+   "director": "Nuri Bilge Ceylan",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "air",
+   "title": "Air",
+   "released": "2023-03-18",
+   "langs": 31,
+   "score": 92,
+   "runtime": 112,
+   "director": "Ben Affleck",
+   "genres": [
+    "biographical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "touch",
+   "title": "Touch",
+   "released": "2024-07-12",
+   "langs": 15,
+   "score": 92,
+   "runtime": 121,
+   "director": "Baltasar Kormákur",
+   "genres": [
+    "romance film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "warfare",
+   "title": "Warfare",
+   "released": "2025-03-16",
+   "langs": 21,
+   "score": 92,
+   "runtime": 95,
+   "director": "Alex Garland",
+   "genres": [
+    "biographical film",
+    "war film"
+   ]
+  },
+  {
+   "id": "final-destination-bloodlines",
+   "title": "Final Destination Bloodlines",
+   "released": "2025-05-14",
+   "langs": 33,
+   "score": 92,
+   "runtime": 110,
+   "director": "Adam Stein",
+   "genres": [
+    "slasher film",
+    "horror film"
+   ]
+  },
+  {
+   "id": "exit-8",
+   "title": "Exit 8",
+   "released": "2025-05-19",
+   "langs": 20,
+   "score": 92,
+   "runtime": 95,
+   "director": "Genki Kawamura",
+   "genres": [
+    "psychological thriller film",
+    "psychological horror film"
+   ]
+  },
+  {
+   "id": "september-5",
+   "title": "September 5",
+   "released": "2024-01-01",
+   "langs": 23,
+   "score": 92,
+   "runtime": 91,
+   "director": "Tim Fehlbaum",
+   "genres": [
+    "historical film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "wake-up-dead-man",
+   "title": "Wake Up Dead Man",
+   "released": "2025-09-06",
+   "langs": 32,
+   "score": 92,
+   "runtime": 144,
+   "director": "Rian Johnson",
+   "genres": [
+    "mystery film",
+    "detective fiction"
+   ]
+  },
+  {
+   "id": "dream-scenario",
+   "title": "Dream Scenario",
+   "released": "2023-09-09",
+   "langs": 24,
+   "score": 91,
+   "runtime": 100,
+   "director": "Kristoffer Borgli",
+   "genres": [
+    "surrealist film",
+    "comedy horror"
+   ]
+  },
+  {
+   "id": "nickel-boys",
+   "title": "Nickel Boys",
+   "released": "2024-08-30",
+   "langs": 26,
+   "score": 91,
+   "runtime": 140,
+   "director": "RaMell Ross",
+   "genres": [
+    "historical drama",
+    "drama film"
+   ]
+  },
+  {
+   "id": "woman-of-the-hour",
+   "title": "Woman of the Hour",
+   "released": "2023-09-08",
+   "langs": 17,
+   "score": 91,
+   "runtime": 94,
+   "director": "Anna Kendrick",
+   "genres": [
+    "crime thriller film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "evil-does-not-exist",
+   "title": "Evil Does Not Exist",
+   "released": "2023-09-04",
+   "langs": 20,
+   "score": 91,
+   "runtime": 106,
+   "director": "Ryusuke Hamaguchi",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "may-december",
+   "title": "May December",
+   "released": "2023-05-20",
+   "langs": 31,
+   "score": 91,
+   "runtime": 113,
+   "director": "Todd Haynes",
+   "genres": [
+    "romance film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "downton-abbey-the-grand-finale",
+   "title": "Downton Abbey: The Grand Finale",
+   "released": "2025-09-08",
+   "langs": 21,
+   "score": 91,
+   "runtime": 123,
+   "director": "Simon Curtis",
+   "genres": []
+  },
+  {
+   "id": "primate",
+   "title": "Primate",
+   "released": "2025-09-01",
+   "langs": 18,
+   "score": 91,
+   "runtime": 89,
+   "director": "Johannes Roberts",
+   "genres": [
+    "horror film"
+   ]
+  },
+  {
+   "id": "nouvelle-vague",
+   "title": "Nouvelle Vague",
+   "released": "2025-05-17",
+   "langs": 25,
+   "score": 91,
+   "runtime": 105,
+   "director": "Richard Linklater",
+   "genres": [
+    "metacinema",
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-mastermind",
+   "title": "The Mastermind",
+   "released": "2025-05-23",
+   "langs": 19,
+   "score": 91,
+   "runtime": null,
+   "director": "Kelly Reichardt",
+   "genres": [
+    "thriller film",
+    "heist film"
+   ]
+  },
+  {
+   "id": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "released": "2025-12-01",
+   "langs": 54,
+   "score": 91,
+   "runtime": 197,
+   "director": "James Cameron",
+   "genres": [
+    "science fiction film",
+    "action film"
+   ]
+  },
+  {
+   "id": "if-i-had-legs-i-d-kick-you",
+   "title": "If I Had Legs I'd Kick You",
+   "released": "2025-01-24",
+   "langs": 20,
+   "score": 91,
+   "runtime": 113,
+   "director": "Mary Bronstein",
+   "genres": [
+    "comedy drama",
+    "drama film"
+   ]
+  },
+  {
+   "id": "12th-fail",
+   "title": "12th Fail",
+   "released": "2023-10-27",
+   "langs": 20,
+   "score": 91,
+   "runtime": 146,
+   "director": "Vidhu Vinod Chopra",
+   "genres": []
+  },
+  {
+   "id": "furiosa-a-mad-max-saga",
+   "title": "Furiosa: A Mad Max Saga",
+   "released": "2024-05-15",
+   "langs": 44,
+   "score": 90,
+   "runtime": 148,
+   "director": "George Miller",
+   "genres": [
+    "dystopian film",
+    "post-apocalyptic film"
+   ]
+  },
+  {
+   "id": "society-of-the-snow",
+   "title": "Society of the Snow",
+   "released": "2023-09-09",
+   "langs": 35,
+   "score": 90,
+   "runtime": 144,
+   "director": "J. A. Bayona",
+   "genres": [
+    "historical film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "one-life",
+   "title": "One Life",
+   "released": "2023-09-09",
+   "langs": 26,
+   "score": 90,
+   "runtime": 109,
+   "director": "James Hawes",
+   "genres": [
+    "historical film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "the-last-showgirl",
+   "title": "The Last Showgirl",
+   "released": "2024-09-06",
+   "langs": 20,
+   "score": 90,
+   "runtime": null,
+   "director": "Gia Coppola",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "good-boy",
+   "title": "Good Boy",
+   "released": "2025-03-08",
+   "langs": 16,
+   "score": 90,
+   "runtime": 72,
+   "director": null,
+   "genres": [
+    "supernatural horror film"
+   ]
+  },
+  {
+   "id": "grand-tour",
+   "title": "Grand Tour",
+   "released": "2024-05-22",
+   "langs": 16,
+   "score": 90,
+   "runtime": 129,
+   "director": "Miguel Gomes",
+   "genres": [
+    "historical film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "blue-moon",
+   "title": "Blue Moon",
+   "released": "2025-02-18",
+   "langs": 25,
+   "score": 90,
+   "runtime": 100,
+   "director": "Richard Linklater",
+   "genres": [
+    "LGBTQ-related film",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "dreams",
+   "title": "Dreams",
+   "released": "2024-10-04",
+   "langs": 20,
+   "score": 90,
+   "runtime": null,
+   "director": "Dag Johan Haugerud",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "together",
+   "title": "Together",
+   "released": "2025-01-26",
+   "langs": 21,
+   "score": 90,
+   "runtime": 102,
+   "director": "Michael Shanks",
+   "genres": [
+    "supernatural horror film",
+    "body horror"
+   ]
+  },
+  {
+   "id": "young-hearts",
+   "title": "Young Hearts",
+   "released": "2024-02-17",
+   "langs": 15,
+   "score": 90,
+   "runtime": 97,
+   "director": "Anthony Schatteman",
+   "genres": [
+    "coming-of-age film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "heretic",
+   "title": "Heretic",
+   "released": "2024-11-08",
+   "langs": 32,
+   "score": 90,
+   "runtime": 110,
+   "director": "Bryan Woods",
+   "genres": [
+    "thriller film",
+    "horror film"
+   ]
+  },
+  {
+   "id": "the-substance",
+   "title": "The Substance",
+   "released": "2024-05-19",
+   "langs": 50,
+   "score": 89,
+   "runtime": 141,
+   "director": "Coralie Fargeat",
+   "genres": [
+    "psychological thriller film",
+    "psychological horror film"
+   ]
+  },
+  {
+   "id": "the-iron-claw",
+   "title": "The Iron Claw",
+   "released": "2023-11-08",
+   "langs": 24,
+   "score": 89,
+   "runtime": 132,
+   "director": "Sean Durkin",
+   "genres": [
+    "sport film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "monkey-man",
+   "title": "Monkey Man",
+   "released": "2024-03-11",
+   "langs": 29,
+   "score": 89,
+   "runtime": 113,
+   "director": "Dev Patel",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "creed-iii",
+   "title": "Creed III",
+   "released": "2023-03-01",
+   "langs": 31,
+   "score": 89,
+   "runtime": 116,
+   "director": "Michael B. Jordan",
+   "genres": [
+    "boxing film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "bring-her-back",
+   "title": "Bring Her Back",
+   "released": "2025-05-28",
+   "langs": 22,
+   "score": 89,
+   "runtime": 104,
+   "director": "Danny Philippou",
+   "genres": [
+    "supernatural horror film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "bridget-jones-mad-about-the-boy",
+   "title": "Bridget Jones: Mad About the Boy",
+   "released": "2025-02-12",
+   "langs": 26,
+   "score": 89,
+   "runtime": 125,
+   "director": "Michael Morris",
+   "genres": [
+    "romantic comedy film"
+   ]
+  },
+  {
+   "id": "hedda",
+   "title": "Hedda",
+   "released": "2025-09-07",
+   "langs": 17,
+   "score": 89,
+   "runtime": null,
+   "director": "Nia DaCosta",
+   "genres": [
+    "LGBTQ-related film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "better-man",
+   "title": "Better Man",
+   "released": "2024-08-30",
+   "langs": 19,
+   "score": 89,
+   "runtime": 135,
+   "director": "Michael Gracey",
+   "genres": [
+    "comedy drama",
+    "musical film"
+   ]
+  },
+  {
+   "id": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "released": "2026-07-29",
+   "langs": 49,
+   "score": 89,
+   "runtime": 145,
+   "director": "Destin Daniel Cretton",
+   "genres": [
+    "superhero film",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "carry-on",
+   "title": "Carry-On",
+   "released": "2024-12-13",
+   "langs": 26,
+   "score": 88,
+   "runtime": 119,
+   "director": "Jaume Collet-Serra",
+   "genres": [
+    "thriller film",
+    "mystery film"
+   ]
+  },
+  {
+   "id": "challengers",
+   "title": "Challengers",
+   "released": "2024-04-18",
+   "langs": 33,
+   "score": 88,
+   "runtime": 131,
+   "director": "Luca Guadagnino",
+   "genres": [
+    "sport film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "missing",
+   "title": "Missing",
+   "released": "2023-01-19",
+   "langs": 25,
+   "score": 88,
+   "runtime": 111,
+   "director": "Will Merrick",
+   "genres": [
+    "screenlife",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "wicked",
+   "title": "Wicked",
+   "released": "2024-11-20",
+   "langs": 46,
+   "score": 88,
+   "runtime": 160,
+   "director": "Jon M. Chu",
+   "genres": [
+    "cinematic fairy tale",
+    "musical film"
+   ]
+  },
+  {
+   "id": "thunderbolts",
+   "title": "Thunderbolts*",
+   "released": "2025-05-01",
+   "langs": 47,
+   "score": 88,
+   "runtime": 126,
+   "director": "Jake Schreier",
+   "genres": [
+    "superhero film",
+    "crime film"
+   ]
+  },
+  {
+   "id": "the-naked-gun",
+   "title": "The Naked Gun",
+   "released": "2025-07-31",
+   "langs": 32,
+   "score": 88,
+   "runtime": 85,
+   "director": "Akiva Schaffer",
+   "genres": [
+    "action comedy film"
+   ]
+  },
+  {
+   "id": "the-testament-of-ann-lee",
+   "title": "The Testament of Ann Lee",
+   "released": "2025-09-01",
+   "langs": 20,
+   "score": 88,
+   "runtime": 130,
+   "director": "Mona Fastvold",
+   "genres": [
+    "historical film",
+    "musical film"
+   ]
+  },
+  {
+   "id": "the-piano-lesson",
+   "title": "The Piano Lesson",
+   "released": "2024-08-31",
+   "langs": 20,
+   "score": 88,
+   "runtime": 125,
+   "director": "Malcolm Washington",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "presence",
+   "title": "Presence",
+   "released": "2024-01-19",
+   "langs": 21,
+   "score": 88,
+   "runtime": 85,
+   "director": "Steven Soderbergh",
+   "genres": [
+    "psychological thriller film",
+    "supernatural thriller"
+   ]
+  },
+  {
+   "id": "28-years-later",
+   "title": "28 Years Later",
+   "released": "2025-06-20",
+   "langs": 42,
+   "score": 88,
+   "runtime": 115,
+   "director": "Danny Boyle",
+   "genres": [
+    "dystopian film",
+    "science fiction horror film"
+   ]
+  },
+  {
+   "id": "the-long-walk",
+   "title": "The Long Walk",
+   "released": "2025-08-20",
+   "langs": 26,
+   "score": 88,
+   "runtime": 108,
+   "director": "Francis Lawrence",
+   "genres": [
+    "dystopian film",
+    "dystopian fiction"
+   ]
+  },
+  {
+   "id": "rental-family",
+   "title": "Rental Family",
+   "released": "2025-09-06",
+   "langs": 18,
+   "score": 88,
+   "runtime": 110,
+   "director": "Hikari",
+   "genres": [
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "barbie",
+   "title": "Barbie",
+   "released": "2023-01-01",
+   "langs": 69,
+   "score": 88,
+   "runtime": 114,
+   "director": "Greta Gerwig",
+   "genres": [
+    "fantasy comedy film",
+    "satirical film"
+   ]
+  },
+  {
+   "id": "young-woman-and-the-sea",
+   "title": "Young Woman and the Sea",
+   "released": "2024-05-31",
+   "langs": 19,
+   "score": 88,
+   "runtime": 129,
+   "director": "Joachim Rønning",
+   "genres": [
+    "sport film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "the-beast",
+   "title": "The Beast",
+   "released": "2023-09-03",
+   "langs": 16,
+   "score": 87,
+   "runtime": 145,
+   "director": "Bertrand Bonello",
+   "genres": [
+    "dystopian film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "infinity-pool",
+   "title": "Infinity Pool",
+   "released": "2023-01-21",
+   "langs": 23,
+   "score": 87,
+   "runtime": 117,
+   "director": "Brandon Cronenberg",
+   "genres": [
+    "mystery film",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "the-three-musketeers-milady",
+   "title": "The Three Musketeers: Milady",
+   "released": "2023-12-13",
+   "langs": 22,
+   "score": 87,
+   "runtime": 115,
+   "director": "Martin Bourboulon",
+   "genres": [
+    "historical film",
+    "swashbuckler film"
+   ]
+  },
+  {
+   "id": "the-lost-bus",
+   "title": "The Lost Bus",
+   "released": "2025-09-05",
+   "langs": 16,
+   "score": 87,
+   "runtime": null,
+   "director": "Paul Greengrass",
+   "genres": [
+    "survival film",
+    "disaster film"
+   ]
+  },
+  {
+   "id": "roofman",
+   "title": "Roofman",
+   "released": "2025-09-06",
+   "langs": 23,
+   "score": 87,
+   "runtime": 126,
+   "director": "Derek Cianfrance",
+   "genres": [
+    "romantic comedy film",
+    "crime film"
+   ]
+  },
+  {
+   "id": "bugonia",
+   "title": "Bugonia",
+   "released": "2025-08-28",
+   "langs": 38,
+   "score": 87,
+   "runtime": 118,
+   "director": "Yorgos Lanthimos",
+   "genres": [
+    "black comedy film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "a-quiet-place-day-one",
+   "title": "A Quiet Place: Day One",
+   "released": "2024-06-26",
+   "langs": 29,
+   "score": 86,
+   "runtime": 89,
+   "director": "Michael Sarnoski",
+   "genres": [
+    "horror film"
+   ]
+  },
+  {
+   "id": "longlegs",
+   "title": "Longlegs",
+   "released": "2024-07-12",
+   "langs": 30,
+   "score": 86,
+   "runtime": 101,
+   "director": "Oz Perkins",
+   "genres": [
+    "supernatural horror film"
+   ]
+  },
+  {
+   "id": "turtles-all-the-way-down",
+   "title": "Turtles All the Way Down",
+   "released": "2024-05-02",
+   "langs": 16,
+   "score": 86,
+   "runtime": null,
+   "director": "Hannah Marks",
+   "genres": [
+    "romance film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "smile-2",
+   "title": "Smile 2",
+   "released": "2024-10-17",
+   "langs": 29,
+   "score": 86,
+   "runtime": 127,
+   "director": "Parker Finn",
+   "genres": [
+    "mystery film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "the-fantastic-four-first-steps",
+   "title": "The Fantastic Four: First Steps",
+   "released": "2025-07-24",
+   "langs": 49,
+   "score": 86,
+   "runtime": 114,
+   "director": "Matt Shakman",
+   "genres": [
+    "science fiction film",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "hamnet",
+   "title": "Hamnet",
+   "released": "2025-08-29",
+   "langs": 39,
+   "score": 86,
+   "runtime": 125,
+   "director": "Chloé Zhao",
+   "genres": [
+    "period drama film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "predator-badlands",
+   "title": "Predator: Badlands",
+   "released": "2025-11-05",
+   "langs": 33,
+   "score": 86,
+   "runtime": 108,
+   "director": "Dan Trachtenberg",
+   "genres": [
+    "action thriller",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "bird",
+   "title": "Bird",
+   "released": "2024-05-16",
+   "langs": 18,
+   "score": 86,
+   "runtime": 119,
+   "director": "Andrea Arnold",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "kill-the-jockey",
+   "title": "Kill the Jockey",
+   "released": "2024-08-29",
+   "langs": 17,
+   "score": 86,
+   "runtime": 96,
+   "director": "Luis Ortega",
+   "genres": [
+    "crime film",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "fair-play",
+   "title": "Fair Play",
+   "released": "2023-01-20",
+   "langs": 19,
+   "score": 85,
+   "runtime": 113,
+   "director": "Chloe Domont",
+   "genres": [
+    "thriller film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-dead-don-t-hurt",
+   "title": "The Dead Don't Hurt",
+   "released": "2023-09-08",
+   "langs": 16,
+   "score": 85,
+   "runtime": 129,
+   "director": "Viggo Mortensen",
+   "genres": [
+    "romantic drama film",
+    "Western film"
+   ]
+  },
+  {
+   "id": "the-killer",
+   "title": "The Killer",
+   "released": "2023-09-03",
+   "langs": 31,
+   "score": 85,
+   "runtime": 118,
+   "director": "David Fincher",
+   "genres": [
+    "action thriller",
+    "neo-noir"
+   ]
+  },
+  {
+   "id": "sonic-the-hedgehog-3",
+   "title": "Sonic the Hedgehog 3",
+   "released": "2024-12-20",
+   "langs": 50,
+   "score": 85,
+   "runtime": 110,
+   "director": "Jeff Fowler",
+   "genres": [
+    "live-action/animated film",
+    "family film"
+   ]
+  },
+  {
+   "id": "frankenstein",
+   "title": "Frankenstein",
+   "released": "2025-08-30",
+   "langs": 40,
+   "score": 85,
+   "runtime": 149,
+   "director": "Guillermo del Toro",
+   "genres": [
+    "Gothic film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "memory",
+   "title": "Memory",
+   "released": "2023-01-01",
+   "langs": 16,
+   "score": 85,
+   "runtime": 100,
+   "director": "Michel Franco",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "totally-killer",
+   "title": "Totally Killer",
+   "released": "2023-01-01",
+   "langs": 18,
+   "score": 85,
+   "runtime": 106,
+   "director": "Nahnatchka Khan",
+   "genres": [
+    "time-travel film",
+    "comedy horror"
+   ]
+  },
+  {
+   "id": "gabby-s-dollhouse-the-movie",
+   "title": "Gabby's Dollhouse: The Movie",
+   "released": "2025-09-26",
+   "langs": 22,
+   "score": 85,
+   "runtime": 98,
+   "director": "Ryan Crego",
+   "genres": [
+    "live-action/animated film",
+    "teen film"
+   ]
+  },
+  {
+   "id": "evil-dead-rise",
+   "title": "Evil Dead Rise",
+   "released": "2023-03-15",
+   "langs": 33,
+   "score": 84,
+   "runtime": 96,
+   "director": "Lee Cronin",
+   "genres": [
+    "supernatural horror film",
+    "speculative fiction film"
+   ]
+  },
+  {
+   "id": "nyad",
+   "title": "Nyad",
+   "released": "2023-01-01",
+   "langs": 24,
+   "score": 84,
+   "runtime": 121,
+   "director": "Jimmy Chin",
+   "genres": [
+    "biographical sports film"
+   ]
+  },
+  {
+   "id": "thanksgiving",
+   "title": "Thanksgiving",
+   "released": "2023-11-17",
+   "langs": 24,
+   "score": 84,
+   "runtime": 106,
+   "director": "Eli Roth",
+   "genres": [
+    "slasher film",
+    "horror film"
+   ]
+  },
+  {
+   "id": "i-saw-the-tv-glow",
+   "title": "I Saw the TV Glow",
+   "released": "2024-01-18",
+   "langs": 20,
+   "score": 84,
+   "runtime": 100,
+   "director": "Jane Schoenbrun",
+   "genres": [
+    "psychological film",
+    "transgender film"
+   ]
+  },
+  {
+   "id": "rustin",
+   "title": "Rustin",
+   "released": "2023-08-31",
+   "langs": 19,
+   "score": 84,
+   "runtime": 99,
+   "director": "George C. Wolfe",
+   "genres": [
+    "LGBTQ-related film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "dumb-money",
+   "title": "Dumb Money",
+   "released": "2023-01-01",
+   "langs": 23,
+   "score": 84,
+   "runtime": 105,
+   "director": "Craig Gillespie",
+   "genres": [
+    "comedy drama",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "highest-2-lowest",
+   "title": "Highest 2 Lowest",
+   "released": "2025-05-19",
+   "langs": 17,
+   "score": 84,
+   "runtime": 133,
+   "director": "Spike Lee",
+   "genres": [
+    "thriller film",
+    "neo-noir"
+   ]
+  },
+  {
+   "id": "caught-stealing",
+   "title": "Caught Stealing",
+   "released": "2025-08-28",
+   "langs": 21,
+   "score": 84,
+   "runtime": 107,
+   "director": "Darren Aronofsky",
+   "genres": [
+    "crime thriller film",
+    "crime film"
+   ]
+  },
+  {
+   "id": "nosferatu",
+   "title": "Nosferatu",
+   "released": "2024-12-02",
+   "langs": 40,
+   "score": 84,
+   "runtime": 143,
+   "director": "Robert Eggers",
+   "genres": [
+    "vampire film",
+    "horror film"
+   ]
+  },
+  {
+   "id": "the-surfer",
+   "title": "The Surfer",
+   "released": "2024-05-18",
+   "langs": 15,
+   "score": 84,
+   "runtime": 100,
+   "director": "Lorcan Finnegan",
+   "genres": [
+    "psychological thriller"
+   ]
+  },
+  {
+   "id": "ordinary-angels",
+   "title": "Ordinary Angels",
+   "released": "2024-02-23",
+   "langs": 15,
+   "score": 84,
+   "runtime": 117,
+   "director": "Jon Gunn",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "priscilla",
+   "title": "Priscilla",
+   "released": "2023-09-04",
+   "langs": 30,
+   "score": 84,
+   "runtime": 113,
+   "director": "Sofia Coppola",
+   "genres": [
+    "biographical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-old-oak",
+   "title": "The Old Oak",
+   "released": "2023-05-26",
+   "langs": 19,
+   "score": 83,
+   "runtime": 113,
+   "director": "Ken Loach",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "the-first-omen",
+   "title": "The First Omen",
+   "released": "2024-04-03",
+   "langs": 25,
+   "score": 83,
+   "runtime": 119,
+   "director": "Arkasha Stevenson",
+   "genres": [
+    "horror film"
+   ]
+  },
+  {
+   "id": "speak-no-evil",
+   "title": "Speak No Evil",
+   "released": "2024-09-12",
+   "langs": 26,
+   "score": 83,
+   "runtime": 110,
+   "director": "James Watkins",
+   "genres": [
+    "psychological thriller film",
+    "psychological horror film"
+   ]
+  },
+  {
+   "id": "pathaan",
+   "title": "Pathaan",
+   "released": "2023-01-25",
+   "langs": 26,
+   "score": 83,
+   "runtime": 146,
+   "director": "Siddharth Anand",
+   "genres": [
+    "thriller film",
+    "spy film"
+   ]
+  },
+  {
+   "id": "guy-ritchie-s-the-covenant",
+   "title": "Guy Ritchie's The Covenant",
+   "released": "2023-04-21",
+   "langs": 26,
+   "score": 83,
+   "runtime": 123,
+   "director": "Guy Ritchie",
+   "genres": [
+    "thriller film",
+    "war film"
+   ]
+  },
+  {
+   "id": "the-apprentice",
+   "title": "The Apprentice",
+   "released": "2024-05-20",
+   "langs": 31,
+   "score": 83,
+   "runtime": 120,
+   "director": "Ali Abbasi",
+   "genres": [
+    "biographical film"
+   ]
+  },
+  {
+   "id": "drop",
+   "title": "Drop",
+   "released": "2025-03-09",
+   "langs": 22,
+   "score": 83,
+   "runtime": 95,
+   "director": "Christopher Landon",
+   "genres": [
+    "thriller film",
+    "mystery film"
+   ]
+  },
+  {
+   "id": "superman",
+   "title": "Superman",
+   "released": "2025-07-09",
+   "langs": 53,
+   "score": 83,
+   "runtime": 129,
+   "director": "James Gunn",
+   "genres": [
+    "superhero film",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "abigail",
+   "title": "Abigail",
+   "released": "2024-04-07",
+   "langs": 28,
+   "score": 83,
+   "runtime": null,
+   "director": "Matt Bettinelli-Olpin",
+   "genres": [
+    "speculative fiction film",
+    "vampire film"
+   ]
+  },
+  {
+   "id": "remarkably-bright-creatures",
+   "title": "Remarkably Bright Creatures",
+   "released": "2026-05-08",
+   "langs": 15,
+   "score": 83,
+   "runtime": 111,
+   "director": "Olivia Newman",
+   "genres": [
+    "mystery film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "tetris",
+   "title": "Tetris",
+   "released": "2023-03-15",
+   "langs": 24,
+   "score": 82,
+   "runtime": 118,
+   "director": "Jon S. Baird",
+   "genres": [
+    "thriller film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "wonka",
+   "title": "Wonka",
+   "released": "2023-12-13",
+   "langs": 42,
+   "score": 82,
+   "runtime": 116,
+   "director": "Paul King",
+   "genres": [
+    "speculative fiction film",
+    "musical film"
+   ]
+  },
+  {
+   "id": "the-fall-guy",
+   "title": "The Fall Guy",
+   "released": "2024-03-12",
+   "langs": 33,
+   "score": 82,
+   "runtime": 126,
+   "director": "David Leitch",
+   "genres": [
+    "action film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "the-animal-kingdom",
+   "title": "The Animal Kingdom",
+   "released": "2023-05-17",
+   "langs": 15,
+   "score": 82,
+   "runtime": 127,
+   "director": "Thomas Cailley",
+   "genres": [
+    "speculative fiction film",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "a-complete-unknown",
+   "title": "A Complete Unknown",
+   "released": "2024-12-25",
+   "langs": 37,
+   "score": 82,
+   "runtime": 141,
+   "director": "James Mangold",
+   "genres": [
+    "musical film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "coup-de-chance",
+   "title": "Coup de chance",
+   "released": "2023-09-04",
+   "langs": 17,
+   "score": 82,
+   "runtime": 96,
+   "director": "Woody Allen",
+   "genres": [
+    "comedy thriller",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "el-conde",
+   "title": "El Conde",
+   "released": "2023-01-01",
+   "langs": 16,
+   "score": 82,
+   "runtime": 110,
+   "director": "Pablo Larraín",
+   "genres": [
+    "vampire film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "guardians-of-the-galaxy-vol-3",
+   "title": "Guardians of the Galaxy Vol. 3",
+   "released": "2023-04-22",
+   "langs": 56,
+   "score": 82,
+   "runtime": 150,
+   "director": "James Gunn",
+   "genres": [
+    "speculative fiction film",
+    "superhero film"
+   ]
+  },
+  {
+   "id": "father-mother-sister-brother",
+   "title": "Father Mother Sister Brother",
+   "released": "2025-08-31",
+   "langs": 22,
+   "score": 82,
+   "runtime": 110,
+   "director": "Jim Jarmusch",
+   "genres": [
+    "comedy drama",
+    "anthology film"
+   ]
+  },
+  {
+   "id": "f1",
+   "title": "F1",
+   "released": "2025-01-01",
+   "langs": 45,
+   "score": 82,
+   "runtime": 155,
+   "director": "Joseph Kosinski",
+   "genres": [
+    "sport film",
+    "action film"
+   ]
+  },
+  {
+   "id": "civil-war",
+   "title": "Civil War",
+   "released": "2024-03-14",
+   "langs": 34,
+   "score": 81,
+   "runtime": 109,
+   "director": "Alex Garland",
+   "genres": [
+    "dystopian film",
+    "action film"
+   ]
+  },
+  {
+   "id": "the-wandering-earth-2",
+   "title": "The Wandering Earth 2",
+   "released": "2023-01-22",
+   "langs": 16,
+   "score": 81,
+   "runtime": 173,
+   "director": "Frant Gwo",
+   "genres": [
+    "action-adventure film",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "winnie-the-pooh-blood-and-honey-2",
+   "title": "Winnie-the-Pooh: Blood and Honey 2",
+   "released": "2024-03-18",
+   "langs": 20,
+   "score": 81,
+   "runtime": 95,
+   "director": "Rhys Frake-Waterfield",
+   "genres": [
+    "slasher film"
+   ]
+  },
+  {
+   "id": "the-idea-of-you",
+   "title": "The Idea of You",
+   "released": "2024-03-16",
+   "langs": 22,
+   "score": 81,
+   "runtime": 115,
+   "director": "Michael Showalter",
+   "genres": [
+    "romantic comedy film"
+   ]
+  },
+  {
+   "id": "the-color-purple",
+   "title": "The Color Purple",
+   "released": "2023-12-25",
+   "langs": 24,
+   "score": 81,
+   "runtime": 141,
+   "director": "Blitz the Ambassador",
+   "genres": [
+    "coming-of-age film",
+    "historical film"
+   ]
+  },
+  {
+   "id": "the-room-next-door",
+   "title": "The Room Next Door",
+   "released": "2024-09-02",
+   "langs": 28,
+   "score": 81,
+   "runtime": 107,
+   "director": "Pedro Almodóvar",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "novocaine",
+   "title": "Novocaine",
+   "released": "2025-03-12",
+   "langs": 24,
+   "score": 81,
+   "runtime": 110,
+   "director": "Dan Berk",
+   "genres": [
+    "action thriller",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "blitz",
+   "title": "Blitz",
+   "released": "2024-10-09",
+   "langs": 17,
+   "score": 81,
+   "runtime": 114,
+   "director": "Steve McQueen",
+   "genres": [
+    "historical drama film"
+   ]
+  },
+  {
+   "id": "saw-x",
+   "title": "Saw X",
+   "released": "2023-09-28",
+   "langs": 33,
+   "score": 80,
+   "runtime": 118,
+   "director": "Kevin Greutert",
+   "genres": [
+    "mystery film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "the-bikeriders",
+   "title": "The Bikeriders",
+   "released": "2023-08-31",
+   "langs": 21,
+   "score": 80,
+   "runtime": 116,
+   "director": "Jeff Nichols",
+   "genres": [
+    "outlaw biker film",
+    "crime film"
+   ]
+  },
+  {
+   "id": "extraction-2",
+   "title": "Extraction 2",
+   "released": "2023-06-13",
+   "langs": 25,
+   "score": 80,
+   "runtime": 122,
+   "director": "Sam Hargrave",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "kingdom-of-the-planet-of-the-apes",
+   "title": "Kingdom of the Planet of the Apes",
+   "released": "2024-05-08",
+   "langs": 42,
+   "score": 80,
+   "runtime": 145,
+   "director": "Wes Ball",
+   "genres": [
+    "science fiction action film",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "wicked-little-letters",
+   "title": "Wicked Little Letters",
+   "released": "2023-01-01",
+   "langs": 17,
+   "score": 80,
+   "runtime": 102,
+   "director": "Thea Sharrock",
+   "genres": [
+    "comedy film"
+   ]
+  },
+  {
+   "id": "heart-eyes",
+   "title": "Heart Eyes",
+   "released": "2025-02-07",
+   "langs": 17,
+   "score": 80,
+   "runtime": 97,
+   "director": "Josh Ruben",
+   "genres": [
+    "comedy horror film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "the-life-of-chuck",
+   "title": "The Life of Chuck",
+   "released": "2024-09-06",
+   "langs": 25,
+   "score": 80,
+   "runtime": 111,
+   "director": "Mike Flanagan",
+   "genres": [
+    "science fiction film",
+    "fantasy film"
+   ]
+  },
+  {
+   "id": "mission-impossible-the-final-reckoning",
+   "title": "Mission: Impossible – The Final Reckoning",
+   "released": "2025-05-06",
+   "langs": 47,
+   "score": 80,
+   "runtime": 169,
+   "director": "Christopher McQuarrie",
+   "genres": [
+    "spy film",
+    "action film"
+   ]
+  },
+  {
+   "id": "infiesto",
+   "title": "Infiesto",
+   "released": "2023-02-03",
+   "langs": 26,
+   "score": 80,
+   "runtime": 96,
+   "director": "Patxi Amezcúa",
+   "genres": [
+    "thriller film",
+    "crime film"
+   ]
+  },
+  {
+   "id": "alien-romulus",
+   "title": "Alien: Romulus",
+   "released": "2024-08-15",
+   "langs": 41,
+   "score": 80,
+   "runtime": 119,
+   "director": "Fede Álvarez",
+   "genres": [
+    "science fiction action film",
+    "teen horror film"
+   ]
+  },
+  {
+   "id": "cuckoo",
+   "title": "Cuckoo",
+   "released": "2024-02-16",
+   "langs": 19,
+   "score": 79,
+   "runtime": 102,
+   "director": "Tilman Singer",
+   "genres": [
+    "mystery film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "we-live-in-time",
+   "title": "We Live in Time",
+   "released": "2024-10-18",
+   "langs": 21,
+   "score": 79,
+   "runtime": 107,
+   "director": "John Crowley",
+   "genres": [
+    "romance film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "last-breath",
+   "title": "Last Breath",
+   "released": "2025-02-28",
+   "langs": 19,
+   "score": 79,
+   "runtime": 93,
+   "director": "Alex Parkinson",
+   "genres": [
+    "survival film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "deadpool-wolverine",
+   "title": "Deadpool & Wolverine",
+   "released": "2024-07-24",
+   "langs": 53,
+   "score": 78,
+   "runtime": 128,
+   "director": "Shawn Levy",
+   "genres": [
+    "black comedy film",
+    "superhero film"
+   ]
+  },
+  {
+   "id": "maestro",
+   "title": "Maestro",
+   "released": "2023-09-02",
+   "langs": 33,
+   "score": 78,
+   "runtime": 129,
+   "director": "Bradley Cooper",
+   "genres": [
+    "LGBTQ-related film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "blue-beetle",
+   "title": "Blue Beetle",
+   "released": "2023-08-16",
+   "langs": 41,
+   "score": 78,
+   "runtime": 127,
+   "director": "Angel Manuel Soto",
+   "genres": [
+    "superhero film",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "arcadian",
+   "title": "Arcadian",
+   "released": "2024-03-11",
+   "langs": 18,
+   "score": 78,
+   "runtime": 92,
+   "director": "Ben Brewer",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "saturday-night",
+   "title": "Saturday Night",
+   "released": "2024-10-04",
+   "langs": 21,
+   "score": 78,
+   "runtime": 109,
+   "director": "Jason Reitman",
+   "genres": [
+    "biographical film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "materialists",
+   "title": "Materialists",
+   "released": "2025-06-13",
+   "langs": 27,
+   "score": 78,
+   "runtime": 116,
+   "director": "Celine Song",
+   "genres": [
+    "romantic comedy film"
+   ]
+  },
+  {
+   "id": "steve",
+   "title": "Steve",
+   "released": "2025-09-05",
+   "langs": 16,
+   "score": 78,
+   "runtime": 91,
+   "director": "Tim Mielants",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "plane",
+   "title": "Plane",
+   "released": "2023-01-13",
+   "langs": 28,
+   "score": 78,
+   "runtime": 107,
+   "director": "Jean-François Richet",
+   "genres": [
+    "action thriller",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "how-to-train-your-dragon",
+   "title": "How to Train Your Dragon",
+   "released": "2025-06-11",
+   "langs": 41,
+   "score": 78,
+   "runtime": 125,
+   "director": "Dean DeBlois",
+   "genres": [
+    "sword and sorcery film",
+    "teen film"
+   ]
+  },
+  {
+   "id": "the-return",
+   "title": "The Return",
+   "released": "2024-09-07",
+   "langs": 15,
+   "score": 78,
+   "runtime": null,
+   "director": "Uberto Pasolini",
+   "genres": [
+    "historical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "good-fortune",
+   "title": "Good Fortune",
+   "released": "2025-09-06",
+   "langs": 15,
+   "score": 78,
+   "runtime": 97,
+   "director": "Aziz Ansari",
+   "genres": [
+    "comedy film"
+   ]
+  },
+  {
+   "id": "terrifier-3",
+   "title": "Terrifier 3",
+   "released": "2024-10-11",
+   "langs": 25,
+   "score": 78,
+   "runtime": 125,
+   "director": "Damien Leone",
+   "genres": [
+    "splatter film",
+    "slasher film"
+   ]
+  },
+  {
+   "id": "kalki-2898-ad",
+   "title": "Kalki 2898 AD",
+   "released": "2024-06-27",
+   "langs": 21,
+   "score": 77,
+   "runtime": 181,
+   "director": "Nag Ashwin",
+   "genres": [
+    "dystopian film",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "queer",
+   "title": "Queer",
+   "released": "2024-09-03",
+   "langs": 25,
+   "score": 77,
+   "runtime": 135,
+   "director": "Luca Guadagnino",
+   "genres": [
+    "LGBTQ-related film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "last-summer",
+   "title": "Last Summer",
+   "released": "2023-05-25",
+   "langs": 16,
+   "score": 77,
+   "runtime": 104,
+   "director": "Catherine Breillat",
+   "genres": [
+    "thriller film",
+    "erotic film"
+   ]
+  },
+  {
+   "id": "mavka-the-forest-song",
+   "title": "Mavka: The Forest Song",
+   "released": "2023-03-02",
+   "langs": 24,
+   "score": 77,
+   "runtime": 99,
+   "director": "Oleh Malamuzh",
+   "genres": [
+    "speculative fiction film",
+    "family film"
+   ]
+  },
+  {
+   "id": "the-thursday-murder-club",
+   "title": "The Thursday Murder Club",
+   "released": "2025-08-28",
+   "langs": 21,
+   "score": 77,
+   "runtime": 118,
+   "director": "Chris Columbus",
+   "genres": [
+    "thriller film",
+    "mystery film"
+   ]
+  },
+  {
+   "id": "nobody-2",
+   "title": "Nobody 2",
+   "released": "2025-01-01",
+   "langs": 26,
+   "score": 77,
+   "runtime": 89,
+   "director": "Timo Tjahjanto",
+   "genres": [
+    "black comedy film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "the-phoenician-scheme",
+   "title": "The Phoenician Scheme",
+   "released": "2025-04-30",
+   "langs": 25,
+   "score": 77,
+   "runtime": 105,
+   "director": "Wes Anderson",
+   "genres": [
+    "black comedy film",
+    "spy film"
+   ]
+  },
+  {
+   "id": "the-monkey",
+   "title": "The Monkey",
+   "released": "2025-02-19",
+   "langs": 28,
+   "score": 77,
+   "runtime": 98,
+   "director": "Oz Perkins",
+   "genres": [
+    "supernatural horror film"
+   ]
+  },
+  {
+   "id": "jay-kelly",
+   "title": "Jay Kelly",
+   "released": "2025-08-28",
+   "langs": 28,
+   "score": 77,
+   "runtime": 132,
+   "director": "Noah Baumbach",
+   "genres": [
+    "coming-of-age film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "kiss-of-the-spider-woman",
+   "title": "Kiss of the Spider Woman",
+   "released": "2025-01-26",
+   "langs": 17,
+   "score": 77,
+   "runtime": null,
+   "director": "Bill Condon",
+   "genres": [
+    "musical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "eternity",
+   "title": "Eternity",
+   "released": "2025-09-07",
+   "langs": 22,
+   "score": 77,
+   "runtime": 114,
+   "director": "David Freyne",
+   "genres": [
+    "romantic comedy film",
+    "LGBTQ-related film"
+   ]
+  },
+  {
+   "id": "song-sung-blue",
+   "title": "Song Sung Blue",
+   "released": "2025-10-26",
+   "langs": 20,
+   "score": 77,
+   "runtime": null,
+   "director": "Craig Brewer",
+   "genres": [
+    "musical drama",
+    "musical film"
+   ]
+  },
+  {
+   "id": "mickey-17",
+   "title": "Mickey 17",
+   "released": "2025-02-15",
+   "langs": 39,
+   "score": 77,
+   "runtime": 137,
+   "director": "Bong Joon-ho",
+   "genres": [
+    "science fiction film",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "the-drama",
+   "title": "The Drama",
+   "released": "2026-03-17",
+   "langs": 29,
+   "score": 77,
+   "runtime": 105,
+   "director": "Kristoffer Borgli",
+   "genres": [
+    "romantic comedy film",
+    "romance film"
+   ]
+  },
+  {
+   "id": "scream-vi",
+   "title": "Scream VI",
+   "released": "2023-03-08",
+   "langs": 40,
+   "score": 76,
+   "runtime": 118,
+   "director": "Matt Bettinelli-Olpin",
+   "genres": [
+    "comedy horror film",
+    "slasher film"
+   ]
+  },
+  {
+   "id": "beetlejuice-beetlejuice",
+   "title": "Beetlejuice Beetlejuice",
+   "released": "2024-08-28",
+   "langs": 40,
+   "score": 76,
+   "runtime": 104,
+   "director": "Tim Burton",
+   "genres": [
+    "comedy horror",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "red-white-royal-blue",
+   "title": "Red, White & Royal Blue",
+   "released": "2023-08-11",
+   "langs": 33,
+   "score": 76,
+   "runtime": 112,
+   "director": "Matthew López",
+   "genres": [
+    "romance film",
+    "comedy film"
+   ]
+  },
+  {
+   "id": "caddo-lake",
+   "title": "Caddo Lake",
+   "released": "2024-10-10",
+   "langs": 16,
+   "score": 76,
+   "runtime": 99,
+   "director": "Logan George",
+   "genres": [
+    "thriller film",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "a-haunting-in-venice",
+   "title": "A Haunting in Venice",
+   "released": "2023-09-13",
+   "langs": 34,
+   "score": 76,
+   "runtime": 103,
+   "director": "Kenneth Branagh",
+   "genres": [
+    "detective film",
+    "neo-noir"
+   ]
+  },
+  {
+   "id": "the-equalizer-3",
+   "title": "The Equalizer 3",
+   "released": "2023-08-31",
+   "langs": 31,
+   "score": 76,
+   "runtime": 109,
+   "director": "Antoine Fuqua",
+   "genres": [
+    "vigilante film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "babygirl",
+   "title": "Babygirl",
+   "released": "2024-08-30",
+   "langs": 27,
+   "score": 76,
+   "runtime": 114,
+   "director": "Halina Reijn",
+   "genres": [
+    "psychological thriller film",
+    "psychological drama film"
+   ]
+  },
+  {
+   "id": "maria",
+   "title": "Maria",
+   "released": "2024-08-29",
+   "langs": 25,
+   "score": 76,
+   "runtime": 124,
+   "director": "Pablo Larraín",
+   "genres": [
+    "psychological drama film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "blink-twice",
+   "title": "Blink Twice",
+   "released": "2024-08-21",
+   "langs": 21,
+   "score": 75,
+   "runtime": 102,
+   "director": "Zoë Kravitz",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "asteroid-city",
+   "title": "Asteroid City",
+   "released": "2023-05-23",
+   "langs": 40,
+   "score": 75,
+   "runtime": 105,
+   "director": "Wes Anderson",
+   "genres": [
+    "romance film",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "white-bird-a-wonder-story",
+   "title": "White Bird: A Wonder Story",
+   "released": "2023-07-30",
+   "langs": 18,
+   "score": 75,
+   "runtime": 120,
+   "director": "Marc Forster",
+   "genres": [
+    "coming-of-age film",
+    "war film"
+   ]
+  },
+  {
+   "id": "the-accountant-2",
+   "title": "The Accountant 2",
+   "released": "2025-03-08",
+   "langs": 28,
+   "score": 75,
+   "runtime": 132,
+   "director": "Gavin O'Connor",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "the-legend-of-ochi",
+   "title": "The Legend of Ochi",
+   "released": "2025-01-26",
+   "langs": 16,
+   "score": 75,
+   "runtime": 96,
+   "director": "Isaiah Saxon",
+   "genres": [
+    "adventure film",
+    "fantasy film"
+   ]
+  },
+  {
+   "id": "the-shrouds",
+   "title": "The Shrouds",
+   "released": "2024-05-20",
+   "langs": 16,
+   "score": 75,
+   "runtime": 120,
+   "director": "David Cronenberg",
+   "genres": [
+    "suspense film",
+    "science fiction horror film"
+   ]
+  },
+  {
+   "id": "dracula-a-love-tale",
+   "title": "Dracula: A Love Tale",
+   "released": "2025-07-30",
+   "langs": 26,
+   "score": 75,
+   "runtime": 129,
+   "director": "Luc Besson",
+   "genres": [
+    "speculative fiction film",
+    "vampire film"
+   ]
+  },
+  {
+   "id": "ballerina",
+   "title": "Ballerina",
+   "released": "2025-06-05",
+   "langs": 40,
+   "score": 75,
+   "runtime": 125,
+   "director": "Len Wiseman",
+   "genres": [
+    "action thriller",
+    "neo-noir"
+   ]
+  },
+  {
+   "id": "a-house-of-dynamite",
+   "title": "A House of Dynamite",
+   "released": "2025-09-02",
+   "langs": 26,
+   "score": 75,
+   "runtime": 112,
+   "director": "Kathryn Bigelow",
+   "genres": [
+    "thriller film"
+   ]
+  },
+  {
+   "id": "twisters",
+   "title": "Twisters",
+   "released": "2024-07-11",
+   "langs": 31,
+   "score": 75,
+   "runtime": 122,
+   "director": "Lee Isaac Chung",
+   "genres": [
+    "disaster film"
+   ]
+  },
+  {
+   "id": "love-at-first-sight",
+   "title": "Love at First Sight",
+   "released": "2023-09-15",
+   "langs": 19,
+   "score": 74,
+   "runtime": 91,
+   "director": "Vanessa Caswill",
+   "genres": [
+    "romantic comedy film"
+   ]
+  },
+  {
+   "id": "armand",
+   "title": "Armand",
+   "released": "2024-01-01",
+   "langs": 18,
+   "score": 74,
+   "runtime": 117,
+   "director": "Halfdan Ullman Tøndel",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "freakier-friday",
+   "title": "Freakier Friday",
+   "released": "2025-08-07",
+   "langs": 27,
+   "score": 74,
+   "runtime": null,
+   "director": "Nisha Ganatra",
+   "genres": [
+    "comedy film",
+    "fantasy film"
+   ]
+  },
+  {
+   "id": "die-my-love",
+   "title": "Die My Love",
+   "released": "2025-05-17",
+   "langs": 25,
+   "score": 74,
+   "runtime": 118,
+   "director": "Lynne Ramsay",
+   "genres": [
+    "domestic thriller"
+   ]
+  },
+  {
+   "id": "leave-the-world-behind",
+   "title": "Leave the World Behind",
+   "released": "2023-12-08",
+   "langs": 27,
+   "score": 73,
+   "runtime": 138,
+   "director": "Sam Esmail",
+   "genres": [
+    "psychological thriller film",
+    "post-apocalyptic film"
+   ]
+  },
+  {
+   "id": "the-housemaid",
+   "title": "The Housemaid",
+   "released": "2025-12-19",
+   "langs": 30,
+   "score": 73,
+   "runtime": 131,
+   "director": "Paul Feig",
+   "genres": [
+    "thriller film"
+   ]
+  },
+  {
+   "id": "ferrari",
+   "title": "Ferrari",
+   "released": "2023-01-01",
+   "langs": 26,
+   "score": 73,
+   "runtime": 130,
+   "director": "Michael Mann",
+   "genres": [
+    "biographical film",
+    "drama film"
+   ]
+  },
+  {
+   "id": "paw-patrol-the-mighty-movie",
+   "title": "PAW Patrol: The Mighty Movie",
+   "released": "2023-09-28",
+   "langs": 26,
+   "score": 72,
+   "runtime": 88,
+   "director": "Cal Brunker",
+   "genres": [
+    "family film",
+    "adventure film"
+   ]
+  },
+  {
+   "id": "maxxxine",
+   "title": "MaXXXine",
+   "released": "2024-07-05",
+   "langs": 26,
+   "score": 72,
+   "runtime": 103,
+   "director": "Ti West",
+   "genres": [
+    "slasher film",
+    "horror film"
+   ]
+  },
+  {
+   "id": "lilo-stitch",
+   "title": "Lilo & Stitch",
+   "released": "2025-05-21",
+   "langs": 39,
+   "score": 72,
+   "runtime": 108,
+   "director": "Dean Fleischer Camp",
+   "genres": [
+    "comedy drama",
+    "science fiction film"
+   ]
+  },
+  {
+   "id": "nuremberg",
+   "title": "Nuremberg",
+   "released": "2025-09-07",
+   "langs": 27,
+   "score": 72,
+   "runtime": 148,
+   "director": "James Vanderbilt",
+   "genres": [
+    "drama film"
+   ]
+  },
+  {
+   "id": "black-phone-2",
+   "title": "Black Phone 2",
+   "released": "2025-10-16",
+   "langs": 27,
+   "score": 72,
+   "runtime": 114,
+   "director": "Scott Derrickson",
+   "genres": [
+    "supernatural horror film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "immaculate",
+   "title": "Immaculate",
+   "released": "2024-03-12",
+   "langs": 28,
+   "score": 72,
+   "runtime": 89,
+   "director": "Michael Mohan",
+   "genres": [
+    "psychological horror film",
+    "horror film"
+   ]
+  },
+  {
+   "id": "saltburn",
+   "title": "Saltburn",
+   "released": "2023-11-17",
+   "langs": 30,
+   "score": 71,
+   "runtime": 131,
+   "director": "Emerald Fennell",
+   "genres": [
+    "black comedy film",
+    "thriller film"
+   ]
+  },
+  {
+   "id": "kinds-of-kindness",
+   "title": "Kinds of Kindness",
+   "released": "2024-05-17",
+   "langs": 33,
+   "score": 71,
+   "runtime": 165,
+   "director": "Yorgos Lanthimos",
+   "genres": [
+    "black comedy film",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "emilia-p-rez",
+   "title": "Emilia Pérez",
+   "released": "2024-05-18",
+   "langs": 42,
+   "score": 71,
+   "runtime": 132,
+   "director": "Jacques Audiard",
+   "genres": [
+    "LGBTQ-related film",
+    "crime film"
+   ]
+  },
+  {
+   "id": "the-beekeeper",
+   "title": "The Beekeeper",
+   "released": "2024-01-11",
+   "langs": 39,
+   "score": 71,
+   "runtime": 105,
+   "director": "David Ayer",
+   "genres": [
+    "thriller film",
+    "action film"
+   ]
+  },
+  {
+   "id": "gladiator-ii",
+   "title": "Gladiator II",
+   "released": "2024-11-13",
+   "langs": 52,
+   "score": 70,
+   "runtime": 148,
+   "director": "Ridley Scott",
+   "genres": [
+    "historical film",
+    "sword-and-sandal film"
+   ]
+  },
+  {
+   "id": "no-hard-feelings",
+   "title": "No Hard Feelings",
+   "released": "2023-06-21",
+   "langs": 34,
+   "score": 70,
+   "runtime": 90,
+   "director": null,
+   "genres": [
+    "romantic comedy",
+    "comedy drama"
+   ]
+  },
+  {
+   "id": "indiana-jones-and-the-dial-of-destiny",
+   "title": "Indiana Jones and the Dial of Destiny",
+   "released": "2023-05-18",
+   "langs": 52,
+   "score": 70,
+   "runtime": 154,
+   "director": "James Mangold",
+   "genres": [
+    "adventure film",
+    "action film"
+   ]
+  },
+  {
+   "id": "the-smashing-machine",
+   "title": "The Smashing Machine",
+   "released": "2025-09-01",
+   "langs": 23,
+   "score": 70,
+   "runtime": 123,
+   "director": "Benny Safdie",
+   "genres": [
+    "sport film",
+    "biographical film"
+   ]
+  },
+  {
+   "id": "ezra",
+   "title": "Ezra",
+   "released": "2023-09-09",
+   "langs": 16,
+   "score": 70,
+   "runtime": 100,
+   "director": "Tony Goldwyn",
+   "genres": [
+    "comedy drama"
+   ]
+  }
+ ]
+}

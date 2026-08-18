@@ -8,7 +8,8 @@ up yourself on whatever service you already use.
 
 - **Spec:** [curator-spec.md](curator-spec.md)
 - **App:** `curator/` — Expo SDK 54 (React Native), runs on iPhone and Android
-- **Pool builders:** `tools/build_pool.py` (albums), `tools/build_books_pool.py` (books)
+- **Pool builders:** `tools/build_pool.py` (albums), `tools/build_books_pool.py` (books),
+  `tools/build_films_pool.py` (films)
 
 ---
 
@@ -50,7 +51,11 @@ python3 tools/build_pool.py --days 60 --min-fans 5000
 ```
 
 ```bash
-python3 tools/build_books_pool.py --min-want 1
+python3 tools/build_books_pool.py
+```
+
+```bash
+python3 tools/build_films_pool.py
 ```
 
 ### How the album pool is built

@@ -13,6 +13,7 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 import albums from './assets/pool.json';
 import books from './assets/books.json';
+import films from './assets/films.json';
 import Mark from './src/Mark';
 import Splash from './src/Splash';
 import { pickForToday, recentPicks } from './src/pick';
@@ -28,14 +29,19 @@ const theme = {
 // Distinct seeds so the album and the book of the day move independently.
 const MUSIC_SEED = 0x5eed1e;
 const BOOKS_SEED = 0xb00c5;
+const FILMS_SEED = 0xf11c5;
 
 const LOOK_BACK_DAYS = 7;
 
 /** Pool and seed for a category, kept in one place. */
+const SOURCES = {
+  music: { items: albums.items, seed: MUSIC_SEED },
+  books: { items: books.items, seed: BOOKS_SEED },
+  films: { items: films.items, seed: FILMS_SEED },
+};
+
 function sourceFor(kind) {
-  return kind === 'music'
-    ? { items: albums.items, seed: MUSIC_SEED }
-    : { items: books.items, seed: BOOKS_SEED };
+  return SOURCES[kind];
 }
 
 export default function App() {
@@ -98,6 +104,11 @@ function Home({ onOpen }) {
             hint="A new book"
             onPress={() => onOpen('books')}
           />
+          <Choice
+            label="What to watch"
+            hint="A well-reviewed film"
+            onPress={() => onOpen('films')}
+          />
         </View>
       </View>
 
@@ -137,6 +148,24 @@ function toTip(kind, item, eyebrow) {
         formatDate(item.released),
         item.genres?.length ? item.genres.join(' · ') : null,
         item.tracks ? `${item.tracks} tracks` : null,
+      ],
+    };
+  }
+  if (kind === 'films') {
+    return {
+      eyebrow: eyebrow ?? "Today's film",
+      // No poster. Film posters are copyrighted, so the free sources hold
+      // red-carpet and awards photography instead -- only 3 of 66 films had
+      // anything poster-like. The critics' score stands in as the visual: it is
+      // the one thing this category has that music and books do not.
+      score: item.score,
+      aspect: 3 / 2,
+      title: item.title,
+      subtitle: item.director || '',
+      facts: [
+        item.released ? item.released.slice(0, 4) : null,
+        item.genres?.length ? item.genres.join(' \u00b7 ') : null,
+        item.runtime ? `${item.runtime} min` : null,
       ],
     };
   }
@@ -252,7 +281,16 @@ function Card({ tip, footnote }) {
 
   return (
     <View style={styles.card}>
-      {tip.cover ? (
+      {tip.score != null ? (
+        <View
+          style={[styles.cover, styles.scorePanel, { aspectRatio: tip.aspect }]}
+          accessibilityRole="image"
+          accessibilityLabel={`${tip.score} percent on the critics' score`}
+        >
+          <Text style={styles.scoreValue}>{tip.score}%</Text>
+          <Text style={styles.scoreLabel}>critics</Text>
+        </View>
+      ) : tip.cover ? (
         <Image
           source={{ uri: tip.cover }}
           style={[styles.cover, { aspectRatio: tip.aspect }]}
@@ -340,6 +378,27 @@ const styles = StyleSheet.create({
     marginBottom: 32,
   },
   coverFallback: { borderWidth: 1, borderColor: theme.rule },
+
+  scorePanel: {
+    backgroundColor: '#FFFFFF',
+    borderWidth: 1,
+    borderColor: theme.rule,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  scoreValue: {
+    fontSize: 76,
+    fontWeight: '600',
+    letterSpacing: -3,
+    color: theme.accent,
+  },
+  scoreLabel: {
+    marginTop: 6,
+    fontSize: 12,
+    letterSpacing: 2,
+    textTransform: 'uppercase',
+    color: theme.muted,
+  },
 
   eyebrow: {
     fontSize: 12,

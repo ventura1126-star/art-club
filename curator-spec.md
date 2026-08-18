@@ -41,6 +41,7 @@ Two buttons, stacked:
 
 - **What to listen to** — a new album *(built)*
 - **What to read** — a new book *(built)*
+- **What to watch** — a well-reviewed film *(built)*
 
 ### 2. Result
 Today's single pick:
@@ -191,6 +192,27 @@ Result: 114 books, 5 authors at most twice, years evenly weighted.
 - The NYT Books API remains the only real upgrade for editorial taste, and it needs a
   free key. Deliberately not taken — the app stays key-free.
 
+### Film — working, shipped, **no API key needed**
+- **Wikidata** — everything: title, director, first release date, genre, runtime,
+  Rotten Tomatoes critics score, and notability.
+
+**This is the only category with a real critical verdict.** Music and books had to
+settle for popularity; Wikidata records review scores as structured data, so here the
+app can say the critics liked it and mean it.
+
+Three problems found by measuring, each one invisible until checked:
+
+| Problem | Fix |
+|---|---|
+| *Gladiator* (2000), *Interstellar* (2014) and *City of God* (2002) appeared as recent films — Wikidata records 4K **re-release** dates as publication dates | A subquery takes each film's **first ever** release, and the recency filter applies to that |
+| A 100%-rated Malayalam film nobody here has heard of is not orientation | Gate on **Wikipedia language count ≥ 15** — the same "is this actually known" test as artist followers and author back-catalogues |
+| Asking for scores, notability and details in one query timed the endpoint out every time (500s, 504s) | **Two queries**: core first, then details for the survivors only |
+
+**No poster is shown, on purpose.** Film posters are copyrighted, so free sources hold
+red-carpet and awards photography instead — only **3 of 66** films had anything
+poster-like, and one tip screen showed a photo of a film crew at the Goya Awards. The
+critics' score is rendered large as the visual instead. Honest, and it looks deliberate.
+
 ### ⚠️ Not Spotify
 As of Feb 2026 Spotify removed its new-releases endpoint for new apps and restricted
 developer access. Do not build on it.
@@ -223,9 +245,11 @@ generous whitespace. Reference: **DailyArt** — borrow its calm one-per-day fee
    Pool: **30 albums** over a 60-day window, artists above 50k followers.
 4. ✅ Add the books button — Open Library, **no API keys after all**.
    Pool: **114 books** across five years, balanced by year and author.
-5. ⬜ **Use it daily on your own phone for two weeks.** Fix what annoys you.
-6. ⬜ Automate the weekly pool refresh (GitHub Action) so it never goes stale.
-7. ⬜ Then consider a standalone install (EAS Build) so it runs without the Mac.
+5. ✅ Add the films button — Wikidata, no API key.
+   Pool: **289 films** from the last three years, critics ≥ 70%, known in ≥ 15 languages.
+6. ⬜ **Use it daily on your own phone for two weeks.** Fix what annoys you.
+7. ⬜ Automate the weekly pool refresh (GitHub Action) so it never goes stale.
+8. ⬜ Then consider a standalone install (EAS Build) so it runs without the Mac.
 
 Note: the app runs on **Expo SDK 54**, not the latest. Richard's iPhone is on an older
 iOS, so the App Store gives him an Expo Go capped at SDK 54. The device sets the
