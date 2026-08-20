@@ -53,10 +53,14 @@ Today's single pick:
 That is the whole screen. The same pick stays fixed all day; a new one arrives at
 local midnight.
 
-### 3. The past week
-Below today's tip sits one quiet outlined button, **"The past week"**. It opens the
-previous seven days' tips as full cards, scrolled vertically — same cover, same facts,
-with the weekday ("Yesterday", "Monday") in place of "Today's album".
+### 3. Your collection
+Below today's tip sits one quiet outlined button, **"Your collection"**. It opens the
+last **30 days** as a grid of cover thumbnails, three across, each with its date — a
+calendar you have filled in rather than a list you have to read. Tapping one opens that
+day's full tip, with the day ("Yesterday", "Saturday", "3 August") in place of
+"Today's album".
+
+The grid is the point: it turns a daily habit into something that visibly accumulates.
 
 **No history is stored.** A pick is a pure function of its calendar day, so looking
 back just means asking the same question about an earlier date. Yesterday's tip is
@@ -65,6 +69,9 @@ new data.
 
 This does not break the one-a-day rule: it shows what *was*, never a second pick for
 today.
+
+⚠️ A pool smaller than 30 would repeat inside the collection. Music sits at exactly 30,
+so tightening `--min-fans` further would start showing duplicates in the grid.
 
 **Deliberately not included:**
 - ❌ No "listen" / "buy" link — *"Člověk si to pak najde sám, podle toho, co používá."*

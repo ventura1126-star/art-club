@@ -31,7 +31,8 @@ const MUSIC_SEED = 0x5eed1e;
 const BOOKS_SEED = 0xb00c5;
 const FILMS_SEED = 0xf11c5;
 
-const LOOK_BACK_DAYS = 7;
+const LOOK_BACK_DAYS = 30;
+const GALLERY_COLUMNS = 3;
 
 /** Pool and seed for a category, kept in one place. */
 const SOURCES = {
@@ -66,10 +67,17 @@ export default function App() {
         <StatusBar barStyle="dark-content" backgroundColor={theme.paper} />
         {route === 'home' ? (
           <Home onOpen={(kind) => setRoute({ kind })} />
+        ) : route.daysBack != null ? (
+          <Tip
+            kind={route.kind}
+            daysBack={route.daysBack}
+            onBack={() => setRoute({ kind: route.kind, past: true })}
+          />
         ) : route.past ? (
-          <PastWeek
+          <Gallery
             kind={route.kind}
             onBack={() => setRoute({ kind: route.kind })}
+            onPick={(daysBack) => setRoute({ kind: route.kind, daysBack })}
           />
         ) : (
           <Tip
@@ -189,13 +197,15 @@ function toTip(kind, item, eyebrow) {
   };
 }
 
-function Tip({ kind, onBack, onOpenPast }) {
+function Tip({ kind, daysBack, onBack, onOpenPast }) {
   // Recomputed only when the calendar day changes, so the pick is stable all day.
   const today = new Date().toDateString();
+  const past = daysBack != null;
   const tip = useMemo(() => {
     const { items, seed } = sourceFor(kind);
-    return toTip(kind, pickForToday(items, new Date(), seed));
-  }, [kind, today]);
+    const when = past ? dayOffset(new Date(), daysBack) : new Date();
+    return toTip(kind, pickForToday(items, when, seed), past ? dayLabel(when) : undefined);
+  }, [kind, daysBack, past, today]);
 
   return (
     <ScrollView
@@ -203,33 +213,46 @@ function Tip({ kind, onBack, onOpenPast }) {
       contentContainerStyle={styles.tip}
       showsVerticalScrollIndicator={false}
     >
-      <BackLink label="← Art Club" onPress={onBack} />
+      <BackLink label={past ? '← Collection' : '← Art Club'} onPress={onBack} />
 
-      {tip ? <Card tip={tip} footnote="Back tomorrow for the next one." /> : <Empty />}
+      {tip ? (
+        <Card tip={tip} footnote={past ? null : 'Back tomorrow for the next one.'} />
+      ) : (
+        <Empty />
+      )}
 
-      {tip && (
+      {tip && !past && (
         <Pressable
           onPress={onOpenPast}
           accessibilityRole="button"
-          accessibilityLabel="See the past week"
+          accessibilityLabel="See your collection"
           hitSlop={12}
           style={({ pressed }) => [styles.pastLink, pressed && styles.pastLinkPressed]}
         >
-          <Text style={styles.pastLinkText}>The past week</Text>
+          <Text style={styles.pastLinkText}>Your collection</Text>
         </Pressable>
       )}
     </ScrollView>
   );
 }
 
-function PastWeek({ kind, onBack }) {
+/**
+ * The collection: a month of past tips as a grid of covers.
+ *
+ * Nothing is stored to build this. A pick is a pure function of its calendar
+ * day, so the past is recomputed rather than remembered -- which is why a month
+ * of history costs no storage and no network.
+ */
+function Gallery({ kind, onBack, onPick }) {
   const today = new Date().toDateString();
   const entries = useMemo(() => {
     const { items, seed } = sourceFor(kind);
     return recentPicks(items, new Date(), seed, LOOK_BACK_DAYS)
-      .map(({ date, item }) => ({
+      .map(({ date, item }, i) => ({
         key: date.toDateString(),
-        tip: toTip(kind, item, dayLabel(date)),
+        daysBack: i + 1,
+        day: date.getDate(),
+        tip: toTip(kind, item),
       }))
       .filter((e) => e.tip);
   }, [kind, today]);
@@ -245,12 +268,39 @@ function PastWeek({ kind, onBack }) {
       {entries.length === 0 ? (
         <Empty />
       ) : (
-        entries.map((entry, i) => (
-          <View key={entry.key}>
-            {i > 0 && <View style={styles.entryGap} />}
-            <Card tip={entry.tip} />
+        <>
+          <Text style={styles.galleryTitle}>Your collection</Text>
+          <Text style={styles.gallerySubtitle}>The last 30 days. Tap to open one.</Text>
+
+          <View style={styles.grid}>
+            {entries.map((e) => (
+              <Pressable
+                key={e.key}
+                onPress={() => onPick(e.daysBack)}
+                accessibilityRole="button"
+                accessibilityLabel={`${e.tip.title}, open`}
+                style={({ pressed }) => [styles.cell, pressed && styles.cellPressed]}
+              >
+                {e.tip.cover ? (
+                  <Image
+                    source={{ uri: e.tip.cover }}
+                    style={[styles.thumb, { aspectRatio: e.tip.aspect }]}
+                    resizeMode="cover"
+                    accessibilityIgnoresInvertColors
+                  />
+                ) : (
+                  <View style={[styles.thumb, styles.thumbFallback,
+                                { aspectRatio: e.tip.aspect }]}>
+                    <Text style={styles.thumbScore}>
+                      {e.tip.score != null ? `${e.tip.score}%` : '—'}
+                    </Text>
+                  </View>
+                )}
+                <Text style={styles.cellDay}>{e.day}</Text>
+              </Pressable>
+            ))}
           </View>
-        ))
+        </>
       )}
     </ScrollView>
   );
@@ -270,14 +320,20 @@ function BackLink({ label, onPress }) {
   );
 }
 
-/** "Yesterday", then weekday names — unambiguous inside a seven-day window. */
+/** The same calendar date, n days earlier. */
+function dayOffset(date, n) {
+  return new Date(date.getFullYear(), date.getMonth(), date.getDate() - n);
+}
+
+/** "Yesterday", then the date — weekday names repeat across a month. */
 function dayLabel(date) {
   const startOfDay = (d) => new Date(d.getFullYear(), d.getMonth(), d.getDate());
   const daysBack = Math.round(
     (startOfDay(new Date()) - startOfDay(date)) / 86400000
   );
   if (daysBack === 1) return 'Yesterday';
-  return date.toLocaleDateString('en-GB', { weekday: 'long' });
+  if (daysBack < 7) return date.toLocaleDateString('en-GB', { weekday: 'long' });
+  return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long' });
 }
 
 function Card({ tip, footnote }) {
@@ -442,10 +498,30 @@ const styles = StyleSheet.create({
   pastLinkPressed: { backgroundColor: '#F3EEE7' },
   pastLinkText: { fontSize: 14, color: theme.muted, letterSpacing: 0.2 },
 
-  entryGap: {
-    height: 1,
-    backgroundColor: theme.rule,
-    marginTop: 40,
-    marginBottom: 40,
+  galleryTitle: {
+    marginTop: 8,
+    fontSize: 30,
+    fontWeight: '600',
+    letterSpacing: -0.6,
+    color: theme.ink,
   },
+  gallerySubtitle: { marginTop: 8, marginBottom: 26, fontSize: 15, color: theme.muted },
+
+  grid: { flexDirection: 'row', flexWrap: 'wrap', marginHorizontal: -5 },
+  cell: { width: `${100 / GALLERY_COLUMNS}%`, paddingHorizontal: 5, marginBottom: 18 },
+  cellPressed: { opacity: 0.6 },
+  thumb: {
+    width: '100%',
+    borderRadius: 8,
+    backgroundColor: theme.rule,
+  },
+  thumbFallback: {
+    borderWidth: 1,
+    borderColor: theme.rule,
+    backgroundColor: '#FFFFFF',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  thumbScore: { fontSize: 18, fontWeight: '600', color: theme.accent },
+  cellDay: { marginTop: 6, fontSize: 11, color: theme.muted, textAlign: 'center' },
 });
