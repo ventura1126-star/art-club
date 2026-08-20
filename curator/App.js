@@ -247,11 +247,17 @@ function Gallery({ kind, onBack, onPick }) {
   const today = new Date().toDateString();
   const entries = useMemo(() => {
     const { items, seed } = sourceFor(kind);
-    return recentPicks(items, new Date(), seed, LOOK_BACK_DAYS)
+    // The pick cycles with the length of the pool, so looking back as far as the
+    // pool is deep wraps right around onto today's tip. Stopping one short of a
+    // full turn keeps every tile distinct from today and from each other.
+    const days = Math.min(LOOK_BACK_DAYS, Math.max(items.length - 1, 0));
+    return recentPicks(items, new Date(), seed, days)
       .map(({ date, item }, i) => ({
         key: date.toDateString(),
         daysBack: i + 1,
-        day: date.getDate(),
+        // Bare day numbers repeat across a month boundary -- a tile reading "21"
+        // in late August is in fact 21 July, which is thoroughly confusing.
+        day: date.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' }),
         tip: toTip(kind, item),
       }))
       .filter((e) => e.tip);
@@ -270,7 +276,9 @@ function Gallery({ kind, onBack, onPick }) {
       ) : (
         <>
           <Text style={styles.galleryTitle}>Your collection</Text>
-          <Text style={styles.gallerySubtitle}>The last 30 days. Tap to open one.</Text>
+          <Text style={styles.gallerySubtitle}>
+            {`The last ${entries.length} days. Tap to open one.`}
+          </Text>
 
           <View style={styles.grid}>
             {entries.map((e) => (

@@ -70,8 +70,17 @@ new data.
 This does not break the one-a-day rule: it shows what *was*, never a second pick for
 today.
 
-⚠️ A pool smaller than 30 would repeat inside the collection. Music sits at exactly 30,
-so tightening `--min-fans` further would start showing duplicates in the grid.
+**Two bugs the grid exposed, both fixed:**
+
+- The pick cycles with the length of the pool, so with 30 albums and a 30-day
+  look-back the oldest tile wrapped right around onto **today's** pick — Adam Lambert
+  appeared as both today and 21 July. The window is now capped at one day short of a
+  full turn (`min(30, pool − 1)`), so nothing ever repeats.
+- Tiles were labelled with a bare day number, so "21" in late August was really
+  21 July. They now read **"21 Jul"**.
+
+The subtitle counts the real number of days shown, which is why music says 29 and the
+other two say 30.
 
 **Deliberately not included:**
 - ❌ No "listen" / "buy" link — *"Člověk si to pak najde sám, podle toho, co používá."*
