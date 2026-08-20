@@ -20,6 +20,7 @@ ACCENT = (180, 96, 58, 255)
 CLEAR = (0, 0, 0, 0)
 
 OUT_DIR = os.path.join(os.path.dirname(__file__), "..", "curator", "assets")
+WEB_DIR = os.path.join(os.path.dirname(__file__), "..", "curator", "public")
 
 
 def rounded_box_sdf(x, y, cx, cy, hx, hy, r):
@@ -123,6 +124,15 @@ def write_png(path, size, rows):
         os.path.basename(path), size, size, len(png) / 1024))
 
 
+# Home-screen icons for the web build. iOS ignores the favicon when you "Add to
+# Home Screen" and draws a letter instead unless an apple-touch-icon is present,
+# and it does not respect transparency -- hence the solid paper background.
+WEB_TARGETS = [
+    ("apple-touch-icon.png", 180, PAPER, 0.66),
+    ("icon-192.png", 192, PAPER, 0.66),
+    ("icon-512.png", 512, PAPER, 0.66),
+]
+
 TARGETS = [
     # name, size, background, how much of the canvas the mark fills
     ("icon.png", 512, PAPER, 0.70),
@@ -137,4 +147,10 @@ if __name__ == "__main__":
     print("Rendering the Art Club mark into %s\n" % out)
     for name, size, bg, inset in TARGETS:
         write_png(os.path.join(out, name), size, render(size, bg, inset))
+
+    web = os.path.abspath(WEB_DIR)
+    os.makedirs(web, exist_ok=True)
+    print("\nHome-screen icons -> %s\n" % web)
+    for name, size, bg, inset in WEB_TARGETS:
+        write_png(os.path.join(web, name), size, render(size, bg, inset))
     print("\nDone.")

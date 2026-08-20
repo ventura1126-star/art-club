@@ -17,7 +17,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "test": "node src/pick.test.mjs"
+    "test": "node src/pick.test.mjs",
+    "build:web": "expo export --platform web --output-dir ../docs && node ../tools/finish_web.mjs ../docs"
   },
   "private": true
 }

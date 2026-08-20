@@ -272,6 +272,17 @@ Books' terms, but fine for a music-only app), or simply keeping it free as a per
 
 ---
 
+## Added to the home screen
+
+The published site carries an `apple-touch-icon`, a web manifest and
+`apple-mobile-web-app-*` tags, so "Add to Home Screen" gives the Art Club mark and opens
+without Safari's chrome. iOS ignores the favicon for this and draws a bare letter
+instead — which is exactly what it did until these were added.
+
+Expo emits the `<head>` itself with no hook for extra tags, so `tools/finish_web.mjs`
+injects them after the export. Run the build with `npm run build:web`, never the raw
+`expo export`, or the tags go missing.
+
 ## Look & feel
 
 Minimal, calm, uncluttered. Warm paper background, one accent colour, system font,

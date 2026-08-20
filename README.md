@@ -28,6 +28,22 @@ terminal. Your phone and Mac need to be on the same Wi-Fi.
 cd curator && npm run ios
 ```
 
+## Rebuilding the published site
+
+```bash
+cd curator && npm run build:web
+```
+
+That exports to `docs/`, injects the home-screen metadata Expo does not emit, and
+writes `.nojekyll`. Then commit and push — GitHub Actions republishes on its own.
+
+### Why the post-processing step
+
+Expo generates the `<head>` and offers no hook for adding tags. Without an
+`apple-touch-icon`, iOS draws a letter instead of the mark when you "Add to Home
+Screen" — it ignores the favicon entirely. Files in `curator/public/` are copied into
+the export as-is, which is where the icons and the manifest live.
+
 ## Tests
 
 ```bash
